@@ -10,4 +10,4 @@ Colaboradores:
     Barea Silvana
     Juchniewicz Federico
 
-    Link Trello: https://trello.com/w/proyectogrupo22pp1
+Link Trello: https://trello.com/w/proyectogrupo22pp1
