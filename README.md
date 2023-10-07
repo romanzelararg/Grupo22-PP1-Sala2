@@ -1,5 +1,5 @@
 # TSCDIA 2023 - PRACTICA PROFESIONALIZANTE I - Sala2 -Grupo22
-
+** # Predicción de Conectividad y Población en Argentina **
 Desarrollar un sistema de aprendizaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades en Argentina, identificar patrones significativos y correlaciones entre estas variables, y presentar los resultados de manera comprensible
 
 Colaboradores:
