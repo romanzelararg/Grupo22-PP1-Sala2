@@ -12,13 +12,29 @@ Colaboradores:
     Barea Silvana
     Juchniewicz Federico
 
-# Descripcion:
-Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la poblacion de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
+# Descripción :
+Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
 
 
 # Enlace de Demostración:
 
 # Tabla de Contenidos:
+
+_Analisis Exploratorio de Datos:
+   _Cambios Extructurales.
+   _Confeccion de encoding.
+   _Transformación de los Datos a binarios.
+   _Creación columna concatenada Provincia-Partido-Localidad.
+   _Eliminación de datos repetidos.
+   _Analisis descriptivo del Dataset.
+   _Analisis y transformación de las variables Provincia-Partido-Población.
+_Merge con distintas tablas de interes.
+   _Merge 1 (Accesos a internet fijo por tecnologia y localidad).
+   _Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
+   _Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
+   _Merge 4 (Salarios promedio y mediano por provincia)
+_Limpieza del dataframe resultande del merge 4
+_Exploración Correlacionales y Regresión Logistica
 
 # Comprensión Empresarial:
 
@@ -33,11 +49,11 @@ Objetivos Específicos:
 •	Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
 •	Presentar los resultados de manera comprensible para los usuarios.
 
-# Comprension de Datos:
+# Comprensión de Datos:
 Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones) 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
-https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ Se realizo la concatenacion de los dataset para la obtencion de mayor cantidad de datos.
-Confeccionamos un tablero Trello, utilizando esta herramienta de gestion de Proyectos, con el fin de obtener organizacion , colaboracion, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.
+https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos.
+Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.
 Link Trello: https://trello.com/w/proyectogrupo22pp1 
 
 # Marco Conceptual.
