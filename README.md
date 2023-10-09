@@ -12,7 +12,7 @@ Colaboradores:
     Barea Silvana
     Juchniewicz Federico
 
-#Descripcion: Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la poblacion de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
+# Descripcion: Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la poblacion de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
 
 
 # Enlace de Demostración:
