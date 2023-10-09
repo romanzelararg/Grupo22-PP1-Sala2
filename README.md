@@ -12,7 +12,8 @@ Colaboradores:
     Barea Silvana
     Juchniewicz Federico
 
-# Descripcion: Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la poblacion de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
+# Descripcion:
+Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la poblacion de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
 
 
 # Enlace de Demostración:
@@ -33,9 +34,11 @@ Objetivos Específicos:
 •	Presentar los resultados de manera comprensible para los usuarios.
 
 # Comprension de Datos:
-El dataset utilizado corresponde a la pagina de ENACOM (Ente Nacional de Comunicaciones) 
+Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones) 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
-Confeccionamos un Proyecto Trello Link Trello: https://trello.com/w/proyectogrupo22pp1
+https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ Se realizo la concatenacion de los dataset para la obtencion de mayor cantidad de datos.
+Confeccionamos un tablero Trello, utilizando esta herramienta de gestion de Proyectos, con el fin de obtener organizacion , colaboracion, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.
+Link Trello: https://trello.com/w/proyectogrupo22pp1 
 
 # Marco Conceptual.
 El marco conceptual de este proyecto se basa en las siguientes áreas:
