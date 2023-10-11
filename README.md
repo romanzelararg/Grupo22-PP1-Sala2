@@ -68,7 +68,7 @@ Objetivos Específicos:
  - [x] Presentar los resultados de manera comprensible para los usuarios.
 
 # Comprensión de Datos:
-1- _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
+1. _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
 
     - _Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos._ 
