@@ -4,7 +4,7 @@
 
 # Titulo del Proyecto: _Predicción de Conectividad y Población en Argentina_ :technologist:
 
-_Colaboradores:_ 
+_Colaboradores:_  
  
 :woman_technologist: [Barea silvana](https://github.com/recursosssbb) 
     
