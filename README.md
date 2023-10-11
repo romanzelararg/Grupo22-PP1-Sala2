@@ -20,7 +20,7 @@ Colaboradores:
 
 # Tabla de Contenidos:
 
-**_Analisis Exploratorio de Datos:**
+**Analisis Exploratorio de Datos:**
 
    + Cambios Extructurales.
    
@@ -54,8 +54,10 @@ Colaboradores:
 
 Problemas y  oportunidades detectados.
 La conectividad a internet es un factor clave para el desarrollo económico y social de una localidad. Sin embargo, la conectividad a internet no está distribuida de manera uniforme en Argentina. Algunas localidades tienen una conectividad a internet muy alta, mientras que otras tienen una conectividad a internet muy baja.
+
 Este proyecto tiene como objetivo contribuir a mejorar la conectividad a internet en Argentina. El sistema de aprendizaje automático desarrollado en este proyecto podría ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.
-Objetivo General:
+
+_Objetivo General:_
 Desarrollar un sistema de aprendizaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades en Argentina, identificar patrones significativos y correlaciones entre estas variables, y presentar los resultados de manera comprensible.
 Objetivos Específicos:
 
