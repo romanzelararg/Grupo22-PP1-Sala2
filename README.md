@@ -15,7 +15,7 @@ _Colaboradores:_
 :man_technologist: [Kanneman Samuel](https://github.com/samuelkanneman) 
     
 :woman_technologist: [Lucero Carla](https://github.com/CarlaLucerocd)
-    
+     
 :man_technologist: [Mansilla Leonardo Matias](https://github.com/LMmansilla)
      
 :man_technologist: [Zelarayán Román](https://github.com/romanzelararg)
