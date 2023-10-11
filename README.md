@@ -6,7 +6,7 @@ _Colaboradores:_
  
     [Barea silvana](https://github.com/recursosssbb)
     
-    [Hanun Romina](https://github.com/RomiHanun)
+    [Hanún Romina](https://github.com/RomiHanun)
     
     [Juchniewicz Federico](https://github.com/FJISPC)
     
