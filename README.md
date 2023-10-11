@@ -20,12 +20,12 @@ _Colaboradores:_
      
 :man_technologist: [Zelarayán Román](https://github.com/romanzelararg)
 
-# Descripción : :globe_with_meridians:
+## Descripción : :globe_with_meridians:
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
 
-# Enlace de Demostración:
+## Enlace de Demostración:
 
-# Tabla de Contenidos:
+## Tabla de Contenidos:
 
 **Analisis Exploratorio de Datos:** :mechanical_arm:
 
@@ -57,7 +57,7 @@ _Colaboradores:_
    
    + Exploración Correlacionales y Regresión Logistica
 
-# Comprensión Empresarial: :bar_chart:
+## Comprensión Empresarial: :bar_chart:
 
 Problemas y  oportunidades detectados.
 La conectividad a internet es un factor clave para el desarrollo económico y social de una localidad. Sin embargo, la conectividad a internet no está distribuida de manera uniforme en Argentina. Algunas localidades tienen una conectividad a internet muy alta, mientras que otras tienen una conectividad a internet muy baja.
@@ -77,7 +77,7 @@ _Objetivos Específicos:_
 
  - [x] Presentar los resultados de manera comprensible para los usuarios.
 
-# Comprensión de Datos: :card_index_dividers:
+## Comprensión de Datos: :card_index_dividers:
 1. _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
 
@@ -86,7 +86,7 @@ https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por
 
     - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.Link Trello:_ https://trello.com/w/proyectogrupo22pp1 
 
-# Marco Conceptual.
+## Marco Conceptual.
 _El marco conceptual de este proyecto se basa en las siguientes áreas:_
 *	Aprendizaje automático: El aprendizaje automático es un campo de la inteligencia artificial que se centra en desarrollar algoritmos que pueden aprender de los datos sin ser explícitamente programados.
   
@@ -98,7 +98,7 @@ _El marco conceptual de este proyecto se basa en las siguientes áreas:_
 
 *	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
 
-# Metodologia: :clipboard:
+## Metodologia: :clipboard:
 _La metodología que se utilizará en este proyecto se basa en los siguientes pasos:_
 
 1.	Obtención de los datos: Los datos se obtendrán del dataset "Conectividad al servicio de Internet (Argentina)" publicado por el Ente Nacional de Comunicaciones (ENACOM).
@@ -111,7 +111,7 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
    
 5.	Presentación de los resultados: Los resultados del modelo se presentarán de manera comprensible para los usuarios.
    
-# Highlights:
+## Highlights:
 :pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de predecir la conectividad a internet de una localidad con un alto grado de precisión.
 
 :pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de clasificar las localidades en función de su conectividad a internet.
@@ -120,29 +120,31 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 
 :pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
 
-# Captura de Pantalla de Visualiaciones/Resultados:
+## Captura de Pantalla de Visualiaciones/Resultados:
 
-# Tecnologias:
+## Tecnologias:
 
-# Configuración:
+## Configuración:
 
-# Estado
+## Estado
 En Proceso. :construction_worker:
 
-# Limitaciones:
+## Limitaciones:
 > [!IMPORTANT]
 > Una limitación del sistema de aprendizaje automático desarrollado en este proyecto es que depende de la calidad de los datos utilizados para entrenarlo. Si los datos están sesgados o incompletos, el sistema puede generar resultados imprecisos.
 
 > [!IMPORTANT]
 > Otra limitación del sistema es que es un modelo general. Esto significa que no está diseñado para una aplicación específica. Para utilizar el sistema para una aplicación específica, es necesario ajustar los parámetros del modelo.
 
-# Oportunidades de mejora:
+## Oportunidades de mejora:
 Para mejorar el sistema de aprendizaje automático desarrollado en este proyecto, se recomienda utilizar un conjunto de datos más grande y diverso. Esto ayudará a mejorar la precisión del sistema.
 
 También se recomienda desarrollar modelos específicos para aplicaciones específicas. Esto ayudará a mejorar el rendimiento del sistema en estas aplicaciones.
 
 
-# Conclusion:
+## Conclusion:
 ***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
+
+# CONSIGNAS GENERALES DEL PROYECTO
 
 
