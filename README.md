@@ -123,7 +123,7 @@ En Proceso.
 # Limitaciones:
 > [!IMPORTANT]
 > Una limitación del sistema de aprendizaje automático desarrollado en este proyecto es que depende de la calidad de los datos utilizados para entrenarlo. Si los datos están sesgados o incompletos, el sistema puede generar resultados imprecisos.
-> 
+
 > [!IMPORTANT]
 > Otra limitación del sistema es que es un modelo general. Esto significa que no está diseñado para una aplicación específica. Para utilizar el sistema para una aplicación específica, es necesario ajustar los parámetros del modelo.
 
