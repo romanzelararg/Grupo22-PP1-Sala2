@@ -66,16 +66,24 @@ El marco conceptual de este proyecto se basa en las siguientes áreas:
 
 # Metodologia:
 La metodología que se utilizará en este proyecto se basa en los siguientes pasos:
+
 1.	Obtención de los datos: Los datos se obtendrán del dataset "Conectividad al servicio de Internet (Argentina)" publicado por el Ente Nacional de Comunicaciones (ENACOM).
+   
 2.	Preparación de los datos: Los datos se prepararán para el análisis de aprendizaje automático. Esto incluye la eliminación de valores atípicos, la codificación de las variables categóricas, y la normalización de los datos.
+
 3.	Entrenamiento del modelo: El modelo de aprendizaje automático se entrenará utilizando los datos preparados.
+
 4.	Evaluación del modelo: El modelo se evaluará utilizando un conjunto de datos de prueba.
+   
 5.	Presentación de los resultados: Los resultados del modelo se presentarán de manera comprensible para los usuarios.
    
 # Highlights:
 •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de predecir la conectividad a internet de una localidad con un alto grado de precisión.
+
 •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de clasificar las localidades en función de su conectividad a internet.
+
 •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
+
 •	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
 
 # Captura de Pantalla de Visualiaciones/Resultados:
