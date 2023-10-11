@@ -145,6 +145,7 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 ## Conclusion:
 ***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
 
-# CONSIGNAS GENERALES DEL PROYECTO
+# CONSIGNAS GENERALES DEL PROYECTO :memo:
+:pencil:
 
 
