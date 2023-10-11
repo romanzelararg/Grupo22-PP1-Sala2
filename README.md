@@ -13,14 +13,14 @@ Colaboradores:
     Juchniewicz Federico
 
 # Descripción :
-Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.
+***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
 
 
 # Enlace de Demostración:
 
 # Tabla de Contenidos:
 
-_Analisis Exploratorio de Datos:
+**_Analisis Exploratorio de Datos:**
 
    + Cambios Extructurales.
    
