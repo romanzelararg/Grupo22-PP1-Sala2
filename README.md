@@ -59,13 +59,13 @@ Objetivo General:
 Desarrollar un sistema de aprendizaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades en Argentina, identificar patrones significativos y correlaciones entre estas variables, y presentar los resultados de manera comprensible.
 Objetivos Específicos:
 
- [x] Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
+ - [x] Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
 
- [x] Clasificar las localidades en función de su conectividad a internet.
+ - [x] Clasificar las localidades en función de su conectividad a internet.
 
- [ ] Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
+ - [ ] Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
 
- [x] Presentar los resultados de manera comprensible para los usuarios.
+ - [x] Presentar los resultados de manera comprensible para los usuarios.
 
 # Comprensión de Datos:
 _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
