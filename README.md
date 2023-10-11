@@ -57,7 +57,7 @@ _Colaboradores:_
    
    + Exploración Correlacionales y Regresión Logistica
 
-# Comprensión Empresarial:
+# Comprensión Empresarial: :bar_chart:
 
 Problemas y  oportunidades detectados.
 La conectividad a internet es un factor clave para el desarrollo económico y social de una localidad. Sin embargo, la conectividad a internet no está distribuida de manera uniforme en Argentina. Algunas localidades tienen una conectividad a internet muy alta, mientras que otras tienen una conectividad a internet muy baja.
