@@ -79,11 +79,15 @@ _Link Trello:_ https://trello.com/w/proyectogrupo22pp1
 
 # Marco Conceptual.
 El marco conceptual de este proyecto se basa en las siguientes áreas:
-•	Aprendizaje automático: El aprendizaje automático es un campo de la inteligencia artificial que se centra en desarrollar algoritmos que pueden aprender de los datos sin ser explícitamente programados.
-•	Predicción: La predicción es el proceso de estimar el valor futuro de una variable en función de sus valores pasados.
-•	Clasificación: La clasificación es el proceso de asignar una etiqueta a un objeto en función de sus características.
-•	Análisis de agrupamiento: El análisis de agrupamiento es el proceso de agrupar objetos similares.
-•	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
+*	Aprendizaje automático: El aprendizaje automático es un campo de la inteligencia artificial que se centra en desarrollar algoritmos que pueden aprender de los datos sin ser explícitamente programados.
+  
+*	Predicción: La predicción es el proceso de estimar el valor futuro de una variable en función de sus valores pasados.
+  
+*	Clasificación: La clasificación es el proceso de asignar una etiqueta a un objeto en función de sus características.
+
+*	Análisis de agrupamiento: El análisis de agrupamiento es el proceso de agrupar objetos similares.
+
+*	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
 
 # Metodologia:
 La metodología que se utilizará en este proyecto se basa en los siguientes pasos:
