@@ -1,6 +1,6 @@
 # TSCDIA 2023 
-# PRACTICA PROFESIONALIZANTE I S
-## Sala2 -Grupo22
+# PRACTICA PROFESIONALIZANTE - ISPC
+## Sala 2 -Grupo 22
 
 # Titulo del Proyecto: Predicción de Conectividad y Población en Argentina.
 
