@@ -211,9 +211,9 @@ El conjunto de datos contiene información relacionada con diferentes provincias
   
 * Longitud: Coordenada de longitud.
 
-**Objetivo:**
+### **Objetivo:**
 
-Algunos posibles objetivos podrían ser:
+Algunos posibles objetivos podrían ser
 
 - [ ] Predecir la cantidad de conexiones de un tipo específico en 2022 en función de otras variables.
 
