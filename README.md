@@ -77,7 +77,7 @@ _Objetivos Específicos:_
 
  - [x] Presentar los resultados de manera comprensible para los usuarios.
 
-# Comprensión de Datos:
+# Comprensión de Datos: :card_index_dividers:
 1. _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
 
@@ -98,7 +98,7 @@ _El marco conceptual de este proyecto se basa en las siguientes áreas:_
 
 *	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
 
-# Metodologia:
+# Metodologia: :clipboard:
 _La metodología que se utilizará en este proyecto se basa en los siguientes pasos:_
 
 1.	Obtención de los datos: Los datos se obtendrán del dataset "Conectividad al servicio de Internet (Argentina)" publicado por el Ente Nacional de Comunicaciones (ENACOM).
@@ -112,13 +112,13 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 5.	Presentación de los resultados: Los resultados del modelo se presentarán de manera comprensible para los usuarios.
    
 # Highlights:
-•	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de predecir la conectividad a internet de una localidad con un alto grado de precisión.
+:pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de predecir la conectividad a internet de una localidad con un alto grado de precisión.
 
-•	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de clasificar las localidades en función de su conectividad a internet.
+:pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de clasificar las localidades en función de su conectividad a internet.
 
-•	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
+:pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto es capaz de identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
 
-•	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
+:pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
 
 # Captura de Pantalla de Visualiaciones/Resultados:
 
@@ -127,7 +127,7 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 # Configuración:
 
 # Estado
-En Proceso.
+En Proceso. :construction_worker:
 
 # Limitaciones:
 > [!IMPORTANT]
