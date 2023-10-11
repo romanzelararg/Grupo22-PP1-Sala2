@@ -58,15 +58,22 @@ Este proyecto tiene como objetivo contribuir a mejorar la conectividad a interne
 Objetivo General:
 Desarrollar un sistema de aprendizaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades en Argentina, identificar patrones significativos y correlaciones entre estas variables, y presentar los resultados de manera comprensible.
 Objetivos Específicos:
+
 •	Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
+
 •	Clasificar las localidades en función de su conectividad a internet.
+
 •	Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
+
 •	Presentar los resultados de manera comprensible para los usuarios.
 
 # Comprensión de Datos:
 Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones) 
+
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
+
 https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos.
+
 Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.
 Link Trello: https://trello.com/w/proyectogrupo22pp1 
 
