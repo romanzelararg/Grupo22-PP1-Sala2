@@ -3,7 +3,7 @@
 # Titulo del Proyecto: Predicción de Conectividad y Población en Argentina.
 
 _Colaboradores:_
-
+ 
     [Barea silvana](https://github.com/recursosssbb)
     
     [Hanun Romina](https://github.com/RomiHanun)
