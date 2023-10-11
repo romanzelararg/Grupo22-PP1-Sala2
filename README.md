@@ -2,15 +2,15 @@
 
 # Titulo del Proyecto: Predicción de Conectividad y Población en Argentina.
 
-Colaboradores:
+_Colaboradores:_
 
-    Hanun Romina
-    Kanneman Samuel
-    Zelarayán Román
-    Mansilla Leonardo Matias
-    Lucero Carla
     Barea Silvana
+    Hanun Romina
     Juchniewicz Federico
+    Kanneman Samuel
+    Lucero Carla
+    Mansilla Leonardo Matias
+    Zelarayán Román
 
 # Descripción :
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
