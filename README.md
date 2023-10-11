@@ -59,7 +59,8 @@ Este proyecto tiene como objetivo contribuir a mejorar la conectividad a interne
 
 _Objetivo General:_
 Desarrollar un sistema de aprendizaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades en Argentina, identificar patrones significativos y correlaciones entre estas variables, y presentar los resultados de manera comprensible.
-Objetivos Específicos:
+
+_Objetivos Específicos:_
 
  - [x] Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
 
