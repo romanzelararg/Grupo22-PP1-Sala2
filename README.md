@@ -213,7 +213,7 @@ El conjunto de datos contiene información relacionada con diferentes provincias
 
 **Objetivo:**
 
-El objetivo puede variar según el interés específico del análisis. Algunos posibles objetivos podrían ser:
+Algunos posibles objetivos podrían ser:
 
 - [ ] Predecir la cantidad de conexiones de un tipo específico en 2022 en función de otras variables.
 
