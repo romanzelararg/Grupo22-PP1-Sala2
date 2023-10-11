@@ -27,7 +27,7 @@ _Colaboradores:_
 
 # Tabla de Contenidos:
 
-**Analisis Exploratorio de Datos:**
+**Analisis Exploratorio de Datos:** :mechanical_arm:
 
    + Cambios Extructurales.
    
