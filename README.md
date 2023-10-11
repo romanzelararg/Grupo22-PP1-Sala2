@@ -22,33 +22,33 @@ Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automati
 
 _Analisis Exploratorio de Datos:
 
-   _Cambios Extructurales.
+   + Cambios Extructurales.
    
-   _Confeccion de encoding.
+   + Confeccion de encoding.
    
-   _Transformación de los Datos a binarios.
+   + Transformación de los Datos a binarios.
    
-   _Creación columna concatenada Provincia-Partido-Localidad.
+   + Creación columna concatenada Provincia-Partido-Localidad.
    
-   _Eliminación de datos repetidos.
+   + Eliminación de datos repetidos.
    
-   _Analisis descriptivo del Dataset.
+   + Analisis descriptivo del Dataset.
    
-   _Analisis y transformación de las variables Provincia-Partido-Población.
+   + Analisis y transformación de las variables Provincia-Partido-Población.
    
-   _Merge con distintas tablas de interes.
+   + Merge con distintas tablas de interes.
    
-   _Merge 1 (Accesos a internet fijo por tecnologia y localidad).
+   + Merge 1 (Accesos a internet fijo por tecnologia y localidad).
    
-   _Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
+   + Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
    
-   _Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
+   + Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
    
-   _Merge 4 (Salarios promedio y mediano por provincia)
+   + Merge 4 (Salarios promedio y mediano por provincia)
 
-   _Limpieza del dataframe resultande del merge 4
+   + Limpieza del dataframe resultande del merge 4
    
-   _Exploración Correlacionales y Regresión Logistica
+   + Exploración Correlacionales y Regresión Logistica
 
 # Comprensión Empresarial:
 
