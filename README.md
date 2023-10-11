@@ -148,8 +148,8 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 # CONSIGNAS GENERALES DEL PROYECTO :memo:
 
 ## * Definir tipo de proyecto y objetivo
-De acuerdo a esto evaluar entornos de desarrollo
-El conjunto de datos proporcionado contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
+
+El conjunto de datos contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
 
 * Year: Año de los datos.
   
