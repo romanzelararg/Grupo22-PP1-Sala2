@@ -2,7 +2,7 @@
 # PRACTICA PROFESIONALIZANTE - ISPC
 ## Sala 2 -Grupo 22
 
-# Titulo del Proyecto: Predicción de Conectividad y Población en Argentina.
+# Titulo del Proyecto: _Predicción de Conectividad y Población en Argentina_
 
 _Colaboradores:_ 
  
