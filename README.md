@@ -8,7 +8,7 @@ _Colaboradores:_
     
     - [Hanun Romina](https://github.com/RomiHanun) 
     
-    Juchniewicz Federico
+    - [Juchniewicz Federico](https://github.com/FJISPC) 
     
     - [Kanneman Samuel](https://github.com/samuelkanneman)
     
