@@ -148,7 +148,7 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 # CONSIGNAS GENERALES DEL PROYECTO :memo:
 
 ## * Definir tipo de proyecto y objetivo
-   - De acuerdo a esto evaluar entornos de desarrollo
+De acuerdo a esto evaluar entornos de desarrollo
 El conjunto de datos proporcionado contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
 
 * Year: Año de los datos.
@@ -211,22 +211,22 @@ El conjunto de datos proporcionado contiene información relacionada con diferen
   
 * Longitud: Coordenada de longitud.
 
-* Carga de datos
-* Fase de análisis exploratorio de datos
+## Carga de datos
+## Fase de análisis exploratorio de datos
    - Análisis sobre los datos
    - Tratamiento de los datos anómalos
-* Inspección gráfica de los estadísticos
+## Inspección gráfica de los estadísticos
    - Observar de manera gráfica si se aprecia relación entre "y" y las "X"
    - Análisis de datos atípicos.
    - Distribución de probabilidad de las muestras.
-* Definir modelos a entrenar. 
+## Definir modelos a entrenar. 
    - Al finalizar el ciclo, evaluar el costo computacional (poner un timer).
-* Calcular métricas
+## Calcular métricas
    - Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
-* Evaluar modelos
+## Evaluar modelos
    - Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,
 varianza y error irreductible)
-* Conclusión y futuro plan de acción para iniciar otro ciclo
+## Conclusión y futuro plan de acción para iniciar otro ciclo
    - Evaluar hiper parámetros y estrategias de entrenamiento.
 
 
