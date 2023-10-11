@@ -78,7 +78,7 @@ _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Pr
 _Link Trello:_ https://trello.com/w/proyectogrupo22pp1 
 
 # Marco Conceptual.
-El marco conceptual de este proyecto se basa en las siguientes áreas:
+_El marco conceptual de este proyecto se basa en las siguientes áreas:_
 *	Aprendizaje automático: El aprendizaje automático es un campo de la inteligencia artificial que se centra en desarrollar algoritmos que pueden aprender de los datos sin ser explícitamente programados.
   
 *	Predicción: La predicción es el proceso de estimar el valor futuro de una variable en función de sus valores pasados.
@@ -90,7 +90,7 @@ El marco conceptual de este proyecto se basa en las siguientes áreas:
 *	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
 
 # Metodologia:
-La metodología que se utilizará en este proyecto se basa en los siguientes pasos:
+_La metodología que se utilizará en este proyecto se basa en los siguientes pasos:_
 
 1.	Obtención de los datos: Los datos se obtendrán del dataset "Conectividad al servicio de Internet (Argentina)" publicado por el Ente Nacional de Comunicaciones (ENACOM).
    
@@ -121,8 +121,11 @@ La metodología que se utilizará en este proyecto se basa en los siguientes pas
 En Proceso.
 
 # Limitaciones:
-Una limitación del sistema de aprendizaje automático desarrollado en este proyecto es que depende de la calidad de los datos utilizados para entrenarlo. Si los datos están sesgados o incompletos, el sistema puede generar resultados imprecisos.
-Otra limitación del sistema es que es un modelo general. Esto significa que no está diseñado para una aplicación específica. Para utilizar el sistema para una aplicación específica, es necesario ajustar los parámetros del modelo.
+> [!IMPORTANT]
+> Una limitación del sistema de aprendizaje automático desarrollado en este proyecto es que depende de la calidad de los datos utilizados para entrenarlo. Si los datos están sesgados o incompletos, el sistema puede generar resultados imprecisos.
+> 
+> [!IMPORTANT]
+> Otra limitación del sistema es que es un modelo general. Esto significa que no está diseñado para una aplicación específica. Para utilizar el sistema para una aplicación específica, es necesario ajustar los parámetros del modelo.
 
 # Recomendaciones:
 Para mejorar el sistema de aprendizaje automático desarrollado en este proyecto, se recomienda utilizar un conjunto de datos más grande y diverso. Esto ayudará a mejorar la precisión del sistema.
