@@ -45,13 +45,13 @@ _Colaboradores:_
    
    + Merge con distintas tablas de interes.
    
-   + Merge 1 (Accesos a internet fijo por tecnologia y localidad).
+       - Merge 1 (Accesos a internet fijo por tecnologia y localidad).
    
-   + Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
+       - Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
    
-   + Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
+       - Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
    
-   + Merge 4 (Salarios promedio y mediano por provincia)
+       - Merge 4 (Salarios promedio y mediano por provincia)
 
    + Limpieza del dataframe resultande del merge 4
    
