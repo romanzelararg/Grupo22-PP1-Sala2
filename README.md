@@ -146,6 +146,26 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 ***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
 
 # CONSIGNAS GENERALES DEL PROYECTO :memo:
-:pencil:
+
+* Definir tipo de proyecto y objetivo
+   - De acuerdo a esto evaluar entornos de desarrollo
+* Carga de datos
+* Fase de análisis exploratorio de datos
+   - Análisis sobre los datos
+   - Tratamiento de los datos anómalos
+* Inspección gráfica de los estadísticos
+   - Observar de manera gráfica si se aprecia relación entre "y" y las "X"
+   - Análisis de datos atípicos.
+   - Distribución de probabilidad de las muestras.
+* Definir modelos a entrenar. 
+   - Al finalizar el ciclo, evaluar el costo computacional (poner un timer).
+* Calcular métricas
+   - Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
+* Evaluar modelos
+   - Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,
+varianza y error irreductible)
+* Conclusión y futuro plan de acción para iniciar otro ciclo
+   - Evaluar hiper parámetros y estrategias de entrenamiento.
+
 
 
