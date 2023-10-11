@@ -21,20 +21,34 @@ Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automati
 # Tabla de Contenidos:
 
 _Analisis Exploratorio de Datos:
+
    _Cambios Extructurales.
+   
    _Confeccion de encoding.
+   
    _Transformación de los Datos a binarios.
+   
    _Creación columna concatenada Provincia-Partido-Localidad.
+   
    _Eliminación de datos repetidos.
+   
    _Analisis descriptivo del Dataset.
+   
    _Analisis y transformación de las variables Provincia-Partido-Población.
-_Merge con distintas tablas de interes.
+   
+   _Merge con distintas tablas de interes.
+   
    _Merge 1 (Accesos a internet fijo por tecnologia y localidad).
+   
    _Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
+   
    _Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
+   
    _Merge 4 (Salarios promedio y mediano por provincia)
-_Limpieza del dataframe resultande del merge 4
-_Exploración Correlacionales y Regresión Logistica
+
+   _Limpieza del dataframe resultande del merge 4
+   
+   _Exploración Correlacionales y Regresión Logistica
 
 # Comprensión Empresarial:
 
