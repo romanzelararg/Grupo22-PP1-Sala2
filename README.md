@@ -147,8 +147,70 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 
 # CONSIGNAS GENERALES DEL PROYECTO :memo:
 
-* Definir tipo de proyecto y objetivo
+## * Definir tipo de proyecto y objetivo
    - De acuerdo a esto evaluar entornos de desarrollo
+El conjunto de datos proporcionado contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
+
+* Year: Año de los datos.
+  
+* Quarter: Trimestre del año al que pertenecen los datos.
+  
+* Provincia: Provincia a la que pertenece la información.
+  
+* Partido: Partido dentro de la provincia.
+  
+* Localidad: Nombre de la localidad.
+  
+* Poblacion_2022: Población en el año 2022.
+  
+* Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
+  
+* Acc_cada_100_hab: Acceso a Internet cada 100 habitantes.
+  
+* ADSL_2022: Número de conexiones ADSL en 2022.
+  
+* Cablemodem_2022: Número de conexiones por cable en 2022.
+  
+* Dial Up_2022: Número de conexiones Dial Up en 2022.
+  
+* Fibra optica_2022: Número de conexiones de fibra óptica en 2022.
+  
+* Satelital_2022: Número de conexiones satelitales en 2022.
+  
+* Wireless_2022: Número de conexiones inalámbricas en 2022.
+  
+* Telefonia Fija_2022: Número de líneas de telefonía fija en 2022.
+  
+* 3G_2022: Número de conexiones 3G en 2022.
+  
+* 4G_2022: Número de conexiones 4G en 2022.
+  
+* Cant_ADSL_2022: Cantidad de conexiones ADSL en 2022.
+  
+* Cant_Cablemodem_2022: Cantidad de conexiones por cable en 2022.
+  
+* Cant_DialUp_2022: Cantidad de conexiones Dial Up en 2022.
+  
+* Cant_FibraOptica_2022: Cantidad de conexiones de fibra óptica en 2022.
+  
+* Cant_Otros_2022: Cantidad de otras conexiones en 2022.
+  
+* Cant_Satelital_2022: Cantidad de conexiones satelitales en 2022.
+  
+* Cant_Wimax_2022: Cantidad de conexiones Wimax en 2022.
+  
+* Cant_Wireless_2022: Cantidad de conexiones inalámbricas en 2022.
+  
+* Total_2022: Total de conexiones en 2022.
+  
+* Pob_prov_2022: Población provincial en 2022.
+  
+* Salario_promedio: Salario promedio.
+  
+* Latitud: Coordenada de latitud.
+  
+* Longitud: Coordenada de longitud.
+
 * Carga de datos
 * Fase de análisis exploratorio de datos
    - Análisis sobre los datos
