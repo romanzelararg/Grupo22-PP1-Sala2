@@ -10,7 +10,7 @@ _Colaboradores:_
     
 :woman_technologist: [Hanún Romina](https://github.com/RomiHanun)
     
-:man_technologist: [Juchniewicz Federico](https://github.com/FJISPC) 
+:man_technologist: [Juchniewicz Federico](https://github.com/FJISPC)  
     
 :man_technologist: [Kanneman Samuel](https://github.com/samuelkanneman) 
     
