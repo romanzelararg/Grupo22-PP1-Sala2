@@ -211,6 +211,15 @@ El conjunto de datos contiene información relacionada con diferentes provincias
   
 * Longitud: Coordenada de longitud.
 
+**Objetivo:**
+
+El objetivo puede variar según el interés específico del análisis. Algunos posibles objetivos podrían ser:
+
+[ ] Predecir la cantidad de conexiones de un tipo específico en 2022 en función de otras variables.-
+[ ] Predecir la población en 2022 en función de las variables proporcionadas.
+[ ] Analizar la relación entre el acceso a Internet y la población en diferentes regiones.
+[ ] Explorar patrones geográficos en la distribución de conexiones de Internet.
+
 ## Carga de datos
 ## Fase de análisis exploratorio de datos
    - Análisis sobre los datos
