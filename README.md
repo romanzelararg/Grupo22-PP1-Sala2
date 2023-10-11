@@ -74,8 +74,7 @@ https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de
     - _Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos._ 
 https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ 
 
-    - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto._
-_Link Trello:_ https://trello.com/w/proyectogrupo22pp1 
+    - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.Link Trello:_ https://trello.com/w/proyectogrupo22pp1 
 
 # Marco Conceptual.
 _El marco conceptual de este proyecto se basa en las siguientes áreas:_
