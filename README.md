@@ -4,13 +4,19 @@
 
 _Colaboradores:_
 
-    Barea Silvana (https://github.com/recursosssbb)
-    Hanun Romina (https://github.com/RomiHanun)
+    Barea Silvana https://github.com/recursosssbb
+    
+    Hanun Romina https://github.com/RomiHanun
+    
     Juchniewicz Federico
-    Kanneman Samuel (https://github.com/samuelkanneman)
-    Lucero Carla (https://github.com/CarlaLucerocd)
-    Mansilla Leonardo Matias (https://github.com/LMmansilla)
-    Zelarayán Román (https://github.com/romanzelararg)
+    
+    Kanneman Samuel https://github.com/samuelkanneman
+    
+    Lucero Carla https://github.com/CarlaLucerocd
+    
+    Mansilla Leonardo Matias https://github.com/LMmansilla
+    
+    Zelarayán Román https://github.com/romanzelararg
 
 # Descripción :
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
