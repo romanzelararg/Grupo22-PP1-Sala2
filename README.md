@@ -136,8 +136,9 @@ En Proceso.
 > [!IMPORTANT]
 > Otra limitación del sistema es que es un modelo general. Esto significa que no está diseñado para una aplicación específica. Para utilizar el sistema para una aplicación específica, es necesario ajustar los parámetros del modelo.
 
-# Recomendaciones:
+# Oportunidades de mejora:
 Para mejorar el sistema de aprendizaje automático desarrollado en este proyecto, se recomienda utilizar un conjunto de datos más grande y diverso. Esto ayudará a mejorar la precisión del sistema.
+
 También se recomienda desarrollar modelos específicos para aplicaciones específicas. Esto ayudará a mejorar el rendimiento del sistema en estas aplicaciones.
 
 
