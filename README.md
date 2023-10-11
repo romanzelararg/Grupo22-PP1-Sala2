@@ -8,6 +8,8 @@ _Colaboradores:_
     
     - [Hanun Romina] (https://github.com/RomiHanun) 
     
+    [I'm an inline-style link](https://www.google.com)
+    
     - [Juchniewicz Federico] (https://github.com/FJISPC) 
     
     - [Kanneman Samuel] (https://github.com/samuelkanneman)
