@@ -1,0 +1,3236 @@
+Feature,Coefficient
+Poblacion_2022,0.0004367448290835463
+Total_2022,0.00011914430251379766
+Cant_Cablemodem_2022,5.669467660947618e-05
+Cant_FibraOptica_2022,3.607508996361709e-05
+Cant_ADSL_2022,1.7563665493095128e-05
+Year,1.3799413310465952e-05
+Cant_Wireless_2022,6.915815092910922e-06
+Cant_Otros_2022,1.7308282487386762e-06
+Acc_cada_100_hog,2.6712336304156284e-07
+Cant_DialUp_2022,1.1956528281144448e-07
+Acc_cada_100_hab,7.521837746465045e-08
+Cant_Satelital_2022,2.9950931993068563e-08
+Pob_prov_2022,2.4846193914364627e-08
+3G_2022,2.1714545779440896e-08
+Quarter,1.7394835389132854e-08
+Telefonia Fija_2022,1.5997347342747874e-08
+Cant_Wimax_2022,1.4710891155100132e-08
+ADSL_2022,1.2368691672748254e-08
+Fibra optica_2022,1.1777899923977186e-08
+Cablemodem_2022,8.967146313038905e-09
+Satelital_2022,7.174205445581188e-09
+Wireless_2022,6.085853545622702e-09
+Dial Up_2022,2.9168927902077647e-09
+Provincia_SANTA FE,2.7592773672232565e-09
+Provincia_CORDOBA,1.7741890973608858e-09
+Provincia_ENTRE RIOS,1.4284765927410054e-09
+Provincia_CHACO,1.0181556780971104e-09
+Provincia_CORRIENTES,1.0026647945381082e-09
+Provincia_MISIONES,8.820435915022448e-10
+Provincia_TUCUMAN,7.145350918021935e-10
+Provincia_SANTIAGO DEL ESTERO,5.781478764913207e-10
+Provincia_MENDOZA,5.326021831115288e-10
+Provincia_SALTA,5.239572627846495e-10
+Partido_General San Martín,4.4671201121389314e-10
+Provincia_FORMOSA,3.839028056000485e-10
+Partido_General López,3.748713516087278e-10
+Partido_Avellaneda,3.3426155034373704e-10
+Partido_San Lorenzo,3.228806202336131e-10
+Partido_Río Cuarto,2.954158899273125e-10
+Partido_Río Segundo,2.95107067223368e-10
+Partido_Capital,2.7260883836660383e-10
+Partido_Las Colonias,2.718138300093888e-10
+Partido_San Justo,2.6776389469189714e-10
+Partido_Paraná,2.653219895431105e-10
+Partido_La Paz,2.6489852034562854e-10
+Partido_General Obligado,2.604090841189983e-10
+Partido_Tercero Arriba,2.4024251841257686e-10
+Partido_Juárez Celman,2.2483199074290387e-10
+Partido_San Jerónimo,2.2053645310723607e-10
+Partido_Oberá,2.0944028179506597e-10
+Partido_Concordia,2.0907924879202985e-10
+Partido_Colón,2.0772596245657932e-10
+Partido_Rosario,2.0018180682932619e-10
+Partido_Caseros,1.9882776685499574e-10
+Partido_Gualeguaychú,1.8630436570605443e-10
+Partido_Grl. José de San Martín,1.778817273818208e-10
+Partido_Almirante Brown,1.6471479318316549e-10
+Partido_San Martín,1.631897591839734e-10
+Partido_Patiño,1.561949618362452e-10
+Partido_Unión,1.4901732510558254e-10
+Partido_Marcos Juárez,1.4446175092559236e-10
+Partido_Libertador General San Martín,1.3688460058664654e-10
+Partido_Orán,1.307620721094313e-10
+Partido_Sarmiento,1.2910661187208132e-10
+Partido_Confluencia,1.282728832353374e-10
+Partido_Ledesma,1.2719059640930867e-10
+Partido_Concepción,1.2578904394906126e-10
+Partido_Pilcomayo,1.2526740967014114e-10
+Partido_San Fernando,1.2019420893453113e-10
+Partido_Bariloche,1.1795672293248304e-10
+Partido_Las Heras,1.1153602912260274e-10
+Partido_San Carlos,1.1151997497732019e-10
+Partido_Presidente Roque Sáenz Peña,1.1025543764645284e-10
+Partido_Tres De Febrero,1.0925658926703644e-10
+Partido_Leales,1.0518296827161049e-10
+Partido_Punilla,1.0499183565538543e-10
+Partido_Guaymallén,1.0300637023943566e-10
+Partido_Pirané,1.0228095883763814e-10
+Partido_La Matanza,1.0221311470059939e-10
+Partido_Río Primero,1.0084714105690666e-10
+Partido_Tafí Viejo,9.869901009122387e-11
+Partido_Maipú,9.468239677632665e-11
+Partido_Constitución,9.276360119396999e-11
+Partido_Uruguay,9.269228739450266e-11
+Partido_Pocito,9.237738524192817e-11
+Partido_Formosa,9.20485493739852e-11
+Partido_Pilar,9.192881417901385e-11
+Partido_El Carmen,8.957526955532967e-11
+Partido_Choya,8.567981633853943e-11
+Partido_San Ignacio,8.501543688763687e-11
+Partido_Ituzaingó,8.388785372768322e-11
+Partido_Tafí del Valle,8.376994774494485e-11
+Partido_General Donovan,8.359912139535582e-11
+Partido_Diamante,8.322588921566737e-11
+Partido_Islas del Ibicuy,8.320508016130591e-11
+Partido_Tupungato,8.259836717568688e-11
+Partido_General Alvear,7.988239413225911e-11
+Partido_Garay,7.987975572596407e-11
+Partido_Tigre,7.645430533411159e-11
+Partido_Banda,7.596477112867016e-11
+Partido_Iguazú,7.594197872989585e-11
+Partido_Sargento Cabral,7.538648945466046e-11
+Partido_Lules,7.351649056109097e-11
+Partido_Juan F. Ibarra,7.297087201942102e-11
+Partido_San Miguel,7.20896837282725e-11
+Partido_Castellanos,7.072659988791674e-11
+Partido_Florencio Varela,7.056699301392296e-11
+Partido_Berazategui,7.001431524437542e-11
+Localidad_Santa Lucía,6.929041991746638e-11
+Localidad_25 de Mayo,6.918028915561968e-11
+Partido_Santa Rosa,6.668534604087806e-11
+Partido_O Higgins,6.56883742313963e-11
+Partido_Vicente López,6.346596198645404e-11
+Partido_Santo Tomé,6.198223016225755e-11
+Partido_Graneros,6.161981618491499e-11
+Partido_San Cosme,6.124349833310993e-11
+Localidad_San José,6.072598244510525e-11
+Partido_Godoy Cruz,6.071935345870015e-11
+Partido_Robles,6.06365679485708e-11
+Partido_Trenel,6.048329106820245e-11
+Partido_Apóstoles,6.043880350563296e-11
+Localidad_San Vicente,6.038012158551552e-11
+Partido_Quilmes,6.007334678627572e-11
+Localidad_Rivadavia,5.961120147725909e-11
+Partido_Guaraní,5.959480979012904e-11
+Localidad_General Alvear,5.911507956700117e-11
+Partido_Victoria,5.89797526534477e-11
+Partido_Silípica,5.897542423156592e-11
+Partido_Rosario de la Frontera,5.826118662580153e-11
+Localidad_San Lorenzo,5.81175827448841e-11
+Localidad_San Roque,5.7934072908707966e-11
+Partido_Luján,5.7341796843935675e-11
+Partido_Candelaria,5.700214786216046e-11
+Partido_Curuzú Cuatiá,5.6574689259220526e-11
+Partido_Paso de los Libres,5.649567850853967e-11
+Localidad_Santa Ana,5.598641945428241e-11
+Partido_Federación,5.569231021737656e-11
+Partido_Cruz Alta,5.49263944582288e-11
+Partido_La Candelaria,5.437484970635156e-11
+Partido_Gaiman,5.401388067279495e-11
+Localidad_La Paz,5.3996770360900825e-11
+Partido_Totoral,5.352920809467203e-11
+Partido_Copo,5.2040289315104206e-11
+Partido_Lomas De Zamora,5.099434429653147e-11
+Partido_Luján de Cuyo,5.045529962348484e-11
+Partido_Escobar,4.9498293001463154e-11
+Partido_Iriondo,4.878133067146975e-11
+Partido_Vera,4.8676946207254595e-11
+Localidad_El Colorado,4.7239148076806986e-11
+Partido_General Paz,4.7004554411502326e-11
+Partido_Capayán,4.622362475938107e-11
+Partido_Ojo de Agua,4.498536734591057e-11
+Partido_Federal,4.4942464107338384e-11
+Partido_Monteros,4.483596187929931e-11
+Localidad_Rawson,4.4484870155261534e-11
+Localidad_El Bolsón,4.427092005334745e-11
+Localidad_Icaño,4.419334887904763e-11
+Localidad_Santa Rosa,4.367421089282035e-11
+Localidad_Palma Sola,4.3253600693649037e-11
+Partido_12 de Octubre,4.323621057212359e-11
+Localidad_San Carlos,4.316551292346339e-11
+Partido_General Angel V. Peñaloza,4.308225598145657e-11
+Partido_Ezeiza,4.303545600401962e-11
+Partido_Tinogasta,4.291326176449521e-11
+Partido_Esquina,4.2807859537339056e-11
+Partido_La Costa,4.259585865071449e-11
+Partido_Puelén,4.251992448588742e-11
+Partido_Yerba Buena,4.2505233765116086e-11
+Partido_Empedrado,4.246794564720364e-11
+Localidad_Villa Unión,4.2327011500925636e-11
+Partido_Goya,4.2310577889463207e-11
+Localidad_La Puerta,4.230075033754738e-11
+Partido_Saladas,4.224655834289014e-11
+Partido_San Isidro,4.221910580260611e-11
+Localidad_Hipólito Yrigoyen,4.211517503654349e-11
+Partido_Metán,4.2024677328701645e-11
+Partido_ItatÍ,4.192263567132667e-11
+Partido_Feliciano,4.172679036304397e-11
+Partido_Aguirre,4.149451303345172e-11
+Partido_La Caldera,4.133545981024283e-11
+Partido_General Güemes,4.131101423158148e-11
+Partido_Gualeguay,4.1122530737693043e-11
+Localidad_Miraflores,4.104785752465587e-11
+Partido_Ushuaia,4.088165217027646e-11
+Localidad_Candelaria,4.0754289621421984e-11
+Localidad_La Merced,4.075419339576191e-11
+Partido_Lanús,4.063892621575533e-11
+Localidad_Santo Tomé,4.0582977706929997e-11
+Partido_Guasayán,4.0541106282272613e-11
+Localidad_Villa Dolores,4.03166610307458e-11
+Partido_Malargüe,4.0209812419990575e-11
+Partido_1º de Mayo,4.0185593981669014e-11
+Localidad_Concepción,4.017265773896355e-11
+Localidad_Chilecito,4.0040444065633934e-11
+Partido_Tunuyán,4.0032250809881904e-11
+Partido_Villaguay,3.971140857173143e-11
+Partido_Quitilipi,3.9631903212365216e-11
+Partido_Rosario Vera Peñaloza,3.9579417309699666e-11
+Localidad_Herrera,3.953522367635962e-11
+Partido_Valle Fértil,3.9308743347270276e-11
+Partido_Chimbas,3.919812488799572e-11
+Localidad_Villa del Carmen,3.917000534514101e-11
+Localidad_La Cruz,3.914700875657913e-11
+Localidad_Río Colorado,3.900811971941856e-11
+Localidad_Las Heras,3.9000219803225124e-11
+Localidad_Bonpland,3.893482471211277e-11
+Partido_Río Grande,3.8671358318345496e-11
+Partido_Lago Buenos Aires,3.840322652548006e-11
+Partido_Independencia,3.836244435975844e-11
+Localidad_Pedernal,3.8321829118534916e-11
+Partido_Telsen,3.8188569505327396e-11
+Partido_Molinos,3.752670951962069e-11
+Partido_Morón,3.7481816625843886e-11
+Localidad_Villa Mercedes,3.740078593493589e-11
+Localidad_El Espinillo,3.733880759247561e-11
+Localidad_Pilar,3.7182314544494384e-11
+Partido_Montecarlo,3.7077775383354856e-11
+Partido_Ambato,3.688669977293936e-11
+Partido_Coronel Felipe Varela,3.680092701420034e-11
+Partido_Monte Caseros,3.6730418481160275e-11
+Partido_General Manuel Belgrano,3.666784411740242e-11
+Partido_Corpen Aike,3.6593550589321474e-11
+Partido_Lácar,3.617800488237816e-11
+Localidad_Almafuerte,3.6153570735994605e-11
+Partido_San Salvador,3.5958103706516844e-11
+Localidad_Arroyito,3.5852279001090923e-11
+Localidad_Coronel Moldes,3.576787892626774e-11
+Localidad_General Roca,3.551837870268793e-11
+Localidad_Recreo,3.540617267969067e-11
+Partido_Cachi,3.540425802997427e-11
+Localidad_Alvear,3.530198500232682e-11
+Partido_Burruyacú,3.526371338196362e-11
+Partido_Merlo,3.525152904440024e-11
+Localidad_Esperanza,3.523542537084209e-11
+Localidad_San Martín,3.4561712606312294e-11
+Localidad_Fray Luis Beltrán,3.450509189447435e-11
+Localidad_Esquina,3.428686038638193e-11
+Partido_Arauco,3.372132721035e-11
+Partido_Catriló,3.164329202941719e-11
+Partido_Añelo,3.151192371938492e-11
+Partido_Hucal,3.122870040565752e-11
+Localidad_Laprida,3.069256191177445e-11
+Localidad_Las Peñas,3.068300576619092e-11
+Partido_San Rafael,3.037792533115385e-11
+Partido_Cafayate,3.0297751986195295e-11
+Localidad_Merlo,2.983108238859096e-11
+Partido_Laishi,2.94819445602282e-11
+Localidad_Las Flores,2.8913890860501713e-11
+Partido_Campana,2.890850996750758e-11
+Localidad_Villa Santa Rosa,2.8839845678662032e-11
+Localidad_Villa Centenario,2.8331938884083622e-11
+Localidad_Colón,2.822023356061315e-11
+Localidad_Victoria,2.8046562309479886e-11
+Localidad_9 de Julio,2.7420636966726166e-11
+Localidad_Saladillo,2.7342700602732366e-11
+Localidad_Junín,2.710077303895107e-11
+Partido_General Alvarado,2.7039709369460238e-11
+Localidad_Médanos,2.6837704260546665e-11
+Localidad_Caseros,2.6694655000070445e-11
+Localidad_General Conesa,2.6556258193795003e-11
+Localidad_Pavón,2.64541489278845e-11
+Localidad_Mercedes,2.6397882643381038e-11
+Localidad_San Justo,2.633522796045201e-11
+Localidad_Libertad,2.6161568066837473e-11
+Localidad_Villa Nueva,2.6076356025595736e-11
+Localidad_Villa Elvira,2.6046191290142597e-11
+Partido_Tala,2.590226259645811e-11
+Localidad_Villa Sarmiento,2.5704849918123363e-11
+Localidad_Matará,2.557637571574686e-11
+Localidad_San Jose,2.5302489079256383e-11
+Localidad_Bella Vista,2.5175841390052113e-11
+Localidad_Maipú,2.5128064850654284e-11
+Partido_General Lamadrid,2.5114778497271723e-11
+Localidad_Villa Castelli,2.5114778497271723e-11
+Partido_Cerrillos,2.5017905144171132e-11
+Localidad_Posta Cambio Zalazar,2.498867477503444e-11
+Localidad_La Rioja,2.4881108414123943e-11
+Localidad_Quirós,2.4640427549375797e-11
+Partido_Adolfo Alsina,2.4592299223296555e-11
+Localidad_Pueblo Libertador,2.4577121001917294e-11
+Localidad_San Ignacio,2.4549849367565856e-11
+Localidad_El Bracho,2.451955223247518e-11
+Partido_SANTA BARBARA,2.4377810032698333e-11
+Localidad_La Cumbre,2.4371557502872685e-11
+Localidad_Cuipan,2.4341668669071045e-11
+Partido_Pilagás,2.4183203686148316e-11
+Localidad_Choya,2.4112307464636703e-11
+Partido_Anta,2.4066025488163834e-11
+Localidad_Abra Pampa,2.405801027646202e-11
+Localidad_Los Núñez,2.4033160064410986e-11
+Localidad_Mártires,2.4032036188891277e-11
+Localidad_Chañar Pozo de Abajo,2.40217018595055e-11
+Localidad_Los Palacios,2.3926275995650914e-11
+Localidad_Saujil,2.386007251512824e-11
+Partido_Chacabuco,2.3853407969857632e-11
+Localidad_El Rodeo,2.3808163435345495e-11
+Localidad_Gobernador Juan E. Martínez,2.3797483584456888e-11
+Localidad_Chamical,2.3735705881403196e-11
+Partido_Chamical,2.3735705881403196e-11
+Localidad_La Tigra,2.3704952644763815e-11
+Localidad_Los Tigres,2.3652629117211492e-11
+Localidad_Malanzán,2.361783805136576e-11
+Localidad_Villa San José de Vinchina,2.3517466940961653e-11
+Localidad_Nonogasta,2.350670185461528e-11
+Localidad_San Francisco de Laishi,2.3461077819016854e-11
+Localidad_Maimará,2.3460032611680584e-11
+Localidad_Los Corralitos,2.3451788786321004e-11
+Localidad_Castelar,2.3404844681612957e-11
+Localidad_Frías,2.3404088703750433e-11
+Localidad_Puente de Hierro,2.338073063227688e-11
+Partido_Río Hondo,2.3351900429275444e-11
+Localidad_Caimancito,2.3338497383598587e-11
+Localidad_La Cañada,2.333813575046311e-11
+Localidad_Chalicán,2.3319091347665448e-11
+Localidad_Colonia El Simbolar,2.3309811636125403e-11
+Localidad_Vilelas,2.33069658758423e-11
+Localidad_Pueblo General Belgrano,2.330459724071601e-11
+Localidad_Victorica,2.3297266606659242e-11
+Localidad_Malbrán,2.3277608206267627e-11
+Partido_General Belgrano,2.3261839306778963e-11
+Localidad_Panambi Kilómetro 15,2.325013148846343e-11
+Localidad_Tinogasta,2.317083409542341e-11
+Localidad_Pluma de Pato,2.313791600257423e-11
+Localidad_Bañado de Ovanta,2.3119211232032195e-11
+Localidad_Tumbaya,2.3114434447893062e-11
+Localidad_Colonia Carolina,2.3102929051195718e-11
+Localidad_Darwin,2.3100672958663427e-11
+Localidad_Campanas,2.3087155069036022e-11
+Localidad_La Arboleda,2.305278728465676e-11
+Localidad_Garupá,2.3036788611877105e-11
+Localidad_Machigasta,2.3015285023163436e-11
+Partido_Matacos,2.298022925018177e-11
+Localidad_Ingeniero Guillermo N. Juárez,2.298022925018177e-11
+Localidad_Rancul,2.2967436148156506e-11
+Localidad_Ulapes,2.2959691159365392e-11
+Localidad_Monteros,2.2919389030821266e-11
+Localidad_Cortaderas,2.2915238120009926e-11
+Localidad_Formosa,2.2896644677520997e-11
+Localidad_Milagro,2.287071428060431e-11
+Localidad_Villa Ojo de Agua,2.2764766900387256e-11
+Localidad_Bandera Bajada,2.2748948744535297e-11
+Localidad_Villa Kilómetro 213,2.2680053586481983e-11
+Localidad_Los Juríes,2.267340257962914e-11
+Localidad_Miramar,2.2672971085096917e-11
+Localidad_Tintina,2.2663443335523617e-11
+Localidad_Villa Mailín,2.2657258988598456e-11
+Localidad_Tatacua,2.2647694942910464e-11
+Localidad_Alto de Sierra,2.2644304825952148e-11
+Localidad_Belén,2.2628060603059346e-11
+Localidad_Campo Gallo,2.2620739614093703e-11
+Localidad_Villa Atamisqui,2.2618604166594874e-11
+Localidad_Weisburd,2.2617511466977137e-11
+Localidad_Los Varela,2.2608541549472627e-11
+Partido_Bella Vista,2.2608280563997322e-11
+Localidad_San Víctor,2.2583690902037765e-11
+Localidad_Corpus,2.2541751499231317e-11
+Localidad_Cerrillos,2.253935767264085e-11
+Localidad_Panambí Kilómetro 8,2.2538850769596033e-11
+Localidad_Sañogasta,2.2516689966626276e-11
+Localidad_Puerto Vilelas,2.2514374338326115e-11
+Localidad_Lugones,2.2508340404669457e-11
+Localidad_Villa Bonita,2.2491783595264953e-11
+Partido_Mburucuyá,2.2489052220683102e-11
+Localidad_Mburucuyá,2.2489052220683102e-11
+Localidad_Villa Las Pirquitas,2.2466526877550825e-11
+Localidad_General Pinedo,2.246164142344641e-11
+Localidad_Rapelli,2.2460898599260447e-11
+Localidad_Ferri,2.2440570581122913e-11
+Localidad_Tabay,2.242126482046072e-11
+Localidad_Colonia Nueva Coneta,2.2415064143927193e-11
+Localidad_Simoca,2.241429703700163e-11
+Localidad_El Alto,2.239803387003029e-11
+Localidad_Rio Blanco,2.2389936445690942e-11
+Localidad_Coronel Cornejo,2.2389704630548507e-11
+Localidad_Perugorría,2.2353742599229217e-11
+Localidad_Aristóbulo del Valle,2.2352125186745757e-11
+Partido_San Vicente,2.2349494058133414e-11
+Localidad_Cabra Corral,2.234174844450497e-11
+Localidad_Copo Quile,2.2325006729244555e-11
+Partido_Famaillá,2.2324048000881136e-11
+Localidad_Famaillá,2.2324048000881136e-11
+Localidad_La Quiaca,2.2320747146398656e-11
+Localidad_Guandacol,2.230488066053699e-11
+Localidad_Quitilipi,2.2295503027546082e-11
+Localidad_San Fernando del Valle de Catamarca,2.228450158753129e-11
+Localidad_Sierra Colorada,2.2277685160085648e-11
+Localidad_Laguna Yema,2.227468839881425e-11
+Localidad_Corzuela,2.2266594352928586e-11
+Localidad_General Acha,2.2265647864892758e-11
+Localidad_Villa Carmela,2.2258321851355017e-11
+Localidad_Metán Viejo,2.2255629917333712e-11
+Localidad_Campo Quijano,2.2251974443778175e-11
+Localidad_Sol de Julio,2.2220600445523277e-11
+Localidad_Diagonal Norte - Luz y Fuerza - Los Pocitos - Villa Nueva Italia (6),2.221838282286656e-11
+Localidad_Añatuya,2.2208501909355986e-11
+Localidad_Costa de Araujo,2.2197633124589678e-11
+Localidad_Coronel Belisle,2.2183069833072606e-11
+Localidad_Carpintería,2.216391178022486e-11
+Localidad_Riacho He-He,2.215709534909417e-11
+Localidad_Tama,2.2140906056564863e-11
+Localidad_El Caburé,2.2130212688188257e-11
+Partido_Sanagasta,2.2118050435061688e-11
+Localidad_Villa Sanagasta,2.2118050435061688e-11
+Localidad_Lonquimay,2.2112217952631162e-11
+Localidad_Sargento Vidal,2.210929506959564e-11
+Localidad_Piedrabuena,2.2107241966196953e-11
+Localidad_Misión Tacaagle,2.2088340143257503e-11
+Localidad_Patquía,2.2069282674223072e-11
+Partido_Coronel de Marina L. Rosales,2.2064252214230655e-11
+Localidad_Hasenkamp,2.2040123287597712e-11
+Localidad_Ciervo Petiso,2.2031370912803063e-11
+Localidad_Cruz de Piedra,2.202133703176126e-11
+Localidad_Arata,2.201935476463829e-11
+Localidad_Las Lomitas,2.2009320511132037e-11
+Localidad_Unión,2.1983580827759665e-11
+Localidad_San Francisco del Monte de Oro,2.1975060802867764e-11
+Localidad_La Mendieta,2.19681698273984e-11
+Localidad_Arizona,2.1965594677987754e-11
+Localidad_Jubileo,2.1942208026168316e-11
+Localidad_Tilcara,2.1941152057163444e-11
+Localidad_Joaquín V. González,2.1938911344167673e-11
+Localidad_Comandante Fontana,2.1916053275606075e-11
+Localidad_Puerto Leoni,2.1910726761720974e-11
+Localidad_La Criolla,2.190579890904391e-11
+Localidad_Pueblo Brugo,2.1903305509107826e-11
+Localidad_Makallé,2.18929866900501e-11
+Localidad_Ibicuy,2.1889158036444447e-11
+Localidad_El Bobadal,2.1887361026635028e-11
+Localidad_Aldea Brasilera,2.1884947835720534e-11
+Localidad_Hickman,2.188224285394915e-11
+Localidad_Garza,2.1879879763357832e-11
+Localidad_Caraguatay,2.1878974385430056e-11
+Localidad_Campo Ramón,2.1870227266515913e-11
+Localidad_Paso de la Patria,2.185502878630452e-11
+Localidad_Londres,2.1849988902772772e-11
+Localidad_Estación Atamisqui,2.184804572715608e-11
+Localidad_Guardia Escolta,2.1843759710188498e-11
+Localidad_Villa Libertador San Martín,2.1842755942831936e-11
+Localidad_Naschel,2.1842487993254385e-11
+Localidad_Colonia Polana,2.183839926823806e-11
+Partido_Hurlingham,2.1832725116193437e-11
+Localidad_Capayán,2.1829500262097498e-11
+Localidad_Palo Negro,2.1813382619202472e-11
+Localidad_Campo Viera,2.1809911100505844e-11
+Localidad_Beltrán,2.1809069007457775e-11
+Localidad_Puesto de San Antonio,2.1799426193405787e-11
+Localidad_Pala Pala,2.1795271047169883e-11
+Localidad_Chichinales,2.1788042224969808e-11
+Localidad_Guaymallén,2.1767467663544077e-11
+Localidad_Los Telares,2.1766038695378536e-11
+Localidad_La Punta,2.1762340694446815e-11
+Localidad_Colonia Avellaneda,2.1760809135333174e-11
+Localidad_Puerto Piray,2.1752604637701135e-11
+Localidad_Juan G. Bazán,2.174101508478545e-11
+Localidad_Siete Palmas,2.1737028588324612e-11
+Localidad_San Lucas,2.1727961018749475e-11
+Localidad_La Escondida,2.1727556520776696e-11
+Localidad_Gualeguaychú,2.172697313245375e-11
+Localidad_Colalao del Valle,2.172581809934309e-11
+Localidad_Villa de Leales,2.1713916021934136e-11
+Localidad_Gobernador Roca,2.1713060172853956e-11
+Partido_Santa Lucía,2.1706681666505527e-11
+Localidad_Luis Beltrán,2.1696933183424345e-11
+Localidad_Villa Quinteros,2.1695363553033902e-11
+Localidad_Puerto Tirol,2.168071361709986e-11
+Localidad_Gilbert,2.1670384220521976e-11
+Localidad_Anguil,2.1659811679519264e-11
+Localidad_Buena Esperanza,2.1649242584541006e-11
+Localidad_Villa Media Agua,2.1634743687147754e-11
+Partido_Presidencia de la Plaza,2.1624214957991783e-11
+Localidad_Presidencia de la Plaza,2.1624214957991783e-11
+Localidad_Villa General Güemes,2.1619436304844095e-11
+Localidad_Apolinario Saravia,2.1609232703281464e-11
+Localidad_Montecarlo,2.1595258151087034e-11
+Localidad_Riachuelo,2.158114478337897e-11
+Localidad_Oberá,2.1577068123584957e-11
+Localidad_Isla del Cerrito,2.1576813198651644e-11
+Partido_Arrecifes,2.1572496902263773e-11
+Localidad_Villa Larca,2.1548754183248763e-11
+Localidad_Bajo San Cayetano,2.1543958017660107e-11
+Localidad_Campo Grande,2.1538241796623414e-11
+Localidad_El Huecú,2.153799843935309e-11
+Localidad_Malargüe,2.152715382767474e-11
+Localidad_San Juan,2.1495450410955397e-11
+Localidad_Gobernador Benegas,2.1483516100154234e-11
+Localidad_Fortín El Patria,2.147042177919288e-11
+Localidad_El Rincón,2.146284397610803e-11
+Partido_Juan Bautista Alberdi,2.145040105191421e-11
+Localidad_Juan Bautista Alberdi,2.145040105191421e-11
+Localidad_Rodeo,2.1444732041550388e-11
+Localidad_Laguna Naick-Neck,2.1440319236302126e-11
+Localidad_Carmensa,2.1439352922775562e-11
+Localidad_Quinta El Mirador,2.143085600511307e-11
+Localidad_Clodomiro Ledesma,2.1429752602700405e-11
+Localidad_Villa San Justo,2.1412914206980544e-11
+Localidad_El Cóndor,2.1412154550628413e-11
+Localidad_Los Pirpintos,2.1411249407227408e-11
+Localidad_General Güemes,2.1409107190937304e-11
+Localidad_Yacuy,2.139242944344207e-11
+Localidad_Garuhapé,2.138856958828099e-11
+Localidad_Huillapima,2.1367013854318248e-11
+Localidad_Las Tinajas,2.135212140779791e-11
+Localidad_Villa Mascardi,2.1349708867848856e-11
+Localidad_El Solar,2.1349421326848594e-11
+Localidad_Rosario del Tala,2.1341938488553102e-11
+Localidad_Ceibas,2.1319537314540473e-11
+Localidad_La Adela,2.1315537458517625e-11
+Localidad_Crespo,2.1312892451938168e-11
+Localidad_Santa Rosa de Leales,2.1297345285090427e-11
+Localidad_El Sombrero,2.1296606091033067e-11
+Localidad_Puesto del Marquéz,2.129634416690625e-11
+Localidad_Nogoyá,2.1295769249055863e-11
+Localidad_Pueblo Independencia,2.1293167889487625e-11
+Localidad_Hernandarias,2.128726030412695e-11
+Localidad_Chimpay,2.1279768126777757e-11
+Localidad_Puente Cero,2.1277793542147007e-11
+Localidad_Pedro R. Fernández (Est. Manuel F. Mantilla),2.127246934126988e-11
+Localidad_Pomona,2.127184943701355e-11
+Localidad_Clorinda,2.127139727156534e-11
+Localidad_Pampa de los Guanacos,2.1271095882472757e-11
+Localidad_Ramírez de Velazco,2.1260867400206274e-11
+Localidad_Colonia Liebig's,2.1255244045988e-11
+Localidad_Aranguren,2.125166951534489e-11
+Localidad_Coronel Du Graty,2.124724928975297e-11
+Localidad_Monte Quemado,2.124047730695356e-11
+Localidad_Profesor Salvador Mazza,2.123135422573753e-11
+Localidad_Simbolar,2.1230923337489467e-11
+Localidad_Mojón de Fierro,2.1223366394385085e-11
+Localidad_Las Cejas,2.1215669442554904e-11
+Localidad_Vaqueros,2.121222910185444e-11
+Localidad_Tatané,2.120374820787214e-11
+Localidad_Termas de Río Hondo,2.1203618999904138e-11
+Localidad_Ancasti,2.1202013752476843e-11
+Partido_Ancasti,2.1202013752476843e-11
+Localidad_Juan Jorba,2.1199931475282145e-11
+Localidad_Clodomira,2.1192502587625317e-11
+Localidad_Olta,2.1189185285743993e-11
+Localidad_Rolón,2.1188533678726385e-11
+Localidad_Villa La Punta,2.1183428474942605e-11
+Localidad_San Isidro (Est. Los Angacos),2.1179256252204356e-11
+Localidad_Enrique Carbó,2.1173467013179586e-11
+Localidad_Empedrado,2.1171339556170476e-11
+Localidad_San Rafael,2.115927145958481e-11
+Localidad_Los Chiriguanos,2.1156337720382974e-11
+Localidad_María Grande,2.1151136363054607e-11
+Localidad_Puesto Viejo,2.1149306735649407e-11
+Localidad_Garmendia,2.1143155898409355e-11
+Localidad_Maquinchao,2.1141282966323915e-11
+Localidad_Nueva Galia,2.114032591864815e-11
+Localidad_Villa General Manuel Belgrano,2.113234773620355e-11
+Localidad_Ruiz de Montoya,2.112860612339939e-11
+Localidad_La Ciénaga y Barrio San Rafael,2.1122041557706604e-11
+Localidad_Villa Clara,2.1116121952422324e-11
+Localidad_Parera,2.1111741144158134e-11
+Localidad_Justo Daract,2.1109368121986537e-11
+Localidad_Santo Pipó,2.110152973232609e-11
+Localidad_Rosario de la Frontera,2.1097636446184617e-11
+Localidad_Tobuna,2.1088357110502202e-11
+Localidad_Acheral,2.108125004714607e-11
+Localidad_Perito Moreno,2.1078061566103853e-11
+Localidad_Villa Río Bermejito,2.1076229847083464e-11
+Localidad_Avia Terai,2.1072930117500544e-11
+Localidad_Santa Elena,2.1072567091805215e-11
+Localidad_Realicó,2.1070969481568873e-11
+Localidad_Urutaú,2.1061102095258467e-11
+Localidad_Suncho Corral,2.1060004680169627e-11
+Localidad_Fraile Pintado,2.1055784974516193e-11
+Localidad_El Foyel,2.105183142920613e-11
+Localidad_Ituzaingó,2.1050957995385778e-11
+Localidad_Mansupa,2.1045668661516794e-11
+Localidad_Macachín,2.103724771902759e-11
+Localidad_La Leonesa,2.1026322359118932e-11
+Localidad_Laguna Escondida,2.102183469474472e-11
+Localidad_Aguilares,2.1010773319621762e-11
+Localidad_Metileo,2.1001054835285677e-11
+Localidad_San José del Rincón,2.0989626477936648e-11
+Localidad_Purmamarca,2.098813403359489e-11
+Localidad_Barrio Chacra Monte,2.097573684151282e-11
+Localidad_Itatí,2.097368473069689e-11
+Localidad_Susques,2.0972464908342906e-11
+Localidad_Dina Huapi,2.0959526394786296e-11
+Localidad_Villa Fiad - Ingenio Leales,2.0959099339559575e-11
+Localidad_Villa Basilio Nievas,2.095542433211352e-11
+Partido_Zonda,2.095542433211352e-11
+Localidad_Guerrero,2.0949125989532125e-11
+Localidad_Ramada Paso,2.0948950940629798e-11
+Localidad_Speluzzi,2.094304752650028e-11
+Localidad_Punta de los Llanos,2.0941349924891585e-11
+Localidad_Comallo,2.0938568176732913e-11
+Localidad_Guanacache,2.0936843906367302e-11
+Localidad_3 de Mayo,2.093563196854781e-11
+Localidad_Mocoretá,2.0915238667046965e-11
+Localidad_Lapachito,2.0914488460762088e-11
+Localidad_Arroyo del Medio,2.0914142387968793e-11
+Localidad_Puente del Inca,2.0904733123411963e-11
+Localidad_Pampa Almirón,2.0901493538577073e-11
+Localidad_Itá Ibaté,2.0899769073061318e-11
+Localidad_Colonia Segovia,2.0896741018754698e-11
+Localidad_Lucas González,2.0892214730458852e-11
+Localidad_Cañada Honda,2.088788760792704e-11
+Localidad_Loreto,2.087305584182091e-11
+Localidad_Palpalá (Est. Gral. Manuel N. Savio),2.0865387727904497e-11
+Localidad_General Fernández Oro,2.086361891487703e-11
+Localidad_Pampa del Indio,2.0859816360469223e-11
+Localidad_El Piquete,2.0852175592905883e-11
+Localidad_Avellaneda (Est. Ewald),2.084184391087392e-11
+Localidad_Colonia Ayuí,2.0838414725563608e-11
+Partido_Bahía Blanca,2.083169800639304e-11
+Localidad_El Mollar,2.0831513172351044e-11
+Localidad_Villa Angela,2.0829119145237034e-11
+Localidad_Pampa del Infierno,2.082901022152956e-11
+Localidad_Barrio La Ribera - Barrio APYCAR,2.0828247501714274e-11
+Localidad_San Salvador de Jujuy (Est. Jujuy),2.0827361335400554e-11
+Partido_José C. Paz,2.0824397501287404e-11
+Localidad_Lamarque,2.0809785308552914e-11
+Localidad_Puerto Yeruá,2.0796208890356245e-11
+Localidad_Puelén,2.0787107331546656e-11
+Localidad_Tafí del Valle,2.078643932533153e-11
+Localidad_San Carlos de Bariloche,2.0780689600339537e-11
+Localidad_Gualeguay,2.0778133838524545e-11
+Localidad_Gancedo,2.0774569148677056e-11
+Localidad_Estación Mazán,2.076716635255293e-11
+Localidad_Capilla Del Rosario,2.0762325830117714e-11
+Localidad_Villa Llao Llao,2.0761042029423246e-11
+Localidad_Niquivil,2.075534825949798e-11
+Localidad_Centenario,2.0731108401952785e-11
+Localidad_San José de Jáchal,2.0728847903260794e-11
+Localidad_Andalgalá,2.07275501011117e-11
+Localidad_Dragones,2.0722596736079738e-11
+Localidad_Libertador General San Martín (Est. Ledesma),2.0716470200131213e-11
+Localidad_Aldea María Luisa,2.0716271124673237e-11
+Localidad_Felipe Yofré,2.0713738113388482e-11
+Localidad_Colonia Dora,2.071105691315564e-11
+Partido_Rojas,2.0710021438129202e-11
+Partido_Tapenagá,2.0699407976071165e-11
+Localidad_Charadai,2.0699407976071165e-11
+Localidad_Pampa Blanca,2.0692352872604472e-11
+Localidad_San Miguel de Tucumán (Est. Tucumán),2.068060655258325e-11
+Localidad_Villa Aberastain,2.065459246442106e-11
+Partido_Azul,2.065015174713539e-11
+Localidad_Barrio 12 de Octubre,2.064581422702635e-11
+Partido_Loreto,2.064567708388465e-11
+Localidad_Villa San Martín (Est. Loreto),2.064567708388465e-11
+Localidad_Chumbicha,2.064456555524742e-11
+Localidad_Estación Yeruá,2.063027635626846e-11
+Localidad_Maquito,2.0627772306398986e-11
+Localidad_Aconquija,2.0626259302169875e-11
+Localidad_Federación,2.0626223520519416e-11
+Localidad_Oro Verde,2.062538806496742e-11
+Localidad_El Naranjo,2.0620571301320735e-11
+Localidad_Nueva Escocia,2.06142889045174e-11
+Localidad_Villa Mantero,2.0605166753893973e-11
+Localidad_General Lucio Victorio Mansilla,2.06000361603569e-11
+Localidad_Villa San Agustín,2.0598881717995194e-11
+Localidad_La Corita,2.059241706838651e-11
+Localidad_Mari Menuco,2.0589041398089403e-11
+Localidad_Divisadero,2.0580814964474205e-11
+Localidad_Del Campillo,2.0554253150317767e-11
+Localidad_Plaza Huincul,2.055159982094293e-11
+Localidad_Árraga,2.054566517859195e-11
+Localidad_Pagancillo,2.053613828930033e-11
+Partido_Guachipas,2.052090561093954e-11
+Localidad_Guachipas,2.052090561093954e-11
+Localidad_Viale,2.0519949619626825e-11
+Localidad_Cipolletti,2.0519227770461817e-11
+Localidad_Pozo Hondo,2.0511877458899373e-11
+Localidad_Las Lajitas,2.0496483648416742e-11
+Localidad_Lomas de Vallejos,2.0489026296046285e-11
+Localidad_Barranqueras,2.0484860899007737e-11
+Localidad_Miguel Riglos,2.0476472759834125e-11
+Localidad_Colonia Popular,2.047159654051653e-11
+Localidad_Los Helechos,2.0468141235021145e-11
+Localidad_Manantiales,2.046775500163092e-11
+Localidad_Santa Anita,2.0457231049974628e-11
+Localidad_Simbol,2.0454801547875922e-11
+Localidad_Palo Santo,2.044784836666052e-11
+Localidad_General San Martín (Est. Villa Alba),2.0435983385814877e-11
+Localidad_Colonia Alpina,2.0432620825181486e-11
+Localidad_Amaicha del Valle,2.042617714791906e-11
+Localidad_El Aguilar,2.041843250579197e-11
+Localidad_Humahuaca,2.04131638902757e-11
+Localidad_Real Sayana,2.0406265770022965e-11
+Localidad_San Gustavo,2.039761514376798e-11
+Localidad_Aguaray,2.0396459128266975e-11
+Localidad_Aldea San Antonio,2.0392365010999465e-11
+Localidad_Monte Comán,2.0389978349032524e-11
+Localidad_Embajador Martini,2.0389826449132774e-11
+Localidad_Fernández,2.0388307075617383e-11
+Localidad_Colonia Campo Villafañe,2.038034510833718e-11
+Localidad_Loncopué,2.0377683046593073e-11
+Localidad_Capioví,2.03749509478208e-11
+Localidad_Riacho Negro,2.036851953296487e-11
+Localidad_Colonia Aurora,2.0360104916198882e-11
+Localidad_Azara,2.035590811456073e-11
+Localidad_Villa Paranacito,2.0353317379442486e-11
+Localidad_El Pingo,2.034865297510821e-11
+Localidad_La Clotilde,2.034717253697192e-11
+Localidad_Gran Guardia,2.0344419453850795e-11
+Localidad_General Galarza,2.0344396899168496e-11
+Localidad_Colonia Tinco,2.0342850688961674e-11
+Localidad_Goudge,2.0337899065647506e-11
+Localidad_Bandera,2.0335386498288082e-11
+Localidad_La Cocha,2.0334123169097962e-11
+Localidad_Cobos,2.0331146142313663e-11
+Localidad_Balde,2.0328919439164713e-11
+Localidad_Nemesio Parma,2.0328607214291616e-11
+Localidad_Concepción de la Sierra,2.032796564851867e-11
+Localidad_Vilmer,2.0327189757719825e-11
+Localidad_Pajas Blancas,2.032284664552954e-11
+Localidad_Estación Tacañitas,2.0314637171246084e-11
+Localidad_Pozo del Mortero,2.0308385769378977e-11
+Localidad_Urdinarrain,2.029288168779167e-11
+Localidad_Quemú Quemú,2.0288723251720022e-11
+Localidad_Villa Salavina,2.028871900929248e-11
+Localidad_Eduardo Castex,2.0287310989503072e-11
+Localidad_San Genaro Norte,2.0285466414825567e-11
+Localidad_San Benito,2.0264489249406296e-11
+Localidad_Faustino M. Parera,2.0251437157923756e-11
+Localidad_Villa Domínguez,2.024788053073082e-11
+Localidad_Yerba Buena - Marcos Paz,2.0246911913761005e-11
+Localidad_Los Quiroga,2.024043614691038e-11
+Localidad_Alto Pencoso,2.0239182076944608e-11
+Localidad_Eugenio Bustos,2.0233039153084174e-11
+Localidad_San José de Metán,2.0232443503777294e-11
+Localidad_General Deheza,2.0217141271184104e-11
+Localidad_Villa El Chocón,2.021713929839025e-11
+Localidad_José de San Martín,2.0208164262311345e-11
+Localidad_Samuhú,2.020304288467944e-11
+Localidad_Colonia Elisa,2.020097471267999e-11
+Localidad_Las Breñas,2.0196106209598895e-11
+Localidad_Santiago del Estero,2.019409941965768e-11
+Localidad_Margarita Belén,2.0181647404095406e-11
+Localidad_Santa Rosa del Conlara,2.0180655441428092e-11
+Localidad_Alderetes,2.0179096782416076e-11
+Localidad_Rodríguez Peña,2.017828622926073e-11
+Localidad_Hermoso Campo,2.0168867844474098e-11
+Localidad_Coronel Juan Solá,2.0165609427137975e-11
+Localidad_La Reforma,2.0151095672886094e-11
+Localidad_Juan José Castelli,2.0149367426629932e-11
+Localidad_Bajada del Agrio,2.0145025633016456e-11
+Localidad_Guatraché,2.01443126054942e-11
+Localidad_Campo Largo,2.014285996850713e-11
+Localidad_Berón de Astrada,2.0139136712449295e-11
+Partido_Berón de Astrada,2.0139136712449295e-11
+Localidad_Coronel Hilario Lagos (Est. Aguas Buenas),2.0136337466670066e-11
+Localidad_Atahona,2.0132926853753226e-11
+Localidad_Estanislao del Campo,2.0129537508239052e-11
+Localidad_La Caldera,2.0123230708388437e-11
+Localidad_Angualasto,2.0121069372206535e-11
+Localidad_Jacinto Arauz,2.0119096412582315e-11
+Localidad_El Calafate,2.011896649798322e-11
+Localidad_Tres Isletas,2.0114804047465055e-11
+Localidad_Villa Mariano Moreno - El Colmenar,2.0111224032446038e-11
+Localidad_Coronel Mollinedo,2.0109338606342493e-11
+Localidad_Bowen,2.0101060204090933e-11
+Localidad_Yala,2.009913746784037e-11
+Localidad_José Rafael Gómez,2.009461894713406e-11
+Localidad_Villa Pehuenia,2.0083036972373905e-11
+Localidad_Lules,2.0082087085032716e-11
+Localidad_Colonia Elía,2.0076597658186027e-11
+Localidad_Angastaco,2.0075199828662853e-11
+Localidad_La Consulta,2.006719907941551e-11
+Localidad_Villa Don Bosco (Est. Angaco Sud),2.0066995174167604e-11
+Localidad_Barrio Cooperativa Los Campamentos,2.005549341070261e-11
+Localidad_Pomán,2.005525931901208e-11
+Localidad_Salta,2.0054422954091772e-11
+Localidad_Videla,2.0039907049010268e-11
+Localidad_Villa La Angostura,2.0032888510593454e-11
+Localidad_Gobernador Mansilla,2.0028073256553334e-11
+Localidad_Herradura,2.0022194141994773e-11
+Localidad_La Laguna,2.0018612971915638e-11
+Localidad_Colonia Benítez,2.000394657757379e-11
+Localidad_Pueblo Liebig's,1.999039313066001e-11
+Localidad_Colonia Pastoril,1.9986232762652595e-11
+Localidad_Villa Catedral,1.9985570758127277e-11
+Localidad_Anillaco,1.9985288173327672e-11
+Localidad_Llambi Campbell,1.9983848844127795e-11
+Localidad_Santa Rita,1.9982000581557762e-11
+Localidad_Alba Posse,1.996471817236733e-11
+Localidad_General Ramírez,1.9959003213401584e-11
+Localidad_Hocker,1.9958102860577695e-11
+Localidad_Tío Pujio,1.9955861363704168e-11
+Localidad_Caleufú,1.9944422863663715e-11
+Localidad_Villa Los Coihues,1.9944076072743266e-11
+Localidad_Chicoana,1.99434859422953e-11
+Localidad_Pareditas,1.9936962568040244e-11
+Localidad_Monte Maíz,1.9929484227447887e-11
+Localidad_Mainqué,1.992776628421722e-11
+Localidad_San Antonio de los Cobres,1.9923173394529012e-11
+Localidad_Desiderio Tello,1.9914420180026006e-11
+Localidad_Antilla,1.9910259875089912e-11
+Localidad_Arroyo Aguiar,1.989649840896e-11
+Localidad_Diamante,1.9888068290754255e-11
+Localidad_Villa Barbosa - Villa Nacusi,1.9884223865675603e-11
+Localidad_Fuerte Esperanza,1.9868126188023474e-11
+Localidad_Los Blancos,1.9863512312314013e-11
+Localidad_Ushuaia,1.985981747553188e-11
+Localidad_Allen,1.9847573355786055e-11
+Localidad_Rincón de Nogoyá,1.984705950535752e-11
+Localidad_Tortuguitas,1.9841072223148105e-11
+Localidad_Barda del Medio,1.9839538388374585e-11
+Localidad_El Soberbio,1.9830956479035127e-11
+Localidad_General Manuel J. Campos,1.9817228474590774e-11
+Localidad_Esquel,1.9816425217706092e-11
+Localidad_Los Charrúas,1.981514403082388e-11
+Localidad_Tabossi,1.9814523169970643e-11
+Localidad_Villa Río Hondo,1.9810587178681517e-11
+Localidad_Selva,1.9809910034428657e-11
+Localidad_Vera (Est. Gobernador Vera),1.978719923023176e-11
+Localidad_Agrelo,1.9786818752400744e-11
+Localidad_Montecristo,1.9766423189159333e-11
+Localidad_Chimbas,1.9764142786567035e-11
+Localidad_El Tipal - La Almudena,1.9761408158766946e-11
+Localidad_Sachayoj,1.9746642482034788e-11
+Localidad_Comodoro Rivadavia,1.974331105462159e-11
+Localidad_Fiambalá,1.9742427669071992e-11
+Localidad_Pueblo Arrúa (Est. Alcaraz),1.9740093556428888e-11
+Localidad_Godoy Cruz,1.9739304701842668e-11
+Localidad_Romang,1.9735148405904404e-11
+Localidad_La Sarita,1.9734669552093573e-11
+Localidad_Barrio Lomas de Tafí,1.971648748671479e-11
+Localidad_San Martín Norte,1.9714982622091044e-11
+Localidad_Estación Raíces,1.9713432856357734e-11
+Localidad_Piedras Blancas,1.9710126654555622e-11
+Localidad_Chañar Ladeado,1.9703645502995235e-11
+Localidad_Salto Encantado,1.97023193679192e-11
+Localidad_La Colonia,1.970203712365215e-11
+Localidad_Animaná,1.9700857950190633e-11
+Localidad_Río Seco,1.9692484235680327e-11
+Partido_Ullum,1.967216583840933e-11
+Localidad_Villa Ibáñez,1.967216583840933e-11
+Localidad_Dos Hermanas,1.9672125831764583e-11
+Localidad_Mojón Grande,1.967110211636631e-11
+Localidad_Chepes,1.9664997129673617e-11
+Localidad_Pueblo Santa Lucía,1.9664801397094786e-11
+Localidad_Carnerillo,1.9661825624730962e-11
+Localidad_Tolhuin,1.9661618038883176e-11
+Localidad_Bovril,1.965877385360118e-11
+Localidad_Viedma,1.965107373370577e-11
+Localidad_Taco Ralo,1.9645219802072535e-11
+Localidad_Gobernador López,1.963099032710148e-11
+Localidad_Barrio Ruta 40,1.9627762779986764e-11
+Localidad_Graneros,1.9627694018993147e-11
+Localidad_Contralmirante Cordero,1.9615624944789084e-11
+Localidad_Los Laureles,1.9614116573851876e-11
+Localidad_Corrientes,1.9614019456333615e-11
+Localidad_Diadema Argentina,1.9611303968379387e-11
+Localidad_Villa San Martín,1.9609841260557378e-11
+Localidad_Colonia Avigdor,1.9603608706025043e-11
+Localidad_Corralito,1.9601627219829026e-11
+Localidad_Choele Choel,1.9592698704868224e-11
+Localidad_Roldán,1.9591750393959216e-11
+Localidad_Arroyo Seco,1.9586316097040984e-11
+Localidad_Junín de los Andes,1.9584603508729405e-11
+Partido_Huiliches,1.9584603508729405e-11
+Localidad_Cerro Policía,1.957973885854444e-11
+Localidad_Resistencia,1.957089532240852e-11
+Localidad_El Manantial,1.9570246962088242e-11
+Localidad_Quines,1.9567136524990507e-11
+Localidad_Gobernador Igr. Valentín Virasoro,1.9559970267943385e-11
+Localidad_San Jaime de la Frontera,1.953859691757823e-11
+Localidad_Colonia Alicia,1.953680352104048e-11
+Localidad_Anchorena,1.9525128652295148e-11
+Partido_Tilcara,1.952179959293197e-11
+Localidad_Real del Padre,1.952126414421718e-11
+Localidad_Villa Krause,1.9508117190765673e-11
+Localidad_Villa Gobernador Gálvez,1.950444603312603e-11
+Localidad_Alijilán,1.9503262367672728e-11
+Localidad_El Quebrachal,1.950030858256786e-11
+Localidad_Villa Hipodromo,1.949653265670332e-11
+Localidad_Villa Regina,1.9489874019336604e-11
+Localidad_Perico,1.9480657183247833e-11
+Localidad_Sauce de Luna,1.948045930521281e-11
+Localidad_Catriel,1.9479324370417686e-11
+Localidad_Federal,1.9478010843424105e-11
+Localidad_Barrio Las Tunas,1.947666385448557e-11
+Localidad_Tupungato,1.9474965167234816e-11
+Localidad_La Dormida,1.9466209460892953e-11
+Localidad_Mendoza,1.946578293949662e-11
+Localidad_Ingeniero Luiggi,1.9460849748316116e-11
+Localidad_Atocha,1.9459371120240843e-11
+Localidad_Campo Durán,1.9458953532120357e-11
+Localidad_La Clarita,1.9450999967295573e-11
+Localidad_Cacheuta,1.9450100998199662e-11
+Localidad_Villa Ana,1.944938783581871e-11
+Localidad_Posadas,1.944592742350603e-11
+Localidad_Monterrico,1.9439562177659482e-11
+Localidad_Villa Paula Albarracin,1.9433982101428608e-11
+Localidad_Barreal,1.94248567474613e-11
+Localidad_Río Primero,1.941159489642857e-11
+Partido_Conesa,1.940984913914477e-11
+Localidad_Punta del Médano,1.9402588904124772e-11
+Localidad_Alberdi,1.9391380777006643e-11
+Localidad_Calilegua,1.93824455137342e-11
+Localidad_Yuto,1.9378306989663106e-11
+Localidad_San Martín II,1.9376592992259192e-11
+Partido_Escalante,1.9376083874676974e-11
+Localidad_Intendente Alvear,1.9355489013845467e-11
+Localidad_Ingeniero Luis A. Huergo,1.9353500635961462e-11
+Localidad_Telsen,1.935313640936161e-11
+Localidad_Cachi,1.9353110161286527e-11
+Localidad_Aimogasta,1.9350346459361424e-11
+Localidad_Puerto General San Martín,1.9346223498124866e-11
+Localidad_Arroyo Barú,1.9331533777486415e-11
+Localidad_Colonia Santa Rosa,1.9328520779781455e-11
+Localidad_Villa Lago Meliquina,1.9323394873692783e-11
+Localidad_Washington,1.9319976899549045e-11
+Localidad_Marcelino Escalada,1.9314923478061656e-11
+Localidad_Comandante Luis Piedrabuena,1.930635323791296e-11
+Localidad_Pozo del Molle,1.9301637480423313e-11
+Localidad_Neuquén,1.9300484886407994e-11
+Localidad_Rufino,1.9289637772981764e-11
+Localidad_Larroque,1.9289292059399498e-11
+Localidad_Isla Verde,1.9281754377798713e-11
+Localidad_El Rabón,1.92800186552457e-11
+Localidad_San Antonio de Obligado,1.926600588602114e-11
+Localidad_Alto Río Senguer,1.9261808432252406e-11
+Localidad_San Guillermo,1.9260051938193295e-11
+Localidad_Vértiz,1.9254513075625565e-11
+Localidad_Osvaldo Magnasco,1.925009205462982e-11
+Localidad_Telén,1.9245058480353028e-11
+Localidad_Río Mayo,1.9241990478597786e-11
+Localidad_Conscripto Bernardi,1.9241415935252663e-11
+Localidad_Campamento Vespucio,1.9241338457870157e-11
+Localidad_Ingeniero Jacobacci,1.9241073046348854e-11
+Localidad_Strobel,1.9238547055245035e-11
+Localidad_Fraga,1.9235475053217293e-11
+Localidad_San Joaquín,1.922925767531361e-11
+Localidad_Charata,1.9215636106444174e-11
+Localidad_Catriló,1.9213600732183383e-11
+Localidad_Pichanal,1.9212727645513508e-11
+Localidad_Rincón de los Sauces,1.9209115788111328e-11
+Localidad_Villa Urquiza,1.920845020955571e-11
+Localidad_Bengolea,1.9207972845053714e-11
+Localidad_Goya,1.9207648838267376e-11
+Localidad_Alicia,1.9206982000114465e-11
+Localidad_Río Segundo,1.9206081698069093e-11
+Localidad_Camarones,1.9198845141228673e-11
+Localidad_Sierra Grande,1.9198694836936353e-11
+Localidad_Villa Manzano,1.9196696256905533e-11
+Localidad_Villa Yacanto,1.91964941671165e-11
+Localidad_Calchaquí,1.9196022090124065e-11
+Localidad_Casas,1.9193419246883996e-11
+Localidad_Buena Vista,1.9188460269234433e-11
+Localidad_Estancia Vieja,1.9187362075082612e-11
+Localidad_San Francisco del Chañar,1.9182065246094192e-11
+Localidad_Manfredi,1.9180463053847155e-11
+Localidad_Pampayasta Sur,1.9166944789967854e-11
+Localidad_Agua de Oro,1.9164245275155898e-11
+Localidad_Epuyén,1.915953213300787e-11
+Localidad_Guardia Mitre,1.915693793574803e-11
+Localidad_Luján de Cuyo,1.9156682135560364e-11
+Localidad_Dalmacio Vélez,1.9150240711566886e-11
+Localidad_San Basilio,1.914501073534358e-11
+Localidad_Tilisarao,1.914356949502143e-11
+Localidad_San José de Feliciano,1.9143099461006238e-11
+Localidad_Corral de Bustos,1.914095727898937e-11
+Localidad_Providencia,1.91395086624463e-11
+Localidad_Rafael García,1.9136178729274787e-11
+Localidad_Caleta Olivia,1.9134093635980548e-11
+Localidad_Los Berros,1.913210846042427e-11
+Localidad_Potrerillos,1.912608701716918e-11
+Localidad_Molinos,1.9122016960619258e-11
+Localidad_San Martín de las Escobas,1.912018025934375e-11
+Localidad_Ubajay,1.9116698889655087e-11
+Localidad_La Para,1.9115747147938908e-11
+Localidad_El Galpón,1.911348003669551e-11
+Localidad_General Pizarro,1.9112890579473352e-11
+Localidad_Laguna Brava,1.9108544858318168e-11
+Localidad_Las Garcitas,1.9107301153056578e-11
+Localidad_Sumampa,1.9099397239199865e-11
+Localidad_Río Cuarto,1.9090971850707048e-11
+Localidad_Misión El Cruce - El Milagro - El Jardín de San Martín,1.9090035853045875e-11
+Localidad_La Toma,1.907855375303166e-11
+Localidad_Soldini,1.9077518307483916e-11
+Localidad_Villa Tulumaya,1.9075083457623847e-11
+Localidad_San Antonio de Litín,1.9070085988952644e-11
+Localidad_Bialet Massé,1.9069427723075913e-11
+Localidad_López (Est. San Martín de Tours),1.9068550375243627e-11
+Localidad_La Verde,1.9064089723766633e-11
+Localidad_Estación Clucellas,1.9058262511145866e-11
+Localidad_Elena,1.9056782744672878e-11
+Localidad_Guadalupe Norte,1.9055567751758213e-11
+Localidad_San Hilario,1.9052707343856467e-11
+Localidad_Piquillín,1.9051703878338527e-11
+Localidad_Guaraní,1.9049405236158815e-11
+Localidad_Colonia Rosa,1.9030573680208673e-11
+Partido_Sauce,1.9026865479205744e-11
+Localidad_Sauce,1.9026865479205744e-11
+Localidad_Carmen,1.9021662495076207e-11
+Localidad_El Sauzalito,1.9019952294511767e-11
+Localidad_Pujato,1.9018401069213194e-11
+Localidad_Isla de Cañas,1.90080478709446e-11
+Localidad_El Jardín,1.9007040646108426e-11
+Localidad_Maco,1.90050243904959e-11
+Localidad_Apóstoles,1.9004339402369465e-11
+Localidad_Las Arrias,1.9002321372380893e-11
+Localidad_Pueblo Uranga,1.8998636666830032e-11
+Localidad_Aluminé,1.899749561989784e-11
+Localidad_El Tunal,1.899676214072026e-11
+Localidad_Villa Olivari,1.8991963906754666e-11
+Localidad_Los Amores,1.8991091991868644e-11
+Localidad_Salto Grande,1.898937597782536e-11
+Localidad_La Francia,1.8984927398266555e-11
+Localidad_Padre Lozano,1.89720766687944e-11
+Localidad_Puerto San Julián,1.8968792651622362e-11
+Partido_Magallanes,1.8968792651622362e-11
+Localidad_Taco Pozo,1.8968718343767897e-11
+Localidad_Logroño,1.8965591371133405e-11
+Localidad_Fortín Cabo 1º Lugones,1.895245326647308e-11
+Localidad_Chabás,1.8940672290529133e-11
+Localidad_Barrio Mutual San Martín,1.8940262647681987e-11
+Localidad_Fracrán,1.8935548365916204e-11
+Localidad_Ranchillos,1.8926906624601373e-11
+Localidad_Hernando,1.891433791521124e-11
+Localidad_Itacaruaré,1.8913562072723293e-11
+Localidad_Arocena,1.8910523329998455e-11
+Localidad_Dolavon,1.8898801738733172e-11
+Localidad_Colonia Belgrano,1.8898798442572926e-11
+Localidad_Los Campamentos,1.8891830235763088e-11
+Localidad_Colonia Libertad,1.8887290521137523e-11
+Localidad_Volcán,1.8884934215861507e-11
+Localidad_San Salvador,1.8882381482195498e-11
+Localidad_El Fuerte,1.887972707067435e-11
+Localidad_Santa Victoria Este,1.8874209071272278e-11
+Localidad_Pico Truncado,1.887303162287642e-11
+Localidad_Los Frentones,1.887029069379318e-11
+Localidad_Puerto Iguazú,1.8863517985996897e-11
+Localidad_Basail,1.8861231817466843e-11
+Localidad_Maciá,1.8860050048728405e-11
+Localidad_Bombal,1.8858398174170778e-11
+Localidad_Quimilí,1.8857748024806364e-11
+Localidad_Miguel Cané,1.8857110641755792e-11
+Localidad_Los Menucos,1.884862487212257e-11
+Partido_Salavina,1.8845835152266798e-11
+Localidad_Playa Unión,1.8840890331162294e-11
+Localidad_Ballesteros,1.8838762022935504e-11
+Localidad_Gan Gan,1.8835433095965798e-11
+Localidad_Rada Tilly,1.8832441067403486e-11
+Localidad_Paso de los Libres,1.8828170383073518e-11
+Partido_Antofagasta de la Sierra,1.8827248630131675e-11
+Localidad_Antofagasta de la Sierra,1.8827248630131675e-11
+Localidad_Quinto Cuartel,1.8823095962395852e-11
+Localidad_San Antonio Oeste,1.8808665421788906e-11
+Localidad_Paso Viejo,1.8802618517257842e-11
+Localidad_Laguna Limpia,1.8799849696302034e-11
+Localidad_Santa Magdalena (Est. Jovita),1.878693830166934e-11
+Localidad_Las Compuertas,1.8778455311242815e-11
+Localidad_Labordeboy,1.877449400999803e-11
+Localidad_Colonia Aborigen,1.8770006650825522e-11
+Localidad_San Luis,1.876119577344252e-11
+Localidad_Pituil,1.874879124843707e-11
+Localidad_Gobernador Crespo,1.8748029036539934e-11
+Localidad_Los Hornillos,1.874484702142079e-11
+Localidad_Nuestra Señora del Rosario de Caá Catí,1.8743474433759913e-11
+Localidad_Pumahuasi,1.873816963040512e-11
+Localidad_Grutly,1.872620540017322e-11
+Localidad_Casilda,1.8721611919902196e-11
+Localidad_Tunuyán,1.8719413344667312e-11
+Localidad_Machagai,1.8714584032806832e-11
+Localidad_Villa Burruyacú,1.871305875664646e-11
+Localidad_Los Conquistadores,1.8712689576829948e-11
+Localidad_Monteagudo,1.8710437522965277e-11
+Localidad_Astica,1.8709861629275095e-11
+Localidad_La Carbonada,1.870843969054411e-11
+Localidad_Costasacate,1.8705016739079387e-11
+Localidad_Monigotes,1.8698022909079774e-11
+Localidad_Cordón del Plata,1.8696880350144047e-11
+Localidad_Santa Rosa de Río Primero,1.8690137195688083e-11
+Localidad_San Jerónimo Sud,1.8689294807819124e-11
+Localidad_Uspallata,1.868845542702164e-11
+Localidad_Famatina,1.86874279777602e-11
+Localidad_Las Leñas,1.868265859231576e-11
+Localidad_Olaeta,1.867798210613089e-11
+Localidad_Rodeo del Medio,1.867391206205585e-11
+Localidad_Oncativo,1.866848962724755e-11
+Localidad_Concepción del Bermejo,1.8668400833448243e-11
+Localidad_Vila,1.866658202277015e-11
+Localidad_Los Sauces,1.8666362191415076e-11
+Localidad_Jardín América,1.866089744170407e-11
+Localidad_Idiazabal,1.8657672401012143e-11
+Localidad_General Pico,1.8655208168002347e-11
+Localidad_28 de Noviembre,1.8651502693456038e-11
+Localidad_Ceres,1.865057056356727e-11
+Localidad_El Fortín,1.864495384461861e-11
+Localidad_Calchín,1.8638130958363925e-11
+Localidad_Ingeniero Giagnoni,1.863652755822956e-11
+Localidad_San Antonio de Arredondo,1.86349711387642e-11
+Localidad_Plottier,1.863130544963568e-11
+Localidad_Parada Pucheta,1.8601456908475793e-11
+Localidad_El Tabacal,1.8598700695594625e-11
+Localidad_Carreras,1.8598448293781626e-11
+Localidad_Rosales,1.858419951571052e-11
+Localidad_Monte Caseros,1.8579238349386998e-11
+Localidad_General Lagos,1.8578434276507906e-11
+Localidad_General José de San Martín,1.856729785030681e-11
+Partido_San Luis del Palmar,1.8566475993068978e-11
+Localidad_San Luis del Palmar,1.8566475993068978e-11
+Localidad_Zenón Pereyra,1.8559537998329583e-11
+Localidad_Chapanay,1.8554959637290646e-11
+Localidad_La Reducción,1.8548283603770155e-11
+Localidad_Rama Caída,1.8547314961721035e-11
+Localidad_Santa Clara de Saguier,1.8542141196045834e-11
+Localidad_Las Perlas,1.8537365297237578e-11
+Localidad_Deán Funes,1.8536562679327384e-11
+Localidad_Basavilbaso,1.8535185279283417e-11
+Localidad_Villa Atuel,1.853372241153192e-11
+Localidad_Ugarteche,1.8531798667906e-11
+Localidad_Barrio Mosconi,1.852990531384229e-11
+Localidad_Tala Cañada,1.8526440173022994e-11
+Localidad_Santa Clara de Buena Vista,1.852121461496834e-11
+Localidad_Barrio Perdriel IV,1.8519874716414882e-11
+Localidad_Angel Gallardo,1.8516343466528563e-11
+Localidad_Berna,1.8507844204123388e-11
+Localidad_Saturnino María Laspiur,1.8503522900565186e-11
+Localidad_Bell Ville,1.8503051839617856e-11
+Localidad_Beravebú,1.849397966608116e-11
+Localidad_Oliveros,1.8482682652797537e-11
+Partido_Atamisqui,1.847977601066233e-11
+Localidad_Subteniente Perín,1.8476805004943756e-11
+Localidad_Toledo,1.846391593810625e-11
+Localidad_Tolar Grande,1.8456021192896254e-11
+Localidad_La Tordilla,1.845561917519357e-11
+Localidad_Cervantes,1.8452127601447788e-11
+Localidad_Zavalla,1.845144646561909e-11
+Localidad_La Serranita,1.843505237774768e-11
+Localidad_Villa del Dique,1.84340309547057e-11
+Localidad_Monte Flores,1.8433970307557254e-11
+Localidad_Campichuelo,1.8433438109330063e-11
+Localidad_Colonia Juliá y Echarren,1.843087141178726e-11
+Localidad_Oasis,1.842992964062846e-11
+Localidad_Villa Ocampo,1.842574639610601e-11
+Localidad_Estación Taboada,1.8416016230837678e-11
+Localidad_Chacharramendi,1.841421468124547e-11
+Localidad_Seclantás,1.8404692559001404e-11
+Localidad_Montecaseros,1.8399152676704385e-11
+Localidad_Cafferata,1.8393342735258016e-11
+Localidad_Bella Italia,1.8386991463012938e-11
+Localidad_Sancti Spiritu,1.8386495942373323e-11
+Localidad_Hersilia,1.838293623756057e-11
+Localidad_El Carrizal,1.8362343698398162e-11
+Localidad_Eldorado,1.8360004180291744e-11
+Localidad_Colonias Unidas,1.8346859338409265e-11
+Localidad_Tres Lagunas,1.834515682340766e-11
+Localidad_Álvarez,1.8342314113080756e-11
+Localidad_Villa Rumipal,1.8337331921544626e-11
+Localidad_Puerto Deseado,1.833633428243229e-11
+Localidad_El Trapiche,1.8331246834894493e-11
+Localidad_General Vedia,1.8327269962131433e-11
+Localidad_Gaona,1.832425892157305e-11
+Localidad_Concarán,1.8320858659826163e-11
+Localidad_Puerto Rico,1.8316598829975154e-11
+Localidad_Aldea Valle María,1.8312711334232563e-11
+Localidad_Cazadores Correntinos,1.8312601197519423e-11
+Localidad_Chajarí,1.8304186729597156e-11
+Localidad_Saladas,1.8303917639774864e-11
+Localidad_Cayastá,1.8296338831002623e-11
+Localidad_Luyaba,1.829441159622893e-11
+Localidad_Puerto Pirámide,1.8287793394113642e-11
+Localidad_Ataliva Roca,1.828348976271732e-11
+Localidad_Fontana,1.828029073419406e-11
+Localidad_Godoy,1.8267980871812764e-11
+Localidad_Timbúes,1.825435233545782e-11
+Localidad_Las Palmeras,1.822994565202163e-11
+Localidad_Melo,1.8220055744880554e-11
+Localidad_Villa General Mitre (Est. Pinto),1.82169048271841e-11
+Localidad_Aguas Blancas,1.821577414870169e-11
+Localidad_Matilde,1.821334162271113e-11
+Partido_Cochinoca,1.8212383768078836e-11
+Localidad_Las Grutas,1.8211124130382596e-11
+Localidad_Gaboto,1.8207212768780706e-11
+Localidad_Trevelín,1.8204900818430496e-11
+Localidad_Díaz,1.8203471904224037e-11
+Localidad_Aldea San Juan,1.8202968183068925e-11
+Localidad_Brea Pozo,1.819880435609368e-11
+Localidad_Elisa,1.817683687974578e-11
+Localidad_San Cosme,1.8169075746223008e-11
+Localidad_Hernández,1.8164506722713303e-11
+Localidad_Nono,1.815984046123667e-11
+Localidad_Coronel Arnold,1.8153323871405112e-11
+Localidad_Valcheta,1.814329892587408e-11
+Partido_Río Seco,1.8142916701106546e-11
+Localidad_El Manzano,1.814066826265434e-11
+Localidad_María Susana,1.813849050410722e-11
+Localidad_Trelew,1.8126103819157118e-11
+Localidad_Arias,1.8121948924286357e-11
+Localidad_Barrio El Congreso,1.8119310176892933e-11
+Localidad_La Paquita,1.8117931058647205e-11
+Localidad_Máximo Paz (Est. Paz),1.8116343496956764e-11
+Localidad_Molino Doll,1.8111510841289685e-11
+Localidad_San Eugenio,1.8100019154651373e-11
+Localidad_Vuelta de la Barranca,1.8094229367485938e-11
+Localidad_Diego de Rojas,1.8086777943026462e-11
+Localidad_Venado Tuerto,1.8084136669563916e-11
+Localidad_Zapala,1.8082769992446765e-11
+Localidad_Ricardone,1.8082096506795333e-11
+Localidad_Costa Flores,1.8081646209122643e-11
+Localidad_Acceso Norte,1.807923322105883e-11
+Localidad_Las Bandurrias,1.8069698467768364e-11
+Localidad_Tres Cruces,1.8069513579733557e-11
+Localidad_Cerrito,1.806607610263036e-11
+Localidad_Tanti,1.806103986573049e-11
+Localidad_Arequito,1.8057282642075174e-11
+Localidad_Marull,1.8040305205214988e-11
+Localidad_Sanford,1.8033989441725847e-11
+Partido_Trancas,1.8033038474082083e-11
+Localidad_San Pedro de Colalao,1.8033038474082083e-11
+Localidad_Huanchillas,1.802963131581521e-11
+Localidad_Cholila,1.802628474495658e-11
+Localidad_El Tala,1.8022713214752868e-11
+Localidad_San Javier y Yacanto,1.8022462253364235e-11
+Localidad_Las Garzas,1.8011627307448564e-11
+Localidad_James Craik,1.8010700114276218e-11
+Localidad_11 de Octubre,1.8008913802128547e-11
+Localidad_Carmen del Sauce,1.800353279895782e-11
+Localidad_Montes de Oca,1.8003178527743892e-11
+Localidad_Armstrong,1.800209670654886e-11
+Localidad_Cerro Azul,1.7998381489743828e-11
+Localidad_Melincué (Est. San Urbano),1.799813665862755e-11
+Localidad_Las Perdices,1.799242291423154e-11
+Localidad_Calabacilla,1.7989389018482407e-11
+Localidad_Guatimozín,1.7988588627383152e-11
+Localidad_Las Bajadas,1.798786929522459e-11
+Localidad_Suardi,1.7987807559118354e-11
+Localidad_Golondrina,1.798052213650343e-11
+Localidad_Desvío Arijón,1.797707977084232e-11
+Localidad_Colonia La Argentina,1.797630881830648e-11
+Localidad_Bustinza,1.7975262206321137e-11
+Localidad_Nueva Francia,1.7974957505098052e-11
+Localidad_Hughes,1.7972328228433293e-11
+Localidad_Coronel Rodolfo S. Domínguez,1.797162509209452e-11
+Localidad_Frontera,1.7969371173888605e-11
+Localidad_Villa Concepción del Tío,1.7963599139791894e-11
+Localidad_Ticino,1.7961410690096776e-11
+Localidad_Arroyo Algodón,1.795364628961406e-11
+Localidad_Tancacha,1.7952982470504506e-11
+Localidad_Dumesnil,1.7944061994288425e-11
+Localidad_Villa San Marcial (Est. Gobernador Urquiza),1.79378431434404e-11
+Localidad_Villa del Totoral,1.793417926101183e-11
+Localidad_Urundel,1.7930744243771774e-11
+Localidad_Villa Allende,1.7929254634996218e-11
+Localidad_Rosario de Lerma,1.7928550535621302e-11
+Localidad_Vicuña Mackenna,1.7927511005938366e-11
+Localidad_Presidencia Roca,1.7922657622935418e-11
+Localidad_Colonia Vignaud,1.7919407420745866e-11
+Localidad_Leones,1.7917729817504647e-11
+Localidad_Villa Giardino,1.791549019444526e-11
+Localidad_Cruz del Eje,1.7915488510157117e-11
+Localidad_Los Cardos,1.7901884345215143e-11
+Localidad_La Playosa,1.7887444423404847e-11
+Localidad_San Francisco,1.7878775310351937e-11
+Localidad_Hualfín,1.7876427920972182e-11
+Localidad_Oliva,1.7866564923673877e-11
+Localidad_Uriburu,1.7862285101554458e-11
+Localidad_Reconquista,1.7859439231109535e-11
+Localidad_Wanda,1.7851787461175124e-11
+Localidad_Sargento Cabral,1.7847746967999668e-11
+Localidad_Río Tercero,1.7837517521727076e-11
+Localidad_General Levalle,1.7834456144275348e-11
+Localidad_Las Varas,1.7818688578665473e-11
+Localidad_Senillosa,1.7813859738313296e-11
+Localidad_San Carlos Centro,1.7809590699118973e-11
+Localidad_Aldea Protestante,1.7805447385847922e-11
+Localidad_La Eduvigis,1.78021146052531e-11
+Localidad_Cutral Có,1.7800877872237e-11
+Localidad_Chaupi Pozo,1.7795528808003325e-11
+Localidad_Tala Huasi,1.7795440410936886e-11
+Localidad_Luan Toro,1.7793857809234956e-11
+Localidad_Tres Porteñas,1.779117169591458e-11
+Localidad_Las Vertientes,1.7790789677283366e-11
+Localidad_Villa Ciudad Parque Los Reartes,1.779043842374425e-11
+Localidad_Villa Berthet,1.7787762892486084e-11
+Localidad_Las Junturas,1.777757505307208e-11
+Localidad_Humberto Primo,1.7777028287608624e-11
+Localidad_Felicia,1.7775954011230963e-11
+Localidad_Las Isletillas,1.7766305166025582e-11
+Localidad_San José de la Esquina,1.7765984383890786e-11
+Localidad_Ibarreta,1.7758627889312673e-11
+Localidad_Coronel Olleros,1.775504492179023e-11
+Localidad_Huinca Renancó,1.775461339356121e-11
+Localidad_Cafayate,1.7752551840947285e-11
+Localidad_Despeñaderos,1.774764648702965e-11
+Localidad_Estancia Grande,1.774676881640918e-11
+Localidad_Winifreda,1.7746724955065313e-11
+Localidad_Pueblo Muñoz (Est. Bernard),1.774266678656319e-11
+Localidad_General Fotheringham,1.7736023916396045e-11
+Localidad_La Falda,1.7733269322743722e-11
+Localidad_Capitán Solari,1.7731354250514718e-11
+Localidad_Gessler,1.7728070418304868e-11
+Localidad_Villa Huidobro,1.7725725900692144e-11
+Localidad_Pronunciamiento,1.772487305645891e-11
+Localidad_Tafí Viejo,1.7712653101514793e-11
+Localidad_Florencia,1.7712087888995864e-11
+Localidad_La Carlota,1.7711147058172426e-11
+Localidad_Villa de Pocho,1.7708767475265806e-11
+Localidad_Vista Alegre Norte,1.7697833862908127e-11
+Localidad_Caucete,1.7686207385848553e-11
+Localidad_Cruz Alta,1.7682435878107157e-11
+Localidad_Nelson,1.768243100010316e-11
+Localidad_Villa de las Rosas,1.76811139083145e-11
+Localidad_28 de Julio,1.767611294974922e-11
+Localidad_Arroyo Los Patos,1.7675971076204122e-11
+Localidad_Coronda,1.7661718157909312e-11
+Localidad_Lavalle,1.7655102961237755e-11
+Localidad_Paraná,1.765283659331968e-11
+Localidad_Empalme San Carlos,1.7644715394378818e-11
+Localidad_Chapuy,1.763037621504427e-11
+Localidad_Pozo Borrado,1.7628023829200407e-11
+Localidad_Luque,1.762309001534843e-11
+Localidad_Fortín Olmos,1.760818424214672e-11
+Localidad_Sinsacate,1.760588371878183e-11
+Localidad_Peyrano,1.7601737789881624e-11
+Localidad_Gödeken,1.7599561208296542e-11
+Localidad_Puerto Madryn,1.759772838833738e-11
+Partido_Toay,1.7592377582194608e-11
+Localidad_Toay,1.7592377582194608e-11
+Localidad_Las Acequias,1.757886007649067e-11
+Localidad_Chovet,1.757779654332623e-11
+Localidad_Teodelina,1.7559881132928572e-11
+Localidad_San Eduardo,1.7555341809636982e-11
+Localidad_Carcarañá,1.7547402480286913e-11
+Localidad_Charras,1.7539625934944425e-11
+Localidad_Villa Santa Cruz del Lago,1.753229984325632e-11
+Localidad_Landeta,1.7530490626469465e-11
+Localidad_Sastre,1.7527115122541068e-11
+Localidad_Las Rosas,1.7525949500520495e-11
+Localidad_Huanqueros,1.7515983352354357e-11
+Localidad_Juan Pujol,1.7511410971999907e-11
+Localidad_Estación Libertad,1.750349648534513e-11
+Localidad_Villa Minetti,1.7488900490059785e-11
+Localidad_La Criolla (Est. Cañadita),1.7486549710569124e-11
+Localidad_Fighiera,1.7481567404724427e-11
+Localidad_Trenel,1.7462881468278605e-11
+Localidad_Villa Guillermina,1.7454387170231525e-11
+Localidad_Silvio Pellico,1.7449061785828202e-11
+Localidad_Gaiman,1.743896598431241e-11
+Localidad_Justiniano Posse,1.7433091273174965e-11
+Localidad_Las Varillas,1.742237486624627e-11
+Localidad_Piamonte,1.7418173702889787e-11
+Localidad_Amenábar,1.741561142049237e-11
+Localidad_Serrano,1.7409289951451683e-11
+Localidad_Estación Luxardo,1.7407021405745106e-11
+Localidad_General Enrique Godoy,1.740596079769918e-11
+Localidad_Soledad,1.7382731059114374e-11
+Localidad_Marcos Juárez,1.7382317734050815e-11
+Localidad_Totoras,1.737949458391498e-11
+Localidad_Colonia San Bartolomé,1.7376790389535766e-11
+Localidad_Chazón,1.7374837662334555e-11
+Localidad_Salsacate,1.737423718262561e-11
+Localidad_El Trébol,1.737298657451817e-11
+Localidad_Etruria,1.7369861380673595e-11
+Localidad_Puelches,1.7368087705998602e-11
+Localidad_San Carlos Norte,1.7359332926772035e-11
+Localidad_Gregoria Pérez de Denis (Est. El Nochero),1.735922724340555e-11
+Localidad_Plaza Clucellas,1.7347462012172155e-11
+Localidad_La Candelaria,1.7345095845490368e-11
+Localidad_Brinkmann,1.7343295047525863e-11
+Localidad_Alpachiri,1.7342767695044012e-11
+Localidad_Ambrosetti,1.7341116685235637e-11
+Localidad_Los Altos,1.7340571260682143e-11
+Localidad_El Carmen,1.7338904886971475e-11
+Localidad_Villa El Palmar,1.7336400184819082e-11
+Localidad_La Paisanita,1.7329736591203726e-11
+Localidad_La Higuera,1.7328254417727156e-11
+Localidad_Porteña,1.7327732490329774e-11
+Localidad_Wheelwright,1.7327703008175574e-11
+Localidad_Los Antiguos,1.732516495937621e-11
+Localidad_María Juana,1.731294628963323e-11
+Localidad_Plaza San Francisco,1.7310401500337052e-11
+Localidad_Lehmann,1.7309359963194788e-11
+Localidad_Colonia Bossi,1.7307139366584255e-11
+Localidad_Paso de Indios,1.7305474147787656e-11
+Localidad_Colonia Almada,1.7301206060296164e-11
+Localidad_Las Tapias,1.7299424189786072e-11
+Localidad_Aldao,1.7294312492497563e-11
+Localidad_Tartagal,1.729375862996932e-11
+Localidad_Puerto Santa Cruz,1.7287197351408257e-11
+Localidad_Cinco Saltos,1.727605431649797e-11
+Partido_Mitre,1.7274026090397803e-11
+Localidad_Huerta Grande,1.727260895384961e-11
+Localidad_Villa Los Llanos - Juárez Celman,1.7264449969928163e-11
+Localidad_Villa Tulumba,1.7262315364317473e-11
+Localidad_Capilla del Carmen,1.7253359478662568e-11
+Localidad_Potrero de los Funes,1.7249414011739932e-11
+Localidad_Serrezuela,1.7247347686561125e-11
+Localidad_Esmeralda,1.7241030859797036e-11
+Localidad_Arroyo Cabral,1.723799092419563e-11
+Localidad_Carlos Pellegrini,1.7230048514693365e-11
+Localidad_Gálvez,1.722145208863016e-11
+Localidad_Fuentes,1.7216127056174976e-11
+Localidad_Ordóñez,1.7202681703776267e-11
+Localidad_Morrison,1.7198499105988438e-11
+Partido_Picún Leufú,1.7194711629065618e-11
+Localidad_Picún Leufú,1.7194711629065618e-11
+Localidad_Colonia Bicha,1.719467722604595e-11
+Localidad_Carrizales (Est. Clarke),1.718900873808303e-11
+Localidad_Los Cisnes,1.718770505431155e-11
+Localidad_Mundo Nuevo,1.7176043660167e-11
+Localidad_San Jerónimo del Sauce,1.7173097987890534e-11
+Localidad_Empalme Villa Constitución,1.7170292657701898e-11
+Localidad_San Ramón de la Nueva Orán,1.714923298225568e-11
+Localidad_San Gregorio,1.7142356923235622e-11
+Localidad_Villa General Belgrano,1.71392245670148e-11
+Localidad_Progreso,1.7132543353342556e-11
+Localidad_Mendiolaza,1.7129470924010405e-11
+Localidad_Presidencia Roque Sáenz Peña,1.712185656639298e-11
+Partido_Comandante Fernández,1.712185656639298e-11
+Localidad_General Baldissera,1.7121399820165308e-11
+Localidad_Colonia Ensanche Sauce,1.712098143611305e-11
+Localidad_Vera y Pintado (Est. Guaraníes),1.7114314459641773e-11
+Localidad_Esteban Rams,1.7108939194145485e-11
+Localidad_Kilómetro 101,1.7096831194253535e-11
+Localidad_Pasco,1.709415458762864e-11
+Localidad_Colonia Dolores,1.7093082354177756e-11
+Localidad_San Jerónimo Norte,1.7090428867350013e-11
+Localidad_Cañada del Sauce,1.70888676518768e-11
+Localidad_Villa de María,1.708504170355903e-11
+Localidad_Cuchillo Co,1.70849942329714e-11
+Partido_Lihuel Calel,1.70849942329714e-11
+Localidad_Chosmes,1.7083079310667468e-11
+Localidad_General Campos,1.7075722224321352e-11
+Localidad_Río Piedras,1.707184724965697e-11
+Localidad_Lozada,1.7066846475803498e-11
+Localidad_Cerro Colorado,1.7056207522581386e-11
+Localidad_Seguí,1.7045158427032268e-11
+Localidad_Panquehua,1.7044378428142776e-11
+Localidad_Valle Hermoso,1.7040545945818347e-11
+Localidad_Gobernador Solá,1.703545919257614e-11
+Partido_Mercedes,1.703278892957431e-11
+Localidad_Ciénaga del Coro,1.7032381455266912e-11
+Localidad_Córdoba,1.7012686164917042e-11
+Localidad_Laboulaye,1.7008204944319764e-11
+Localidad_Bernardo de Irigoyen,1.699571828563777e-11
+Localidad_General Cabrera,1.6965530800293018e-11
+Localidad_El Alcázar,1.695322567675099e-11
+Localidad_Capilla Vieja,1.6950339557620664e-11
+Localidad_El Carril,1.6916516927111617e-11
+Localidad_El Palenque,1.691591318981581e-11
+Localidad_Toro Pujio,1.6915577324158118e-11
+Localidad_Tacural,1.6901420882559725e-11
+Localidad_Los Cóndores,1.6900987062048038e-11
+Localidad_Pérez,1.6899853426650868e-11
+Localidad_Santa Catalina (Est. Holmberg),1.6894557199609267e-11
+Localidad_Colonia Cello,1.6888738476667614e-11
+Localidad_Los Quirquinchos,1.688679993098273e-11
+Localidad_Villa Constitución,1.6886383976365035e-11
+Localidad_Ibarlucea,1.6879272316384226e-11
+Localidad_Santa Eufemia,1.6877993048528307e-11
+Localidad_Santa Fe,1.687359742962551e-11
+Localidad_Piñero (Est. Erasto),1.686080748340555e-11
+Localidad_Río Gallegos,1.6859512264485773e-11
+Localidad_San Martín de los Andes,1.685461000868545e-11
+Localidad_Campo Santo,1.6853089385542313e-11
+Localidad_Murphy,1.685245784506804e-11
+Localidad_Tortugas,1.683275731031717e-11
+Localidad_Villa Saralegui,1.683234723733833e-11
+Localidad_Villaguay,1.6831374482252966e-11
+Localidad_El Araza,1.683054895978256e-11
+Localidad_Ramona,1.6821667711123792e-11
+Localidad_Unquillo,1.6820805214377594e-11
+Localidad_La Pelada,1.6819035892891677e-11
+Localidad_Los Cerrillos,1.6815088413631505e-11
+Localidad_Susana,1.6814551419017236e-11
+Localidad_Pueblo Italiano,1.6803111138737827e-11
+Localidad_Arroyo Leyes,1.679159310633122e-11
+Localidad_San Carlos Sud,1.678263655596346e-11
+Localidad_Bouquet,1.6782227633426125e-11
+Localidad_Coronel Bogado,1.6781466641901838e-11
+Localidad_Lago Puelo,1.678072981550938e-11
+Localidad_Chaján,1.677914454880806e-11
+Localidad_Colonia Las Rosas,1.6773381807010622e-11
+Localidad_Saldán,1.6773087786956867e-11
+Localidad_Serodino,1.6772259528676723e-11
+Localidad_General Paz,1.6771640005491727e-11
+Localidad_Las Petacas,1.6770353906700445e-11
+Localidad_Río Ceballos,1.6764767733626893e-11
+Localidad_Cavanagh,1.67626847324428e-11
+Localidad_El Tío,1.6756185520425853e-11
+Localidad_Santiago Temple,1.675305369305382e-11
+Localidad_Arrufo,1.675157707311994e-11
+Localidad_Aarón Castellanos (Est. Castellanos),1.6748011322267453e-11
+Localidad_Villa Mugueta,1.674593096652807e-11
+Localidad_Bigand,1.6740480346895552e-11
+Localidad_Salto de Las Rosas,1.6740134243914865e-11
+Localidad_Gato Colorado,1.6739369732035942e-11
+Localidad_Santa Margarita,1.673691917022743e-11
+Localidad_Los Barriales,1.6733112050699108e-11
+Localidad_Monte Buey,1.672886132130167e-11
+Localidad_Yacimientos Río Turbio,1.6726384860830113e-11
+Localidad_Seeber,1.672142973872105e-11
+Localidad_San Marcos Sierra,1.6719294361510612e-11
+Localidad_Bernasconi,1.6706774183388535e-11
+Localidad_Villa La Bolsa,1.667919830030449e-11
+Localidad_Villa María,1.6676743089059135e-11
+Localidad_Ascochinga,1.667544642006851e-11
+Localidad_San José de la Dormida,1.6674547570414374e-11
+Localidad_Piedra del Águila,1.6664471564601927e-11
+Localidad_San Genaro,1.666219296005064e-11
+Localidad_Rosario,1.6656907155756198e-11
+Localidad_Pueblo Andino,1.6653826817668485e-11
+Localidad_Lanteri,1.6651841829260198e-11
+Localidad_Vista Flores,1.6643305769695462e-11
+Localidad_Russell,1.6641760396631477e-11
+Localidad_San Cristóbal,1.6634560392141346e-11
+Localidad_Villa Amancay,1.6627893297659328e-11
+Localidad_Capitán Bermúdez,1.661585505039871e-11
+Localidad_Bulnes,1.6609117236511448e-11
+Localidad_María Teresa,1.6607856156412452e-11
+Localidad_Funes,1.6577606671507202e-11
+Localidad_Monte Ralo,1.6576197546349497e-11
+Localidad_Banda del Río Salí,1.6563976362703544e-11
+Localidad_Gastre,1.656113892196047e-11
+Localidad_Jesús María,1.6550511676443762e-11
+Localidad_María Luisa,1.6534264335023967e-11
+Localidad_Villa Carlos Paz,1.6507141625349002e-11
+Localidad_Luis Palacios (Est. La Salada),1.650640419645636e-11
+Localidad_Embarcación,1.650600998399087e-11
+Localidad_Tacuarendí (Emb. Kilómetro 421),1.6504593440865175e-11
+Partido_Pellegrini,1.649865335017217e-11
+Localidad_Centeno,1.6489083800415365e-11
+Localidad_Las Catitas,1.6460895230314612e-11
+Localidad_Villa Quilino,1.6455015464293594e-11
+Localidad_Devoto,1.6454609906649463e-11
+Partido_Libertad,1.6440902284512375e-11
+Localidad_Caviahué,1.6428755383967046e-11
+Localidad_San Carlos Minas,1.6418949447214475e-11
+Localidad_Viamonte,1.64180237261112e-11
+Localidad_Aldao (Est. Casablanca),1.6405690506797995e-11
+Localidad_General Gelly,1.640369843652962e-11
+Localidad_Laguna Paiva,1.6403485175648783e-11
+Localidad_Pascanas,1.6389433783768248e-11
+Localidad_Villa Río Icho Cruz,1.6380970855458448e-11
+Localidad_Embalse,1.6369705129143895e-11
+Localidad_Intiyaco,1.6352732430472705e-11
+Localidad_Chos Malal,1.6333949268622883e-11
+Localidad_Villa Parque Santa Ana,1.6333510711845082e-11
+Localidad_Pueblo Esther,1.6323914070585857e-11
+Localidad_Potrero de Garay,1.6320964967123444e-11
+Localidad_Portezuelo,1.6307888456549633e-11
+Localidad_Puerto Arroyo Seco,1.630126763633175e-11
+Partido_Cañuelas,1.6299081811279336e-11
+Localidad_Alejandra,1.6295350543078102e-11
+Localidad_Coronel Baigorria,1.6289862396958797e-11
+Localidad_La Palestina,1.6271144805134233e-11
+Localidad_San Francisco de Santa Fe,1.6270388785588236e-11
+Localidad_Cañada de Gómez,1.6262938030908725e-11
+Localidad_Alcorta,1.6260485515398768e-11
+Localidad_Monje,1.621728189912319e-11
+Localidad_Las Moscas,1.621568137351074e-11
+Localidad_Las Higueras,1.6208661811904885e-11
+Localidad_Alejo Ledesma,1.6206288168931876e-11
+Localidad_Tartagal (Est. El Tajamar),1.619466948321228e-11
+Localidad_Maggiolo,1.6194649903551368e-11
+Localidad_Villa Valeria,1.61894121940754e-11
+Localidad_San Andrés,1.6183801563249057e-11
+Localidad_General Ballivián,1.6160723719045365e-11
+Localidad_Chucul,1.615955249009373e-11
+Localidad_Achiras,1.6152768707428744e-11
+Localidad_Salsipuedes,1.614756224413933e-11
+Localidad_Villa San Lorenzo,1.614719454934035e-11
+Localidad_Chuña,1.614443118045477e-11
+Localidad_Vichigasta,1.6125294660994762e-11
+Localidad_Carpinteria,1.6115494300592583e-11
+Localidad_Lucio V. López,1.6109377955654634e-11
+Localidad_Juan B. Molina,1.610920675151516e-11
+Localidad_Margarita,1.6091920745880555e-11
+Localidad_Palacios,1.608388332727109e-11
+Localidad_Alta Gracia,1.6078446936552093e-11
+Localidad_Arteaga,1.6072676876940014e-11
+Localidad_Moisés Ville,1.6072428115766394e-11
+Localidad_Añelo,1.6064024340520522e-11
+Localidad_Rincón,1.6061352451155673e-11
+Localidad_Villa Ciudad de América (Loteo Diego de Rojas),1.605985900621309e-11
+Localidad_Payogasta,1.605114786868767e-11
+Localidad_Acebal,1.600338938284416e-11
+Localidad_Arroyo Ceibal,1.598952181331739e-11
+Localidad_Santa Rosa de Calamuchita,1.5967953237938214e-11
+Localidad_Capitán Montoya,1.5960162716363467e-11
+Localidad_Las Parejas,1.5957541227200443e-11
+Localidad_Villa Eloísa,1.595678785708768e-11
+Localidad_Los Reartes,1.5954793655040887e-11
+Localidad_Villa Parque Siquimán,1.5926710035339515e-11
+Localidad_Curuzú Cuatiá,1.590834546247184e-11
+Localidad_Cañada Ombú,1.5906392901983238e-11
+Localidad_Adelia María,1.588977297336456e-11
+Localidad_El Fuertecito,1.58799506132169e-11
+Localidad_La Cesira,1.5879711433820435e-11
+Localidad_Los Surgentes,1.5865432359213823e-11
+Localidad_Malagueño,1.5829576894105647e-11
+Localidad_Tránsito,1.5825663555761104e-11
+Localidad_La Central,1.5817115422635066e-11
+Localidad_Pirané,1.581604792194697e-11
+Localidad_Varvarco,1.5811975987054547e-11
+Localidad_Maciel,1.5772454610207547e-11
+Localidad_Los Cocos,1.5753282993847404e-11
+Localidad_Colonia Caroya,1.5752920056318772e-11
+Localidad_Mina Clavero,1.5745760015271747e-11
+Localidad_Alcira (Est. Gigena),1.5743997202960863e-11
+Localidad_General Racedo,1.5734963624027667e-11
+Localidad_Villa Cura Brochero,1.5731943994245076e-11
+Localidad_Puerto Eva Perón,1.571298471475172e-11
+Localidad_Larrechea,1.57038060203363e-11
+Localidad_Ataliva,1.5703790897048273e-11
+Localidad_Colonia Tirolesa,1.5635898614745924e-11
+Localidad_Santa María de Punilla,1.560853405130177e-11
+Localidad_Nuevo Torino,1.5604852234479708e-11
+Localidad_Nueva Vizcaya,1.560356958597957e-11
+Localidad_El Arañado,1.5599205429073185e-11
+Localidad_La Picada,1.5593681974937155e-11
+Localidad_Inriville,1.5574463168406333e-11
+Localidad_Plaza Saguier,1.5571367223051054e-11
+Localidad_La Gallareta,1.5554962412224885e-11
+Localidad_Gobernador Costa,1.5533101621430758e-11
+Localidad_Buta Ranquil,1.552723005046151e-11
+Localidad_Villa de Soto,1.5518952094941058e-11
+Localidad_Garabato,1.5514013769223214e-11
+Localidad_José de la Quintana,1.5513996000190642e-11
+Localidad_Villa Cañás,1.5503454591207217e-11
+Localidad_Eusebia y Carolina,1.5482467710928362e-11
+Localidad_Elortondo,1.5476525875709217e-11
+Localidad_Concordia,1.5467498744771053e-11
+Localidad_Chancani,1.5458825424006143e-11
+Localidad_San Patricio del Chañar,1.5447899378864367e-11
+Partido_San Roque,1.5397759439913667e-11
+Partido_General Taboada,1.539623684341861e-11
+Localidad_Sauce Viejo,1.5396062860995996e-11
+Localidad_San Ignacio (Loteo Vélez Crespo),1.5391673650550944e-11
+Localidad_Sunchales,1.5390830142369237e-11
+Localidad_Emilia,1.538670542592604e-11
+Localidad_Morteros,1.537207983880394e-11
+Localidad_Río Bamba,1.537094726644209e-11
+Localidad_Quilino,1.533714858007938e-11
+Localidad_Santa Rosa de Calchines,1.531751239634834e-11
+Localidad_Ingenio San Pablo,1.53158729101997e-11
+Localidad_Cosquín,1.5304609189563543e-11
+Localidad_Pavón Arriba,1.530397648201049e-11
+Localidad_Malabrigo,1.529329313998056e-11
+Localidad_Colazo,1.528170503996269e-11
+Localidad_Sacanta,1.5275437356845856e-11
+Localidad_La Brava,1.5261438064874658e-11
+Localidad_Angélica,1.524536784395916e-11
+Localidad_Pozo del Tigre,1.5193563102584846e-11
+Localidad_Pedro Gómez Cello,1.5178458944794078e-11
+Localidad_Loma Verde,1.51688412587418e-11
+Localidad_Carrilobo,1.510140687547042e-11
+Localidad_Camilo Aldao,1.5101141159431965e-11
+Localidad_Freyre,1.5057057870834253e-11
+Localidad_Saladero Mariano Cabal,1.5049290358286383e-11
+Localidad_Irigoyen,1.503167361640441e-11
+Localidad_Villa Berna,1.5020732278875054e-11
+Localidad_Altos de Chipión,1.499131678047515e-11
+Localidad_Río de los Sauces,1.4967049860862538e-11
+Localidad_Benjamín Gould,1.4940354189214492e-11
+Localidad_Concepción del Uruguay,1.4938215041297428e-11
+Partido_Brandsen,1.491972802135084e-11
+Localidad_Capilla del Monte,1.489046212344524e-11
+Localidad_Josefina,1.4885680541383517e-11
+Localidad_Classon,1.483600727233151e-11
+Localidad_Colonia Barón,1.481509266408883e-11
+Localidad_Villa Ascasubi,1.4814741363170858e-11
+Localidad_Wenceslao Escalante,1.480427076748933e-11
+Partido_Malvinas Argentinas,1.4796056913093463e-11
+Partido_General Rodríguez,1.4793673328636174e-11
+Localidad_Ausonia,1.478435321663154e-11
+Localidad_Rafaela,1.4779808166142285e-11
+Localidad_Canals,1.4735247789047523e-11
+Partido_Zárate,1.4734980360210295e-11
+Localidad_Presidente Roca,1.472497291798574e-11
+Localidad_Laguna Larga,1.469013191825026e-11
+Partido_Dolores,1.4667341129472283e-11
+Localidad_Firmat,1.4622554214858495e-11
+Localidad_Sebastián Elcano,1.4601002245969803e-11
+Localidad_Bernardo de Irigoyen (Est. Irigoyen),1.4509320203608262e-11
+Localidad_Noetinger,1.4507190486232783e-11
+Partido_Tordillo,1.4455029848343428e-11
+Localidad_Villa Adelina,1.4413180483575167e-11
+Localidad_Ucacha,1.4384975927498753e-11
+Localidad_Canning,1.4366486965932483e-11
+Partido_Daireaux,1.432699173470067e-11
+Partido_Quebrachos,1.432599708662465e-11
+Localidad_Cacique Ariacaiquín,1.4323315206734709e-11
+Localidad_Los Zapallos,1.4289612406613945e-11
+Localidad_Monte Vera,1.4264241380014181e-11
+Localidad_Alejandro Roca (Est. Alejandro),1.4218827162249537e-11
+Localidad_San Jorge,1.4205697428594407e-11
+Partido_Ensenada,1.4162422362371016e-11
+Localidad_Laborde,1.4156928892348494e-11
+Localidad_Villa Reducción,1.4151632593990735e-11
+Localidad_Villada,1.4101231546431837e-11
+Localidad_Diego de Alvear,1.4079066629493885e-11
+Localidad_Berrotarán,1.4071107318877564e-11
+Localidad_Humboldt,1.4066127240818433e-11
+Localidad_Granadero Baigorria,1.4056687946848101e-11
+Localidad_Alto Alegre,1.4051642529336481e-11
+Partido_Chascomús,1.4041011181889782e-11
+Localidad_Lozano (Ap. Chañi),1.3934710505885275e-11
+Localidad_La Granja,1.3920481361046233e-11
+Partido_Monte Hermoso,1.3896922195407878e-11
+Localidad_Colonia Marina,1.3809998329302663e-11
+Localidad_Franck,1.3796026685309213e-11
+Partido_General Guido,1.3730103764739225e-11
+Localidad_Christophersen,1.371004223826654e-11
+Localidad_Del Viso,1.369808799280439e-11
+Localidad_Hipólito Bouchard,1.363804341399144e-11
+Localidad_Candioti,1.3611193284277897e-11
+Partido_Chicligasta,1.3469238756318766e-11
+Localidad_Tostado,1.325458202174099e-11
+Localidad_San Francisco Solano,1.3063734186861346e-11
+Partido_Rosario de Lerma,1.2900814920927017e-11
+Partido_Suipacha,1.2880275321000562e-11
+Localidad_Correa,1.2853383680286754e-11
+Localidad_Villa Fontana,1.2841114129548893e-11
+Localidad_Tolombón,1.2545200145248034e-11
+Partido_Pinamar,1.2408918095537073e-11
+Localidad_San Pedro,1.2362117467118869e-11
+Localidad_Gerli,1.2144407541432744e-11
+Partido_Tumbaya,1.172082214720402e-11
+Partido_Picunches,1.0777625535391792e-11
+Partido_Mayor Luis J. Fontana,1.0421821363708303e-11
+Localidad_San Javier,1.034840437867669e-11
+Partido_San Cristóbal,1.0127467616159946e-11
+Localidad_Dolores,8.92683664562457e-12
+Localidad_Indio Rico,8.743278897071055e-12
+Localidad_Agustín Roca,8.739405690989709e-12
+Localidad_Baigorrita,8.655062047598184e-12
+Localidad_Chivilcoy,8.635611194489733e-12
+Partido_Rawson,8.544741513377392e-12
+Localidad_Villa Astolfi,8.54202178222922e-12
+Localidad_Sierra de los Padres,8.46769618785171e-12
+Localidad_Santa Coloma,8.452920479428826e-12
+Localidad_Transradio,8.325010158271068e-12
+Localidad_Area De Promocion El Triángulo,8.310784131642284e-12
+Localidad_Bajo Hondo,8.295974664651483e-12
+Localidad_General Belgrano,8.295514075329994e-12
+Localidad_Casbas,8.259136958117926e-12
+Localidad_Wilde,8.259014652121263e-12
+Localidad_Villa Laguna La Brava,8.254157181264039e-12
+Localidad_Lucila Del Mar,8.232406014106286e-12
+Localidad_Arroyo Dulce,8.229979861610249e-12
+Localidad_El Palomar,8.215723492544505e-12
+Localidad_Grand Bourg,8.212448642481217e-12
+Localidad_Carhué,8.182068114007187e-12
+Localidad_Ramos Mejía,8.169632832654999e-12
+Localidad_Adrogué,8.155872309915354e-12
+Localidad_Ingeniero White,8.15021094259589e-12
+Localidad_Bahía San Blas,8.146092184191716e-12
+Localidad_Ingeniero Pablo Nogués,8.14478834368596e-12
+Localidad_Campo De Mayo,8.140683378667993e-12
+Localidad_Villa Bosch (Est. Juan Maria Bosch),8.137622429606131e-12
+Localidad_Oriente,8.12151376739095e-12
+Localidad_Del Valle,8.093768522761247e-12
+Localidad_Loma Hermosa,8.09181988359905e-12
+Localidad_ruta del sol,8.085024172999492e-12
+Partido_Simoca,8.066450340173752e-12
+Localidad_Gardey,8.065619949060495e-12
+Localidad_Barrio El Taladro,8.057087798487251e-12
+Localidad_Sierra Chica,8.043079120390565e-12
+Localidad_Saenz Peña,8.041978541238222e-12
+Localidad_Santa Regina,8.022087631031718e-12
+Localidad_Salliqueló,8.011054730221833e-12
+Localidad_Pellegrini,7.98579590485896e-12
+Localidad_Puán,7.98273450140961e-12
+Localidad_Roberts,7.97540255901474e-12
+Localidad_Dudignac,7.960179006844691e-12
+Localidad_General Rodríguez,7.959140703972276e-12
+Localidad_General O'Brien,7.936909930155622e-12
+Localidad_Carapachay,7.935354441432791e-12
+Localidad_Gowland,7.929117099405316e-12
+Localidad_Desvío Aguirre,7.923776932430735e-12
+Localidad_Cañada Seca,7.917113206113577e-12
+Localidad_La Violeta,7.91012980938767e-12
+Localidad_Mar de Ajó - San Bernardo,7.907218552926318e-12
+Localidad_Ferré,7.89805611973951e-12
+Localidad_América,7.897629809880508e-12
+Localidad_Del Carril,7.890484507131153e-12
+Localidad_Ciudad Del Libertador General San Martin,7.886703578192616e-12
+Localidad_Presidente Derqui,7.87119599898021e-12
+Localidad_Villa Arguello,7.861424263859026e-12
+Localidad_Villa Fiorito,7.855399964952978e-12
+Localidad_Pablo Podestá,7.85394322765022e-12
+Localidad_Inés Indart,7.847387609900347e-12
+Localidad_Carlos Tejedor,7.846879573743196e-12
+Localidad_Villa Chacabuco,7.845261937299339e-12
+Localidad_Glew,7.801198333186393e-12
+Localidad_Pereyra,7.800675455913374e-12
+Localidad_Villa General Jose Tomas Guido,7.797823992656828e-12
+Localidad_Rafael Calzada,7.79162350040132e-12
+Localidad_Carmen de Patagones,7.789738504486276e-12
+Localidad_Ascensión,7.782927236336281e-12
+Localidad_Teniente Origone,7.778044857549062e-12
+Localidad_Chacabuco,7.769078681178703e-12
+Localidad_Los Hornos,7.768750479593442e-12
+Localidad_Pardo,7.762757328579377e-12
+Localidad_Villa De Mayo,7.760005090723836e-12
+Localidad_Moreno,7.757046794900282e-12
+Localidad_Vásquez,7.750138227210616e-12
+Localidad_Lobos,7.743899594015794e-12
+Localidad_Villa Godoy Cruz,7.740690295759174e-12
+Localidad_Chillar,7.73800341952612e-12
+Localidad_La Unión,7.736561222183668e-12
+Localidad_Villa España,7.72004696142309e-12
+Localidad_Banderaló,7.716861393440228e-12
+Localidad_Tolosa,7.715342542039593e-12
+Localidad_Arenaza,7.711555556162184e-12
+Localidad_Claypole,7.70601630085185e-12
+Localidad_José María Jáuregui (Est. Jáuregui),7.70595592953889e-12
+Localidad_Llavallol,7.702749325947676e-12
+Localidad_Olavarría,7.691934243698478e-12
+Localidad_O'Higgins,7.691579567954222e-12
+Localidad_Villa Granaderos De San Martín,7.684726609126301e-12
+Localidad_Lomas Del Mirador,7.68368540973568e-12
+Localidad_Balneario Laguna de Gómez,7.67885109917085e-12
+Localidad_Barrio Belgrano-Máximo Paz,7.678768734626938e-12
+Localidad_Pedernales,7.678752306753573e-12
+Localidad_San Antonio De Padua,7.67629495686528e-12
+Localidad_William C. Morris,7.672151285660432e-12
+Localidad_Morse,7.671844251954553e-12
+Localidad_Estación Chapadmalal,7.669412857692957e-12
+Localidad_Villa Libertad,7.666560450569395e-12
+Localidad_Rincón de Milberg,7.666028950617626e-12
+Localidad_30 de Agosto,7.663522703829223e-12
+Localidad_Vedia,7.662144899463174e-12
+Localidad_Napaleofú,7.660653101441367e-12
+Localidad_Avellaneda,7.657261469272376e-12
+Localidad_El Libertador,7.653966496681601e-12
+Partido_Hipólito Yrigoyen,7.652949327158094e-12
+Localidad_Henderson,7.652949327158094e-12
+Localidad_Tigre,7.651802124078807e-12
+Localidad_Ricardo Rojas,7.643391542979298e-12
+Localidad_Ministro Rivadavia,7.637100969054399e-12
+Localidad_Lanús Oeste,7.62773434459745e-12
+Localidad_Zárate,7.625304914235182e-12
+Localidad_Las Carabelas,7.61620707575385e-12
+Localidad_Villa José León Suarez,7.61348944247561e-12
+Localidad_Muñiz,7.609979630463687e-12
+Localidad_Vicente Casares,7.603680429307258e-12
+Localidad_Ezpeleta Oeste,7.601243309644073e-12
+Localidad_Ciudad Evita,7.601110860562896e-12
+Localidad_Saavedra,7.59437462214463e-12
+Localidad_Bernal,7.587634898778097e-12
+Localidad_Villa Coronel Jose M. Zapiola,7.583871237950812e-12
+Localidad_Manzanares,7.581671194877046e-12
+Localidad_Martín Coronado,7.578641597674581e-12
+Localidad_Villa Gobernador Udaondo,7.572784318030496e-12
+Localidad_Ituzaingó Centro,7.5716810906177e-12
+Localidad_Garín,7.567396892467959e-12
+Localidad_General La Madrid,7.564068650507274e-12
+Localidad_Don Orione,7.553809818563871e-12
+Localidad_Crucesita,7.5414156505785e-12
+Localidad_Lincoln,7.53534682250909e-12
+Localidad_Copetonas,7.53055395724447e-12
+Localidad_Parada Robles - Pavón,7.526481029936744e-12
+Localidad_Pedro Luro,7.525854762782858e-12
+Localidad_Gorchs,7.524140287856485e-12
+Partido_Ramallo,7.522413359709066e-12
+Localidad_Pérez Millán,7.522413359709066e-12
+Localidad_Moron,7.518375300341586e-12
+Localidad_Villa Alfredo Fortabat,7.517515187749512e-12
+Localidad_Rancagua,7.51264138140272e-12
+Localidad_Alto Los Cardales,7.502982920629122e-12
+Localidad_Lezica y Torrezuri,7.499611139016887e-12
+Localidad_Mones Cazón,7.499509221996073e-12
+Localidad_Coronel Brandsen,7.495923734503284e-12
+Localidad_Mechongué,7.494191593167061e-12
+Localidad_Barrio Santa Paula,7.483533949176458e-12
+Localidad_City Bell,7.48045651288009e-12
+Localidad_Cañuelas,7.472662225942786e-12
+Localidad_Villa Luzuriaga,7.47156093556493e-12
+Localidad_Comodoro Py,7.469570858066063e-12
+Localidad_Salvador María,7.467185873153004e-12
+Localidad_Mar del Plata,7.467034295646316e-12
+Localidad_Lomas del Río Luján (Est. Río Luján),7.465753220019361e-12
+Localidad_Daireaux,7.455379494209653e-12
+Localidad_Guernica,7.452372239021045e-12
+Partido_Presidente Perón,7.452372239021045e-12
+Localidad_Magdalena,7.452038650154348e-12
+Localidad_Aguas Verdes,7.447738844866636e-12
+Localidad_Va Ma Irene De Los Remedios De Escalada,7.446235072049443e-12
+Localidad_Ituzaingó Sur,7.44522237090679e-12
+Localidad_Tres Arroyos,7.435786368374075e-12
+Localidad_Roque Pérez,7.432977705803752e-12
+Localidad_Irala,7.432945133397778e-12
+Localidad_Maza,7.429282935689399e-12
+Localidad_La Lucila,7.426442697342017e-12
+Localidad_Villa Lynch,7.423874731529074e-12
+Localidad_Jeppener,7.423804286847569e-12
+Localidad_San Andrés de Giles,7.418464136680924e-12
+Localidad_Ciudadela,7.41553598276463e-12
+Localidad_Carlos Spegazzini,7.415199388118675e-12
+Localidad_Manuel Ocampo,7.412275478852462e-12
+Localidad_Zelaya,7.410621807505301e-12
+Localidad_Isidro Casanova,7.410158490216114e-12
+Localidad_Boulogne Sur Mer,7.406318834594601e-12
+Localidad_Olivera,7.40577108365432e-12
+Localidad_Batán,7.402036395356476e-12
+Localidad_Coronel Charlone,7.397935007661911e-12
+Localidad_Villa Catela,7.391913564153867e-12
+Localidad_Urdampilleta,7.390780230167459e-12
+Localidad_Longchamps,7.389128361435713e-12
+Partido_Belén,7.381002970937778e-12
+Partido_Marcos Paz,7.377010491732177e-12
+Localidad_Marcos Paz,7.377010491732177e-12
+Localidad_Chascomús,7.375636741135481e-12
+Localidad_Barrio Colinas Verdes,7.36147632951605e-12
+Localidad_Espartillar,7.36001384061852e-12
+Localidad_Villa Iris,7.357730037309851e-12
+Partido_General Juan Madariaga,7.355662978904941e-12
+Localidad_General Juan Madariaga,7.355662978904941e-12
+Localidad_Lobería,7.355230177612252e-12
+Localidad_Lomas De Zamora,7.3522109514682e-12
+Localidad_Villa Parque Sicardi,7.350150197567945e-12
+Localidad_Villa Parque San Lorenzo,7.344075192671538e-12
+Localidad_San Francisco de Bellocq,7.334061546673762e-12
+Localidad_Monte Chingolo,7.33350822487334e-12
+Localidad_Mariano Acosta,7.326335580158194e-12
+Localidad_Saldungaray,7.32416000326271e-12
+Localidad_Darregueira,7.323534547965737e-12
+Localidad_Todd,7.313620689360641e-12
+Localidad_Aldo Bonzi,7.311984996655155e-12
+Localidad_Villa Roch,7.308620793693175e-12
+Localidad_Barrio Las Casuarinas,7.307067388972969e-12
+Localidad_Gobernador Julio A. Costa,7.306033508618015e-12
+Localidad_Domselaar,7.304760884662419e-12
+Localidad_Mayor Buratovich,7.304250873811008e-12
+Localidad_Hurlingham,7.30284427789386e-12
+Localidad_Viña,7.300072516211813e-12
+Localidad_Gobernador Udaondo,7.299529991438463e-12
+Localidad_Torres,7.293472597805838e-12
+Localidad_General Guido,7.28414248368742e-12
+Localidad_Santa Trinidad,7.283774405195803e-12
+Localidad_Pieres,7.282406775562188e-12
+Localidad_Maquinista F. Savio (este),7.274990597671007e-12
+Localidad_Villa Ayacucho,7.273710065464742e-12
+Localidad_Estanislao Severo Zeballos,7.2695975270508754e-12
+Localidad_Arroyo de la Cruz,7.2672437544118815e-12
+Localidad_Sarandí,7.266353981317092e-12
+Localidad_Acevedo,7.26209716076218e-12
+Localidad_Ingeniero Adolfo Sourdeaux,7.256705345947222e-12
+Localidad_Pago Chico,7.2473829453188e-12
+Localidad_Solanet,7.244538911046097e-12
+Localidad_Belen de Escobar,7.2394634844303294e-12
+Localidad_Balneario Sauce Grande,7.236881940937693e-12
+Localidad_Bayauca,7.22749458552818e-12
+Localidad_General Rivas,7.216607183661901e-12
+Localidad_Ringuelet,7.210735614343669e-12
+Partido_Rauch,7.2063451060218566e-12
+Localidad_Rauch,7.2063451060218566e-12
+Localidad_Río Tala,7.205209916976037e-12
+Localidad_Pontevedra,7.202376067719069e-12
+Localidad_Cortines,7.20030438174149e-12
+Localidad_Saforcada,7.19960657147692e-12
+Localidad_Arturo Segui,7.1959213065896086e-12
+Localidad_Don Torcuato Este,7.1918713169823355e-12
+Localidad_Garré,7.190243090291174e-12
+Localidad_Conesa,7.190140296884281e-12
+Localidad_Luis Guillón,7.18286819054258e-12
+Localidad_Necochea - Quequén,7.1827321000597945e-12
+Localidad_El Remanso,7.182669038820682e-12
+Localidad_De la Garma,7.178779840598496e-12
+Partido_Monte,7.176738579148989e-12
+Localidad_Abbott,7.176738579148989e-12
+Localidad_Villa Brown,7.172643938050443e-12
+Localidad_Villa Juan Martín De Pueyrredon,7.168485202149931e-12
+Localidad_Bosques,7.167701146689626e-12
+Localidad_Castelli,7.162047354340202e-12
+Localidad_Moquehuá,7.1567568644653845e-12
+Localidad_Villa Yapeyú,7.155595048017062e-12
+Localidad_Sansinena,7.1392917077878115e-12
+Localidad_Coronel Dorrego,7.1380467597052536e-12
+Localidad_Barrio Los Pioneros,7.132298827755599e-12
+Localidad_Berazategui,7.129567381269379e-12
+Localidad_Turdera,7.128193842804655e-12
+Localidad_Matheu,7.123329869506932e-12
+Localidad_Remedios De Escalada,7.1221809816931255e-12
+Localidad_20 De Junio,7.12065422864e-12
+Localidad_Villa Maipu,7.11901967216085e-12
+Localidad_Aeropuerto Internacional Ezeiza,7.117918214626626e-12
+Localidad_La Reja,7.1170038637267095e-12
+Localidad_Villa Martelli,7.116974967321881e-12
+Localidad_José Maria Ezeiza,7.116297580408418e-12
+Localidad_Lima,7.1096754459751074e-12
+Localidad_Francisco Madero,7.103375460461273e-12
+Localidad_Benavídez,7.097440795437964e-12
+Localidad_Villalonga,7.0961293882501595e-12
+Localidad_Villa San Luis,7.089996499249796e-12
+Localidad_Trujui,7.089245144854528e-12
+Localidad_Haedo,7.083527570499536e-12
+Localidad_Blaquier,7.080981833312745e-12
+Localidad_Ranchos,7.075815316966907e-12
+Localidad_La Plata,7.074618632710207e-12
+Localidad_Costa Bonita,7.0725910064599236e-12
+Localidad_Virrey Del Pino,7.0711804697106905e-12
+Localidad_Alejandro Korn,7.0670251353366465e-12
+Localidad_Villa Montoro,7.063216458746196e-12
+Localidad_Tapalqué,7.0604721827694625e-12
+Partido_Tapalqué,7.0604721827694625e-12
+Localidad_Colonia Hinojo,7.060045493748771e-12
+Localidad_Tapiales,7.047278977867797e-12
+Localidad_Don Torcuato Oeste,7.039110195309129e-12
+Localidad_Pergamino,7.038071502024361e-12
+Localidad_Balcarce,7.034073109433172e-12
+Localidad_Juan María Gutierrez,7.033677905714504e-12
+Localidad_Trenque Lauquen,7.0246079837813425e-12
+Localidad_Ranelagh,7.023042823745419e-12
+Localidad_Baradero,6.9983946433997254e-12
+Localidad_Florencio Varela,6.996728180958905e-12
+Localidad_Manuel B Gonnet,6.996495628986279e-12
+Localidad_Berutti,6.996311663606902e-12
+Localidad_Tornquist,6.994593940996606e-12
+Localidad_La Tablada,6.986918761441171e-12
+Localidad_Guillermo E. Hudson,6.982922851482725e-12
+Localidad_Lanús Este,6.981900283523281e-12
+Partido_Humahuaca,6.980130461998627e-12
+Localidad_Ciudad Jardin El Libertador,6.976665118366711e-12
+Localidad_Pineyro,6.976404986935868e-12
+Localidad_Florida,6.9743733710465684e-12
+Localidad_Florida Oeste,6.973336076555179e-12
+Localidad_Rafael Castillo,6.971314900376633e-12
+Localidad_General Rojo,6.964901635507685e-12
+Localidad_Arenas Verdes,6.9633677495603195e-12
+Localidad_Centro Agrícola El Pato,6.961297201963139e-12
+Localidad_Barker,6.961149387798211e-12
+Localidad_Arrecifes,6.958803696691333e-12
+Localidad_Pasteur,6.952517681328018e-12
+Localidad_Salto,6.9477968375522345e-12
+Localidad_Berisso,6.945997350986942e-12
+Localidad_Los Cardales,6.939711982072436e-12
+Localidad_La Lonja,6.932493002022319e-12
+Localidad_Ayacucho,6.931509290175614e-12
+Localidad_Banfield,6.9306558211153235e-12
+Localidad_Billinghurst,6.926078256196483e-12
+Localidad_Dock Sud,6.925611387312802e-12
+Localidad_Pinamar,6.924495980205675e-12
+Localidad_Martínez,6.921544247063008e-12
+Localidad_Fátima,6.911961372539417e-12
+Localidad_Villa Ventana,6.9108953570733354e-12
+Localidad_Los Cachorros,6.899573406543002e-12
+Localidad_Coronel Vidal,6.899101524490249e-12
+Localidad_San Fernando,6.888012570580084e-12
+Localidad_González Moreno,6.87740243514999e-12
+Localidad_Playa Dorada,6.877352371881027e-12
+Localidad_Temperley,6.87617026698381e-12
+Localidad_Barrio Gambier,6.8750127603757705e-12
+Localidad_José C Paz,6.874559834033618e-12
+Localidad_Salazar,6.8716122404909996e-12
+Localidad_Pigüé,6.8704659245295834e-12
+Localidad_Joaquin Gorina,6.866234238163559e-12
+Localidad_Quilmes Oeste,6.865374481157536e-12
+Localidad_Villa Santos Tesei,6.8577295526391325e-12
+Localidad_Chiclana,6.853026962362529e-12
+Localidad_Villa Vatteone,6.850306535916695e-12
+Localidad_Carlos Keen,6.8499014110146495e-12
+Partido_Alberti,6.841309107228841e-12
+Localidad_Mechita,6.841309107228841e-12
+Localidad_Barrio Ruta 24 Kilómetro 10,6.834532624663913e-12
+Localidad_Villa Parque Pres Figueroa Alcorta,6.832404939957543e-12
+Localidad_Burzaco,6.831776114421063e-12
+Localidad_Vicente López,6.8306089843570395e-12
+Localidad_Juan A. Pradere,6.8198981938975096e-12
+Localidad_Reta,6.81525851044162e-12
+Localidad_La Sofía,6.812441241213676e-12
+Localidad_Campana,6.8074749991035446e-12
+Localidad_Acassuso,6.8023012563249555e-12
+Localidad_San Antonio de Areco,6.795638746909545e-12
+Localidad_General Pacheco,6.791962102465528e-12
+Localidad_El Retiro,6.7869683244477515e-12
+Localidad_Monte Grande,6.78418509318779e-12
+Localidad_Don Bosco,6.776152985628241e-12
+Localidad_Agustina,6.77363220918732e-12
+Localidad_Ensenada,6.770508798217127e-12
+Localidad_Barrio La Gloria,6.7680021192752646e-12
+Localidad_Ciudad Jardín Lomas del Palomar,6.753726492016644e-12
+Localidad_Pipinas,6.730169557062542e-12
+Localidad_Colonia San Miguel Arcángel,6.72117483976042e-12
+Localidad_Ezpeleta,6.713277182533678e-12
+Localidad_La Capilla,6.712488454336073e-12
+Localidad_Berazategui Oeste,6.709660994353155e-12
+Localidad_Beccar,6.6953293439295504e-12
+Localidad_Fortín Olavarría,6.691514516597793e-12
+Localidad_Carlos Tomás Sourigues,6.68940956449424e-12
+Localidad_Abasto,6.685745740305647e-12
+Localidad_Villa Rosa,6.685224236686307e-12
+Localidad_Quilmes,6.682444939102232e-12
+Localidad_Pila,6.67971273868681e-12
+Localidad_Ingeniero Juan Allan,6.676206411743994e-12
+Localidad_Barrio San Cayetano,6.665374440754329e-12
+Localidad_Villa Ballester,6.663135588523829e-12
+Localidad_Paso Del Rey,6.6612978877112585e-12
+Localidad_Monte Hermoso,6.660040254470247e-12
+Localidad_Orense,6.650696924033126e-12
+Partido_General Pinto,6.636505018896873e-12
+Localidad_General Pinto,6.636505018896873e-12
+Localidad_Chapadmalal,6.623353636915761e-12
+Localidad_Vivoratá,6.616747115934944e-12
+Localidad_Stroeder,6.616389380291444e-12
+Localidad_Jose Hernandez,6.6150945849229306e-12
+Localidad_Jose Ingenieros,6.598575373437346e-12
+Localidad_Ramos Otero,6.59807178067831e-12
+Localidad_Juan José Paso,6.594715100739395e-12
+Localidad_Alejandro Petión,6.5851702009050346e-12
+Localidad_Remedios Escalada De San Martin,6.582478587066062e-12
+Localidad_San Nicolás de los Arroyos,6.581277563434137e-12
+Localidad_Churruca,6.576901136534907e-12
+Localidad_Villa Lía,6.575798034446758e-12
+Localidad_General Arenales,6.5711333789702606e-12
+Localidad_Virreyes,6.569163249868447e-12
+Localidad_Rafael Obligado,6.566418751881282e-12
+Localidad_Las Armas,6.565942596148412e-12
+Localidad_Villa Bernardo Monteagudo,6.561392482422006e-12
+Localidad_Azul,6.5548926932799795e-12
+Localidad_El cazador,6.550567123623091e-12
+Localidad_Guaminí,6.54753321592075e-12
+Localidad_Verónica,6.537428794697974e-12
+Localidad_Tres Sargentos,6.534141261758253e-12
+Localidad_Pehuajó,6.53258606890195e-12
+Localidad_San Manuel,6.5287120627141646e-12
+Localidad_Rojas,6.527395610494127e-12
+Localidad_Moctezuma,6.52488515683624e-12
+Localidad_Lisandro Olmos,6.523209320610012e-12
+Localidad_Tandil,6.523190910701809e-12
+Localidad_Balneario Pehuen Co,6.5208946042603274e-12
+Localidad_Guerrico,6.50980601598145e-12
+Localidad_Rivera,6.5097206486237135e-12
+Localidad_Santa Teresita - Mar del Tuyú,6.506011313364414e-12
+Localidad_Los Troncos Del Talar,6.493820601583865e-12
+Localidad_9 De Abril,6.4898141823161316e-12
+Localidad_Olivos,6.476546910450239e-12
+Localidad_Barrancas,6.475499016056601e-12
+Localidad_El Jagüel,6.474834127642907e-12
+Localidad_Hinojo,6.474757196850506e-12
+Localidad_Huanguelén,6.471885838451531e-12
+Localidad_Balneario San Cayetano,6.468318649898916e-12
+Localidad_Francisco Alvarez,6.457123331733404e-12
+Localidad_General Pirán,6.4529710334396e-12
+Localidad_Villa Domínico,6.449537888100915e-12
+Localidad_General Lavalle,6.446432596680333e-12
+Localidad_Labarden,6.445961281051798e-12
+Localidad_Piedritas,6.442333145378375e-12
+Localidad_Uribelarrea,6.44062354240304e-12
+Localidad_Barrio El Coyunco,6.430776398544221e-12
+Localidad_Coronel Suárez,6.4247483862400056e-12
+Localidad_Gregorio De Laferrere,6.4199091574465664e-12
+Localidad_Comandante Nicanor Otamendi,6.416692344594318e-12
+Localidad_Las Toninas,6.414195492291867e-12
+Localidad_Villa General Juan G. Las Heras,6.412171413395842e-12
+Localidad_Cabildo,6.407995319916686e-12
+Localidad_Cuartel V,6.405733338329174e-12
+Localidad_Capitán Sarmiento,6.390547195574358e-12
+Localidad_Norberto de la Riestra,6.374418015563971e-12
+Localidad_Gonzalez Catán,6.367586238695217e-12
+Localidad_Villa General Eugenio Necochea,6.361446543186708e-12
+Localidad_Cacharí,6.357255634329294e-12
+Localidad_Arribeños,6.334390757467132e-12
+Localidad_Bragado,6.329909284196952e-12
+Localidad_Santa Clara del Mar,6.318713456560806e-12
+Localidad_Alberdi Viejo,6.308507526212259e-12
+Localidad_Camet,6.285638797992758e-12
+Localidad_Carmen de Areco,6.2781736262243725e-12
+Localidad_Bahía Blanca,6.273491743880542e-12
+Localidad_Jose Mármol,6.2677268915223756e-12
+Localidad_11 De Septiembre,6.243438724366234e-12
+Localidad_Barrio Parque General San Martin,6.237389013050298e-12
+Localidad_Munro,6.23078662036668e-12
+Localidad_Villa San Andrés,6.22802712233364e-12
+Localidad_Maquinista F. Savio (oeste),6.198814773070745e-12
+Localidad_Mar del Sur,6.187104918862607e-12
+Localidad_Villa Gregoria Matorras,6.1802625715308066e-12
+Localidad_Valentín Alsina,6.138585443424879e-12
+Localidad_La Armonía,6.13838828756858e-12
+Localidad_El Triunfo,6.126570569526328e-12
+Localidad_Ingeniero Maschwitz,6.101692061291953e-12
+Partido_Villa Gesell,6.09605994679806e-12
+Localidad_Villa Gesell,6.09605994679806e-12
+Localidad_Juan N. Fernández,6.0920180981964226e-12
+Localidad_San Clemente del Tuyú,6.088288433158933e-12
+Localidad_Los Polvorines,6.054808493976882e-12
+Localidad_Angel Etcheverry,6.037364914491329e-12
+Localidad_Dique Luján,6.030987032387266e-12
+Localidad_Barrio El Carmen (Este),6.029941429800024e-12
+Localidad_Villa Raffo,6.028424827462977e-12
+Localidad_Tristán Suarez,6.0155672672881604e-12
+Localidad_Nordelta,5.970355618741319e-12
+Localidad_Plátanos,5.9640141040164515e-12
+Localidad_Navarro,5.8907297785301384e-12
+Localidad_Carlos Casares,5.864076699961246e-12
+Localidad_Villa La Florida,5.8144268873228974e-12
+Localidad_Emilio V. Bunge,5.7674661146454105e-12
+Localidad_Sevigne,5.7405044838477e-12
+Partido_Tres Lomas,5.737848255493498e-12
+Localidad_Tres Lomas,5.737848255493498e-12
+Localidad_Jose Melchor Romero,5.716359259211894e-12
+Localidad_Barrio El Boquerón,5.69888919775837e-12
+Localidad_Suipacha,5.663668137338681e-12
+Localidad_Bernal Oeste,5.5664247964732775e-12
+Localidad_Carilo,5.484422115331384e-12
+Localidad_Barrio El Peligro,5.470271958781086e-12
+Localidad_Sierra de la Ventana,5.350127118574116e-12
+Partido_Tehuelches,4.811871897484705e-12
+Partido_Pehuenches,4.625120169579863e-12
+Partido_Aluminé,3.801543600736959e-12
+Partido_Biedma,3.5992673565438973e-12
+Partido_La Viña,3.182656312747154e-12
+Partido_Atreucó,3.0120062562885033e-12
+Partido_Loventué,2.8392159231194386e-12
+Partido_La Plata,2.748431940457035e-12
+Partido_Quemú Quemú,2.507577270482087e-12
+Provincia_TIERRA DEL FUEGO,1.7546238923689512e-12
+Partido_La Capital,1.3924270439629694e-12
+Localidad_San Isidro,5.535817373611142e-13
+Partido_Caleu Caleu,-1.2780889841287329e-13
+Partido_General Villegas,-2.846359209547222e-13
+Partido_General Pueyrredón,-1.0747336813795308e-12
+Partido_Guatraché,-1.3518098961920413e-12
+Localidad_Santo Domingo,-1.4577816936962289e-12
+Partido_Patagones,-1.6333823657862498e-12
+Localidad_Leandro N. Alem,-1.7396964230730859e-12
+Localidad_Lamadrid,-2.1744903081418016e-12
+Partido_Doctor Manuel Belgrano,-2.453137331682936e-12
+Partido_Vinchina,-2.935940157446486e-12
+Partido_El Alto,-3.5171845136725196e-12
+Localidad_Nueva Esperanza,-3.5431389934613223e-12
+Localidad_Los Sarmientos,-4.53878068132042e-12
+Localidad_Villa El Salvador,-4.635023825942574e-12
+Partido_Limay Mahuida,-4.697796930404889e-12
+Localidad_La Banda,-5.240946885369998e-12
+Partido_2 de Abril,-5.289548829502552e-12
+Partido_Olavarría,-5.322422216916981e-12
+Localidad_Loma Blanca,-5.3355816630057066e-12
+Localidad_Tapso,-5.339751357904129e-12
+Localidad_La Esperanza,-5.51308644211026e-12
+Localidad_El Charco,-5.556574116096179e-12
+Localidad_Colonia Santa María,-5.691389074909489e-12
+Partido_La Cocha,-6.365164894987913e-12
+Partido_Angaco,-6.535549388407201e-12
+Localidad_Santa Teresa,-6.59403905267686e-12
+Localidad_General Mosconi,-6.688244192401129e-12
+Partido_Los Lagos,-7.631807312761067e-12
+Partido_Güer Aike,-7.86095490400681e-12
+Localidad_Helvecia,-7.915198534817585e-12
+Localidad_El Mojón,-8.129372968586002e-12
+Localidad_El Algarrobal,-8.16870213074743e-12
+Localidad_Las Lagunas,-8.322563282609692e-12
+Localidad_La Viña,-8.718262711973921e-12
+Localidad_Medrano,-8.785375216992646e-12
+Localidad_Santa Clara,-8.796906539906997e-12
+Localidad_La Calera,-8.81096050689891e-12
+Localidad_Las Lajas,-9.017988488341376e-12
+Partido_Tulumba,-9.098479598829946e-12
+Localidad_El Pantanillo,-9.23422175198312e-12
+Localidad_El Ramblón,-9.296718455619361e-12
+Localidad_Las Palmas,-9.363603006137361e-12
+Localidad_Río Grande,-9.505661615216e-12
+Partido_Palpalá,-9.631720721210077e-12
+Partido_Esteban Echeverría,-9.765898570522537e-12
+Partido_Rivadavia,-9.897178387051931e-12
+Partido_Berisso,-1.0157655859368151e-11
+Localidad_Las Chacritas,-1.021481831386076e-11
+Localidad_Papagayos,-1.0560353643465355e-11
+Localidad_Villa del Rosario,-1.103475140273595e-11
+Partido_General Juan F. Quiroga,-1.1236303478044754e-11
+Partido_Chos Malal,-1.1287077634214785e-11
+Localidad_San Nicolás,-1.142870268658751e-11
+Partido_Rancul,-1.1564126272122445e-11
+Provincia_NEUQUEN,-1.158429338462495e-11
+Localidad_Santa Isabel,-1.1600036927745275e-11
+Partido_Loncopué,-1.1808180260236963e-11
+Localidad_Dos Arroyos,-1.2257131125103073e-11
+Partido_Curacó,-1.2277824840419449e-11
+Partido_Sobremonte,-1.2401811985954096e-11
+Localidad_Las Tunas,-1.2668060419148063e-11
+Localidad_Punta del Agua,-1.2689570425906718e-11
+Localidad_Malvinas Argentinas,-1.3461202691805339e-11
+Partido_Tornquist,-1.4083160125966027e-11
+Partido_Exaltación de la Cruz,-1.4647165674325213e-11
+Partido_Los Andes,-1.508051975987881e-11
+Partido_Collón Curá,-1.5212636013102365e-11
+Localidad_Villa Elisa,-1.5451568410541974e-11
+Localidad_San Marcos,-1.5611543959557978e-11
+Localidad_La Cumbrecita,-1.565602849478745e-11
+Partido_San Nicolás,-1.57754195241195e-11
+Localidad_Los Chañaritos,-1.6124855233536025e-11
+Localidad_El Talar,-1.702278438889533e-11
+Localidad_San Cayetano,-1.7073531946447305e-11
+Partido_Cainguás,-1.8298041175450424e-11
+Partido_Jiménez,-1.8598671271995973e-11
+Partido_Chapaleufú,-1.8686486893431294e-11
+Localidad_Los Toldos,-1.8751891881190397e-11
+Partido_Guaminí,-1.8824683301642143e-11
+Localidad_Florentino Ameghino,-1.892557387144756e-11
+Localidad_La Trinidad,-1.899911598377537e-11
+Partido_Salto,-1.9312335157967893e-11
+Partido_Baradero,-1.957501615263528e-11
+Localidad_Santos Lugares,-1.9666468837434148e-11
+Partido_Coronel Dorrego,-1.992078812094488e-11
+Partido_Lavalle,-2.0024371544133927e-11
+Localidad_Ciénega,-2.0068284524493632e-11
+Partido_Punta Indio,-2.0381361120284497e-11
+Partido_Tandil,-2.0897163082342454e-11
+Partido_Deseado,-2.0941984870907036e-11
+Localidad_El Cuadrado,-2.125495847493337e-11
+Localidad_Anzoategui,-2.1443346356930507e-11
+Localidad_Oratorio,-2.1639467879381847e-11
+Localidad_Luján,-2.1696759575091314e-11
+Partido_Maracó,-2.1730198492733813e-11
+Localidad_El Quebracho,-2.1751462296204278e-11
+Localidad_Los Talas,-2.2029691729496243e-11
+Localidad_Tomás Young,-2.2036946457575477e-11
+Localidad_El Brillante,-2.2073123562730464e-11
+Localidad_Falucho,-2.209238255532331e-11
+Localidad_Barrio Isla 10,-2.2202972158081238e-11
+Localidad_Aerolito,-2.2211337334451597e-11
+Localidad_Coyaguaima,-2.246274134401981e-11
+Localidad_Base Belgrano Ii,-2.2612437493836782e-11
+Localidad_El Mirador,-2.2688194880108484e-11
+Localidad_Los Robles,-2.2764224790122013e-11
+Localidad_Barrio El Petróleo,-2.282814039511386e-11
+Localidad_San Blas,-2.2936290020396543e-11
+Partido_General Lavalle,-2.3029368653575087e-11
+Localidad_Puesto Sey,-2.3040907714968954e-11
+Localidad_Barrio Frontera,-2.305765980079155e-11
+Partido_Utracán,-2.3166146621191657e-11
+Localidad_Chilca Juliana,-2.3208922552404068e-11
+Localidad_Cangrejillos,-2.3358256739027534e-11
+Localidad_La Majada,-2.3603351293588452e-11
+Localidad_Pampa Vieja,-2.366637796869826e-11
+Localidad_Mauricio Mayer,-2.3750557519501194e-11
+Localidad_La Rinconada,-2.3759805389265197e-11
+Localidad_Batavia,-2.3766361567537742e-11
+Localidad_La Maruja,-2.377005205873653e-11
+Localidad_Colonia Anguinán,-2.378765695119239e-11
+Localidad_Fortín Inca,-2.3846072543798317e-11
+Localidad_Alto Verde,-2.385088007674505e-11
+Localidad_La Carrera,-2.390358181213775e-11
+Localidad_Barrio Norte (municipio de Cipolletti),-2.3988778958144893e-11
+Localidad_Hasse,-2.3989755134708402e-11
+Localidad_Lafinur,-2.4034713428408504e-11
+Localidad_Santa Catalina,-2.4038540968887617e-11
+Localidad_Villa General San Martín - Campo Afuera,-2.4057309713043068e-11
+Localidad_Pichi Huinca,-2.406961017668477e-11
+Localidad_El Hoyo,-2.4095302243755588e-11
+Localidad_Dr. Manuel Belgrano,-2.4116226174973246e-11
+Localidad_Ballesteros Sur,-2.4204463593287687e-11
+Localidad_Paso Grande,-2.4286774229065656e-11
+Localidad_Aldea Epulef,-2.4301338364411908e-11
+Localidad_Silva (Est. Abipones),-2.43515709883139e-11
+Localidad_Pozo de Maza,-2.4384238947530756e-11
+Partido_Adolfo Gonzales Chaves,-2.4389599717225594e-11
+Localidad_Bernardo Larroude,-2.4437277584699886e-11
+Localidad_Barrio Santa Rita,-2.4465378191564892e-11
+Localidad_San Jerónimo,-2.4472999805794846e-11
+Partido_Ischilín,-2.4476178487322355e-11
+Localidad_Sargento Moya,-2.4495456843958133e-11
+Localidad_Angulos,-2.4519019258759743e-11
+Localidad_Relmo,-2.460530550099632e-11
+Localidad_Panambí,-2.465728571350999e-11
+Localidad_Guanchín,-2.4665474169995428e-11
+Localidad_Los Cardozos,-2.467537154320304e-11
+Localidad_Nueva Pompeya,-2.4701856174308082e-11
+Localidad_Pueblo Illia,-2.471818271675612e-11
+Localidad_Naupa Huen,-2.4726255588634692e-11
+Localidad_Chuquis,-2.4750317926666007e-11
+Localidad_Varela,-2.475281853225374e-11
+Localidad_Villa Borjas - La Chimbera,-2.4760120782469463e-11
+Localidad_Delfín Gallo,-2.4771540803523582e-11
+Localidad_Chañarmuyo,-2.479636037657985e-11
+Localidad_Huaco,-2.4822236443377946e-11
+Localidad_Villa Figueroa,-2.4831528649024417e-11
+Localidad_Limay Mahuida,-2.484889260329096e-11
+Localidad_Cona Niyeu,-2.4878175636115005e-11
+Localidad_Manuel García Fernández,-2.4879783512955855e-11
+Localidad_Paicone,-2.4912672302985995e-11
+Localidad_Amaná,-2.492262840047228e-11
+Partido_Bermejo,-2.4925005199278786e-11
+Localidad_Betbeder,-2.4955664473614598e-11
+Localidad_Las Talas,-2.4956794470280213e-11
+Localidad_Durazno,-2.496696830867103e-11
+Localidad_Villa del Parque,-2.496842807758509e-11
+Localidad_Sauce Montrull,-2.498055295099737e-11
+Localidad_Pilquiniyeu,-2.5007204623399455e-11
+Localidad_Jama,-2.501120077847367e-11
+Localidad_Bagual,-2.5012451664001115e-11
+Localidad_Ministro Ramos Mexía,-2.5015258323175963e-11
+Localidad_San José del Boquerón,-2.5054497220477022e-11
+Localidad_Centro Forestal,-2.5055294065427097e-11
+Localidad_Los Alisos,-2.5062564193538607e-11
+Localidad_Estación Yuquerí,-2.5063761081146717e-11
+Localidad_Pilquiniyeu del Limay,-2.5080152073193438e-11
+Localidad_Clemente Onelli,-2.5083440944079587e-11
+Localidad_El Barrial,-2.508491172730021e-11
+Localidad_Sarah,-2.5088403838287848e-11
+Localidad_Barrio La Rotonda,-2.5103634738144064e-11
+Localidad_La Invernada,-2.5155102503028047e-11
+Localidad_Puerto Pilcomayo,-2.5164023610330235e-11
+Localidad_Yavi Chico,-2.5168005690629657e-11
+Localidad_La Mesada,-2.516842937070661e-11
+Localidad_Andrade,-2.51949459304531e-11
+Localidad_Ingeniero Forres (Est. Chaguar Punco),-2.5197809528349812e-11
+Localidad_El Moreno,-2.5220057510978204e-11
+Localidad_Mina Providencia,-2.523166047470489e-11
+Localidad_La Falda De San Antonio,-2.5261920300908592e-11
+Localidad_Río del Valle,-2.526790846558338e-11
+Localidad_Colonia del Valle,-2.528350341744053e-11
+Localidad_El Alamito,-2.530708065337972e-11
+Localidad_El Nihuil,-2.5340887704323475e-11
+Localidad_Fortuna,-2.534855807649601e-11
+Localidad_Vista Alegre Sur,-2.536009380038808e-11
+Localidad_Villa La Rivera (Oliveros),-2.5381850299865052e-11
+Localidad_Hipatia,-2.5430330399806365e-11
+Localidad_La Angelina,-2.5436109926853406e-11
+Localidad_Piquete Cabado,-2.5443978556321194e-11
+Localidad_Barrio Jesús de Nazaret,-2.544813116827822e-11
+Localidad_Hernán Mejía Miraval,-2.5456150801771423e-11
+Localidad_Itín,-2.5458416673976535e-11
+Localidad_Zanjitas,-2.5468865920685113e-11
+Localidad_Nueva Trinidad,-2.547428858476036e-11
+Localidad_Iruya,-2.547698970324276e-11
+Localidad_Villa de Praga,-2.5489723614372834e-11
+Localidad_Chavarría,-2.5497626159229123e-11
+Localidad_Nácate,-2.5501304075683474e-11
+Localidad_Ambil,-2.5505208784294274e-11
+Localidad_La Playa,-2.5514873459493166e-11
+Localidad_Jaime Prats,-2.5548548487695673e-11
+Localidad_Arroyo Verde,-2.557083432322436e-11
+Localidad_Malligasta,-2.5578586847934834e-11
+Localidad_Sumalao,-2.5588861102116594e-11
+Localidad_Ampascachi,-2.5593358035133914e-11
+Localidad_Beazley,-2.5603835143066714e-11
+Localidad_San Pablo,-2.5616502227175764e-11
+Localidad_Anjullón,-2.5625112845964474e-11
+Localidad_La Tercena,-2.565771094812028e-11
+Localidad_Colonia Vichigasta,-2.5666758021406665e-11
+Localidad_Mariano Moreno,-2.5681815009716793e-11
+Localidad_El Cholar,-2.5730376615334037e-11
+Localidad_Laguna Gallo,-2.5746067660693537e-11
+Localidad_Salicas - San Blas,-2.574781922557343e-11
+Localidad_San José del Morro,-2.5752591225515793e-11
+Localidad_Villa General San Martin,-2.5778618975205437e-11
+Localidad_Mogna,-2.578382033971871e-11
+Localidad_Barrio Destacamento,-2.5791747525654186e-11
+Localidad_Catua,-2.580932948233118e-11
+Localidad_Hipólito Yrigoyen (Est. Iturbe),-2.5821137032168942e-11
+Localidad_Puerto Mado,-2.5868674290402082e-11
+Localidad_Barrio Pinar,-2.5874146137064573e-11
+Localidad_Huacalera,-2.5879385075911915e-11
+Localidad_Santa Vera Cruz,-2.5905891208668185e-11
+Localidad_La Carolina,-2.5922856791229056e-11
+Localidad_Unanué,-2.5933588643492176e-11
+Localidad_Pismanta,-2.595902757557445e-11
+Localidad_Huáncar,-2.5964821273497338e-11
+Localidad_Buen Pasto,-2.597190390361886e-11
+Localidad_El Bañado,-2.5972391961046708e-11
+Localidad_Medellín,-2.5986873883088668e-11
+Localidad_El Bordo,-2.5990919458320896e-11
+Localidad_Patay,-2.5997000295988854e-11
+Localidad_Desaguadero,-2.6013785588781034e-11
+Localidad_Abramo,-2.603315357612812e-11
+Localidad_Sumampa Viejo,-2.6034267552781455e-11
+Localidad_Paso Flores,-2.6037328864994367e-11
+Localidad_Barrio Porvenir,-2.603993240979216e-11
+Localidad_Bárcena,-2.604662303916712e-11
+Localidad_Balneario La Verde,-2.6068250998511804e-11
+Localidad_Uquía (Est. Senador Pérez),-2.6099842481633846e-11
+Localidad_El Medanito,-2.6106811410921397e-11
+Localidad_Cusi Cusi,-2.6123490739564603e-11
+Localidad_Febré,-2.612511735374387e-11
+Localidad_Puerto San Antonio Este,-2.6151019199838227e-11
+Localidad_Pozo Del Mistol,-2.6221907407678295e-11
+Localidad_Alta Italia,-2.624603376208668e-11
+Localidad_Fortín Soledad,-2.6251935946220202e-11
+Localidad_Casira,-2.626371284121414e-11
+Localidad_Hambis,-2.626578818499435e-11
+Localidad_Poscaya,-2.6273506706313403e-11
+Localidad_Piñalito Sur,-2.6277147388953158e-11
+Localidad_Suriyaco,-2.627748336945244e-11
+Localidad_Villa de la Quebrada,-2.6302201137876594e-11
+Localidad_Juan Llerena,-2.6322406367840306e-11
+Localidad_El Hueco,-2.6346903439354185e-11
+Localidad_Cabalango,-2.6389192100250766e-11
+Localidad_Gobernador Echagüe,-2.6396290081281812e-11
+Localidad_San Ramón,-2.6405716888534703e-11
+Localidad_Jocolí,-2.642065866875437e-11
+Localidad_La Bajada,-2.6432672308110106e-11
+Localidad_Mutquin,-2.6433935991021158e-11
+Localidad_Jagüé,-2.645340709840823e-11
+Partido_General Viamonte,-2.646073848362378e-11
+Localidad_Juventud Unida,-2.647436884115998e-11
+Localidad_Pinchas,-2.6480161481864525e-11
+Localidad_Iglesia,-2.648189447033329e-11
+Localidad_Barrio Caleta Cordova,-2.6502176271715342e-11
+Localidad_Villa Teresa,-2.6507499358911213e-11
+Localidad_Paraíso,-2.653515848985986e-11
+Localidad_Las Toscas,-2.653638268313103e-11
+Localidad_Cruce Caballero,-2.654226685374722e-11
+Localidad_Tuyubil,-2.658458665617271e-11
+Localidad_Aicuña,-2.6590571184794348e-11
+Localidad_Barrio Unión,-2.6593705043185412e-11
+Localidad_Isca Yacu,-2.659807110966781e-11
+Localidad_El Chaltén,-2.6604489146147072e-11
+Partido_Carmen de Areco,-2.661744207364541e-11
+Localidad_La Primavera,-2.662508841286721e-11
+Localidad_Conhelo,-2.663102327856798e-11
+Localidad_Reducción de Abajo,-2.6631161968093445e-11
+Localidad_Adolfo Van Praet,-2.664542897944425e-11
+Localidad_El Puesto,-2.6645804766644712e-11
+Localidad_Jarilla,-2.6658771989630303e-11
+Localidad_Nahuel Mapá,-2.6674222084369677e-11
+Localidad_Leleque,-2.6674880641050954e-11
+Localidad_Santa Cruz,-2.6679074700732973e-11
+Localidad_Chaupihuasi,-2.6686699539146208e-11
+Localidad_San José de La Cocha,-2.6699288064085907e-11
+Localidad_7 de Abril,-2.669974323928902e-11
+Localidad_Abra Grande,-2.6703246984991308e-11
+Localidad_San Francisco de Asís,-2.6704183112649608e-11
+Localidad_San Gerónimo,-2.6714991217338788e-11
+Localidad_Roversi,-2.67748119741677e-11
+Localidad_Ingeniero Otto Krause,-2.677923791074737e-11
+Localidad_Estación Robles,-2.6783322075672772e-11
+Localidad_Cerro de Oro,-2.678682789030298e-11
+Localidad_Liviara,-2.6796946982947118e-11
+Localidad_Calingasta,-2.682452654937922e-11
+Localidad_Villa Mirasol,-2.6848043786086245e-11
+Localidad_Colpes,-2.685294770339138e-11
+Localidad_Crucesitas Séptima Sección,-2.6859635362546772e-11
+Localidad_Sierra Pailemán,-2.6869463047967386e-11
+Localidad_Bermejo,-2.6887659183027607e-11
+Localidad_Mamuel Choique,-2.6902438113736217e-11
+Localidad_Pueblo Pablo Torelo (Est. Otumpa),-2.6904915364649143e-11
+Localidad_Líbaros,-2.6914487679071574e-11
+Localidad_El Toro,-2.6917485532320847e-11
+Localidad_Don Emilio,-2.692790028898116e-11
+Localidad_Saira,-2.6930401373699056e-11
+Localidad_Piquirenda,-2.6939711033286175e-11
+Localidad_Chauchillas,-2.694171450654872e-11
+Localidad_El Espino,-2.6966885185970157e-11
+Localidad_Cuatro Bocas,-2.6972456265121943e-11
+Localidad_Pampa Grande,-2.6985736248025876e-11
+Localidad_Santa Rosa de los Pastos Grandes,-2.7008537601212325e-11
+Localidad_Barrio La Costa,-2.7009295569413465e-11
+Localidad_Aldea San Rafael,-2.7012143003704924e-11
+Localidad_León,-2.7036296151068634e-11
+Localidad_Dos Acequias (Est. Los Angacos),-2.7059888695576728e-11
+Localidad_Siján,-2.7078916513720393e-11
+Localidad_Villa del Prado,-2.709033770723127e-11
+Localidad_Yaminué,-2.7091637247276185e-11
+Localidad_Nuevo Pirquitas,-2.7096516025788077e-11
+Localidad_Luis Burela,-2.7099556080815175e-11
+Localidad_San Juan de Quillaqués,-2.7106515362360273e-11
+Localidad_La Almona,-2.7110950304299323e-11
+Localidad_El Corcovado - El Torreón,-2.712538713560204e-11
+Localidad_Andacollo,-2.7130117279469155e-11
+Localidad_Villa Escolar,-2.7133962537351512e-11
+Partido_Chical Co,-2.7140109363407964e-11
+Localidad_La Humada,-2.7140109363407964e-11
+Localidad_La Redonda,-2.714197067528944e-11
+Localidad_Yavi,-2.7151044255184537e-11
+Localidad_Treneta,-2.7168598261006057e-11
+Localidad_Barrio Ruca Luhé,-2.7176180788531835e-11
+Localidad_Lagunillas de Farallón,-2.7195736724294923e-11
+Localidad_Manzano Amargo,-2.720566324554557e-11
+Localidad_Villa Alberdi,-2.7207401594737743e-11
+Localidad_La Isleta,-2.7211770928271334e-11
+Localidad_Parada Acuña,-2.7250002686580327e-11
+Localidad_Renca,-2.7257414061915133e-11
+Localidad_La Travesía,-2.7262799788875444e-11
+Localidad_La Buitrera,-2.7271508259441523e-11
+Localidad_La Silleta,-2.7279710058472508e-11
+Localidad_El Potrillo,-2.7288869502505954e-11
+Localidad_Barrio Guerrico,-2.7294510666050986e-11
+Localidad_Andolucas,-2.7315964086052787e-11
+Localidad_Barrio Los Pinares,-2.7327102806517022e-11
+Localidad_La Punilla,-2.7347076327558068e-11
+Partido_San Antonio de Areco,-2.7351176342094e-11
+Localidad_Acoyte,-2.735435180006311e-11
+Localidad_Base San Martin,-2.7361318438177634e-11
+Localidad_Ingeniero Gustavo André,-2.7362801381387575e-11
+Localidad_San José de Orquera,-2.7365283410673037e-11
+Localidad_Paraje San Manuel,-2.736954120964175e-11
+Localidad_Villa Salles,-2.7374942971248865e-11
+Localidad_Santa Rita de Catuna,-2.7381336574907925e-11
+Localidad_Santa Victoria,-2.7383639897528143e-11
+Localidad_XX de Setiembre,-2.7392372936434975e-11
+Localidad_Aminga,-2.740003433716695e-11
+Localidad_Martín de Loyola,-2.741661820306967e-11
+Localidad_Cazador,-2.7424242362020924e-11
+Localidad_Navia,-2.7430016197571952e-11
+Localidad_Vaca Huañuna,-2.7433997022023095e-11
+Localidad_Las Delicias,-2.74367265800851e-11
+Localidad_Cerro Cóndor,-2.744408949691612e-11
+Localidad_Rucanelo,-2.7447051765070112e-11
+Localidad_Garayalde,-2.7460359234566823e-11
+Localidad_Las Barrancas,-2.746552572521717e-11
+Localidad_Parque Calmayo,-2.7471093532073102e-11
+Partido_Nogoyá,-2.7485950775970134e-11
+Localidad_Morales,-2.7500663491568468e-11
+Localidad_Villa Borjas,-2.7512417380322798e-11
+Localidad_Pampayasta Norte,-2.7520284544082722e-11
+Localidad_Barrio Santa Teresita,-2.752962911519119e-11
+Localidad_La Gloria,-2.7544811756951784e-11
+Localidad_Dos de Mayo Núcleo I,-2.7550221532083247e-11
+Localidad_Barreal - Villa Pituil,-2.755958503518028e-11
+Localidad_Barrio El Cepillo,-2.7569163516048138e-11
+Localidad_Conlara,-2.7569359280750948e-11
+Localidad_Chañar,-2.7584135521746772e-11
+Localidad_La Chispa,-2.7588563422757483e-11
+Localidad_La Firmeza,-2.7617300559425398e-11
+Localidad_Tricao Malal,-2.7621026902837597e-11
+Partido_San Cayetano,-2.7625548940088777e-11
+Localidad_Estación La Punta,-2.76473049159991e-11
+Localidad_Carro Quemado,-2.765267208904277e-11
+Partido_Valle Grande,-2.7654337163685504e-11
+Localidad_Ramayón,-2.7657636016630854e-11
+Localidad_Barrios,-2.765915648126982e-11
+Localidad_Villa Traful,-2.7664695823354447e-11
+Localidad_Cieneguillas,-2.7666409923647396e-11
+Localidad_Villa General Roca,-2.767759189577138e-11
+Localidad_Olaroz Chico,-2.7688916912673653e-11
+Localidad_Las Malvinas,-2.7690888519981154e-11
+Localidad_El Chocón,-2.769702097606139e-11
+Localidad_Profundidad,-2.770075795181944e-11
+Localidad_Arcadia,-2.771592217518929e-11
+Localidad_Villa Chicligasta,-2.771692248878599e-11
+Localidad_Saco Viejo,-2.7722110349614373e-11
+Localidad_Palmar Grande,-2.7731518994602086e-11
+Localidad_Wichi,-2.7732908156478525e-11
+Localidad_Yanda,-2.773620712811682e-11
+Localidad_Quetrequén,-2.77480641926796e-11
+Localidad_Averías,-2.776335835923702e-11
+Localidad_Tudcum,-2.7771109209348897e-11
+Localidad_Colonia Alemana,-2.778166993571852e-11
+Localidad_Barrio Fátima,-2.7790514482831587e-11
+Localidad_Perdriel,-2.779707082941015e-11
+Localidad_Base Orcadas,-2.7824630664238576e-11
+Localidad_Carahunco,-2.7831750829378394e-11
+Localidad_Caspi Corral,-2.7833492865691653e-11
+Localidad_Barrio El Labrador,-2.7845880255119577e-11
+Localidad_Pilcaniyeu,-2.785525039497647e-11
+Localidad_Villa San Isidro,-2.7885093056908376e-11
+Localidad_Ceballos,-2.7907145026584516e-11
+Localidad_Kilómetro 115,-2.7932530295769466e-11
+Localidad_Los Angeles,-2.793269878293374e-11
+Localidad_Tolloche,-2.793695584601533e-11
+Localidad_Playas Doradas,-2.7946428725671768e-11
+Localidad_Vaca Perdida,-2.7962486612215523e-11
+Localidad_Alto de la Sierra,-2.7978616183580865e-11
+Localidad_Nahuel Niyeu,-2.7985918798759043e-11
+Localidad_Bauer y Sigel,-2.8017014655750548e-11
+Localidad_Capivara,-2.8019979318759382e-11
+Localidad_Villa Llanquín,-2.8046832952989245e-11
+Localidad_Aguada Cecilio,-2.8048161752210165e-11
+Localidad_Barrio Esperanza,-2.8056561912354205e-11
+Localidad_Villa Alpina,-2.8081548545166876e-11
+Localidad_Tecka,-2.80829905149377e-11
+Localidad_Pueblo Cazes,-2.809065527010844e-11
+Localidad_Villa El Salvador - Villa Sefair,-2.809169917644658e-11
+Localidad_Barrio Moño Azul,-2.8099439625301298e-11
+Localidad_Aguada Guzmán,-2.810088764110388e-11
+Localidad_Villa Bolaños,-2.8141343122506146e-11
+Localidad_Reserva Area Protegida El Doradillo,-2.8146276107795838e-11
+Localidad_Taruma,-2.814906179086351e-11
+Localidad_Talapampa,-2.8160720964711427e-11
+Localidad_El Cuy,-2.8179270697426252e-11
+Localidad_Barrio Luisillo,-2.8206707173668852e-11
+Localidad_La Cuadra,-2.8222829252405946e-11
+Localidad_Aldea Apeleg,-2.8241009799708686e-11
+Localidad_Villa San Esteban,-2.827044372530477e-11
+Localidad_Tilimuqui,-2.8276719501789083e-11
+Localidad_Lumbreras,-2.8280202108809062e-11
+Localidad_El Volcán,-2.8284225880938138e-11
+Localidad_Alto Pelado,-2.8284517082289166e-11
+Localidad_Guanaco Muerto,-2.8297004669037268e-11
+Localidad_Lago Rosario,-2.8303261587076115e-11
+Localidad_Villa El Fachinal - Parque Norte - Guiñazú Norte,-2.832176158010345e-11
+Localidad_Las Costas,-2.8337775990196554e-11
+Localidad_Caá - Yarí,-2.8349828319965492e-11
+Localidad_Fortín Lavalle,-2.836352034517647e-11
+Localidad_El Brete,-2.837284855798704e-11
+Partido_Albardón,-2.837308471214054e-11
+Localidad_Colonia Las Pichanas,-2.837756237400606e-11
+Localidad_La Vanguardia,-2.8397553808742152e-11
+Localidad_El Médano,-2.840050172294707e-11
+Localidad_Castellanos,-2.8410271850988958e-11
+Localidad_Copacabana,-2.8410933761513223e-11
+Localidad_Bartolomé de las Casas,-2.8424588956643493e-11
+Localidad_Lomas Blancas,-2.84295700323905e-11
+Localidad_Tres Lagos,-2.8436742859879347e-11
+Localidad_Alicia Baja,-2.844316114951392e-11
+Localidad_Nueva California,-2.8444145472213203e-11
+Localidad_Cruz Caña,-2.845222313516501e-11
+Localidad_Juana Koslay,-2.8462213314795495e-11
+Localidad_Shaqui,-2.8467165379677693e-11
+Localidad_Rosario del Saladillo,-2.8470436571759456e-11
+Localidad_El Pedregal,-2.8526186877807888e-11
+Localidad_Doctor Ricardo Rojas,-2.8529815009591538e-11
+Localidad_Pozuelos,-2.8531213950236886e-11
+Localidad_Barrio Finca La Maroma,-2.853423469519433e-11
+Localidad_Pueblo Marini,-2.8534600593054355e-11
+Localidad_El Chacho,-2.8543224403404843e-11
+Localidad_Aurelia,-2.854361599756868e-11
+Localidad_Orosmayo,-2.854596856469122e-11
+Localidad_Valle Azul,-2.8551113895314866e-11
+Localidad_Anisacate,-2.856629213838822e-11
+Localidad_El Sauzal,-2.8570801141582332e-11
+Localidad_Los Ralos,-2.8573663438406467e-11
+Localidad_Ingeniero Chanourdie,-2.8582817826019904e-11
+Localidad_Río Chico (Est. Cerro Mesa),-2.8583924944919675e-11
+Localidad_Albarellos,-2.8604260575384547e-11
+Localidad_Las Plumas,-2.8605784356754947e-11
+Localidad_Teniente Berdina,-2.861367114669755e-11
+Localidad_Los Cajones,-2.8616615529603028e-11
+Localidad_Cayastacito,-2.8624330320377817e-11
+Localidad_Paso del Sapo,-2.8625247803704715e-11
+Localidad_Puerto Bermejo Nuevo,-2.862825904534006e-11
+Localidad_Los Altares,-2.8631523090950198e-11
+Localidad_Aldea Spatzenkutter,-2.864021264227016e-11
+Localidad_Coneta,-2.8645373900316333e-11
+Localidad_Santa María de Oro,-2.865564364324997e-11
+Localidad_Comicó,-2.8657593089725568e-11
+Localidad_Banco Payaguá,-2.867114923166088e-11
+Localidad_Donadeu,-2.8672006851084934e-11
+Localidad_Miguel Torres,-2.868014921376753e-11
+Localidad_Barrio Rivadavia,-2.8683259966890357e-11
+Localidad_La Cabral,-2.869130154236038e-11
+Localidad_El Zanjón,-2.8692137245556283e-11
+Localidad_Alto Salvador,-2.8696207127402438e-11
+Localidad_El Arenal,-2.8710946289958396e-11
+Localidad_Taninga,-2.8716087549585667e-11
+Localidad_Rio Villegas,-2.8719163839032295e-11
+Localidad_Quebracho Ladeado,-2.8725103367882068e-11
+Localidad_Villa Quillinzo,-2.8729379628662065e-11
+Localidad_Polcos,-2.873117703335303e-11
+Localidad_Colonia Victoria,-2.873782676321032e-11
+Localidad_El Ceibal,-2.8743108503696176e-11
+Localidad_La Loma,-2.8757285125653255e-11
+Localidad_Barrio La Barda,-2.87759706171866e-11
+Localidad_El Portezuelo,-2.8777880312551555e-11
+Localidad_La Libertad,-2.8805837481126462e-11
+Partido_Calamuchita,-2.881501101465553e-11
+Localidad_Barrio Sadop,-2.8823625017936622e-11
+Localidad_Ramón J. Cárcano,-2.882386792472719e-11
+Localidad_Coronel Manuel L. Rico,-2.882920477842929e-11
+Localidad_San Ignacio (Loteo San Javier),-2.8838734533840483e-11
+Localidad_El Cimarrón,-2.8860991562530778e-11
+Localidad_Misarrumi,-2.886885877459792e-11
+Localidad_Coranzuli,-2.888476306444405e-11
+Localidad_Aguada de Guerra,-2.890780880337686e-11
+Localidad_Pastos Chicos,-2.891572581791086e-11
+Localidad_Colonia Ensayo,-2.8977812018702266e-11
+Localidad_Tomas M. Anchorena,-2.8987024230868965e-11
+Localidad_Aguas Calientes,-2.8993269302433674e-11
+Localidad_La Aguada,-2.9010498372419387e-11
+Localidad_Campo La Cruz,-2.9022149187996685e-11
+Localidad_Barrio Mar del Plata,-2.9028324456202258e-11
+Localidad_Ceibalito,-2.9032044870713926e-11
+Localidad_Portón Negro,-2.904160114710465e-11
+Localidad_Mencué,-2.9052075369044574e-11
+Localidad_Copahue,-2.9080426056070898e-11
+Localidad_1º de Mayo,-2.9099806372603907e-11
+Localidad_Las Playas,-2.910489118374238e-11
+Partido_Chalileo,-2.9145254832725693e-11
+Localidad_Facundo,-2.919366564801188e-11
+Localidad_Castro Barros,-2.919492258092732e-11
+Localidad_Paso de la Laguna,-2.920699750147084e-11
+Localidad_Capitán Juan Pagé,-2.920810206766729e-11
+Localidad_Pueblo Viejo,-2.921345403354428e-11
+Localidad_La Maroma,-2.9218377949739095e-11
+Localidad_Colonia Anita,-2.922241530192865e-11
+Localidad_Mi Granja,-2.9235601898067116e-11
+Localidad_Los Overos,-2.926606695714943e-11
+Localidad_El Vergel,-2.92699592269818e-11
+Localidad_Tobantirenda,-2.927422415639862e-11
+Localidad_Leguizamón,-2.928068502976102e-11
+Localidad_Fortín Sargento 1º Leyes,-2.932393022899828e-11
+Localidad_San Martín I,-2.935094642953128e-11
+Localidad_Alhuampa,-2.9354584968011424e-11
+Localidad_Phillips,-2.9375600809508363e-11
+Localidad_Amboy,-2.9397563043857916e-11
+Localidad_Bañado de Soto,-2.9402424013495264e-11
+Localidad_Villa Mazán,-2.941147062472788e-11
+Localidad_Parada Labougle,-2.9416253827175936e-11
+Localidad_El Salto,-2.9428896199914753e-11
+Localidad_Loteo Navea,-2.9429244301373283e-11
+Localidad_Villa del Plata,-2.943382424801626e-11
+Localidad_Plaza Luxardo,-2.9440105895997076e-11
+Localidad_Cabal,-2.9440356135976747e-11
+Provincia_SANTA CRUZ,-2.9441421901344014e-11
+Localidad_Rocamora,-2.9474040804919724e-11
+Localidad_Potrerillo,-2.9485301311322556e-11
+Partido_Leandro N. Alem,-2.949030364703681e-11
+Localidad_El Mirasol,-2.9526708723079215e-11
+Localidad_Loma Alta,-2.953305529392498e-11
+Localidad_Arroyo Ventana,-2.9562745987146455e-11
+Localidad_Vallecito,-2.960959738222944e-11
+Localidad_Olegario V. Andrade,-2.961141117437481e-11
+Localidad_Los Nogales,-2.961959911612076e-11
+Localidad_Dos de Mayo Núcleo III,-2.962232327789965e-11
+Localidad_Cañadón Seco,-2.9640865847051574e-11
+Localidad_Gobernador Duval,-2.964591254641802e-11
+Localidad_Prahuaniyeu,-2.9656166549229083e-11
+Localidad_Bajo Caracoles,-2.966433113832104e-11
+Localidad_Capitán Cáceres,-2.966653035696453e-11
+Localidad_Rinconada,-2.9678387369498556e-11
+Localidad_Gran China,-2.9685452042619526e-11
+Localidad_San Agustín,-2.969318488536128e-11
+Localidad_Mina 3,-2.969961031288569e-11
+Localidad_Villa La Viña,-2.9754518870504395e-11
+Localidad_Villa Dominguito (Est. Puntilla Blanca),-2.9757550590915124e-11
+Localidad_Rosario de Río Grande,-2.978008847827598e-11
+Localidad_Villa Independencia,-2.9798542401956613e-11
+Localidad_La Intermedia,-2.980920548015993e-11
+Localidad_Carrenleufú,-2.982199516985568e-11
+Localidad_El Escorial,-2.982437365707795e-11
+Localidad_Damián Maisonave (Est. Simson),-2.9835008834239867e-11
+Localidad_Cululú,-2.98412896875507e-11
+Localidad_Loventué,-2.984429488408519e-11
+Localidad_El Caín,-2.988342614862613e-11
+Localidad_Agustoni,-2.9893110541644933e-11
+Localidad_Peñas Blancas,-2.99284873570702e-11
+Localidad_Punta Colorada,-2.993880043679628e-11
+Localidad_Villa Aberastain - La Rinconada,-2.995917637160088e-11
+Localidad_Salto Andersen,-2.9977250056768034e-11
+Localidad_Gualjaina,-3.000282738181152e-11
+Localidad_Nogolí,-3.001123779845649e-11
+Partido_General Ocampo,-3.001583107859784e-11
+Localidad_Gobernador Gregores,-3.001745524648968e-11
+Localidad_Las Ovejas,-3.004195582404622e-11
+Localidad_Paso Córdova,-3.005773513660292e-11
+Localidad_Guadalcazar,-3.006829642605816e-11
+Localidad_Estancia San Pedro,-3.0077089084585455e-11
+Localidad_Perú,-3.008093038407007e-11
+Localidad_Ñanducita,-3.0185455321176416e-11
+Localidad_Lavaisse,-3.0186961296663136e-11
+Localidad_Tupelí,-3.0201125434760566e-11
+Localidad_San Huberto,-3.0206543192007974e-11
+Localidad_La Poma,-3.021246485920628e-11
+Partido_La Poma,-3.021246485920628e-11
+Localidad_Cienaguita,-3.0218604952535784e-11
+Localidad_Yala Laubat,-3.0247022375941793e-11
+Localidad_Santa Florentina,-3.0253970776127745e-11
+Localidad_Colonia Fiorito,-3.027707022844338e-11
+Localidad_Río Juan Gómez,-3.027924280420685e-11
+Localidad_General Urquiza,-3.0295084457280714e-11
+Localidad_Quehué,-3.035125137425731e-11
+Localidad_Segunda Usina,-3.037227441385914e-11
+Localidad_Cañada de Machado,-3.037699616796784e-11
+Localidad_Km. 11 - Cuarteles,-3.038802916507115e-11
+Localidad_Cavour,-3.039249041877922e-11
+Localidad_El Turbio (Est. Gobernador Mayer),-3.0398744409893215e-11
+Localidad_Las Aguadas,-3.039924515884046e-11
+Localidad_Tosno,-3.040641886459993e-11
+Localidad_Barrio Cicarelli,-3.041128620680845e-11
+Localidad_Los Catutos,-3.0421077974725844e-11
+Localidad_Nazareno,-3.042111370192886e-11
+Localidad_Blancuntre,-3.043253816939578e-11
+Localidad_Virginia,-3.0439796771326294e-11
+Localidad_Villa San Miguel,-3.044294205032109e-11
+Localidad_Roca Chica,-3.047149893183067e-11
+Localidad_Villa Malvinas Argentinas,-3.054758030209646e-11
+Localidad_Villa Cerro Azul,-3.05850279441161e-11
+Localidad_Barrio Caima,-3.0588106899677875e-11
+Localidad_Rayo Cortado,-3.059933477100372e-11
+Localidad_Don Cristóbal,-3.061695622974939e-11
+Localidad_Villa La Rivera (Pueblo Andino),-3.06312574806151e-11
+Localidad_Las Juntas,-3.063219958872134e-11
+Localidad_Barrio Puente 83,-3.063805943788069e-11
+Localidad_Barrio Los Olivos,-3.066693646893537e-11
+Localidad_Esquina del Alambre,-3.067352362422053e-11
+Localidad_Chaquiago,-3.067543651022805e-11
+Localidad_Monte Nievas,-3.067746347989193e-11
+Localidad_Doblas,-3.07032236704306e-11
+Localidad_La Rubia,-3.072748666410758e-11
+Localidad_Villa Los Aromos,-3.074076333546309e-11
+Localidad_Campo Los Andes,-3.0770212302906555e-11
+Localidad_Cuesta Blanca,-3.077285226937624e-11
+Localidad_Santurce,-3.077485787750092e-11
+Localidad_Villa del Tránsito,-3.079074517720513e-11
+Localidad_Barrio Santa Lucia,-3.080039984007203e-11
+Localidad_San Pedro (Est. San Pedro de Jujuy),-3.0819988083556353e-11
+Localidad_Cintra,-3.084071491687529e-11
+Localidad_Curupaity,-3.084763121511425e-11
+Localidad_Colonia Margarita,-3.0867678817621335e-11
+Localidad_El Caramelo,-3.089935295903783e-11
+Localidad_Las Caleras,-3.0906490331896103e-11
+Localidad_Río Pico,-3.0929393986257366e-11
+Localidad_Ingeniero Miguel Sajaroff,-3.093261177473019e-11
+Localidad_Paraje 29,-3.096417825407932e-11
+Localidad_Lagunita Salada,-3.100941885826761e-11
+Partido_Benito Juárez,-3.101441161726872e-11
+Localidad_Colonia Hugues,-3.1053808441172443e-11
+Localidad_Los Cipreses,-3.1062127949359287e-11
+Localidad_Aldea Beleiro,-3.116300382986718e-11
+Localidad_Colonia Peña,-3.116385482865791e-11
+Localidad_Mariano Boedo,-3.11704783243217e-11
+Localidad_Ojeda,-3.1173884199930705e-11
+Localidad_Cañada del Ucle,-3.119791108108379e-11
+Localidad_Las Jarillas,-3.120821617806987e-11
+Localidad_Villa Futalaufquen,-3.1232319310657094e-11
+Localidad_Villa Libertad (Municipio Leandro N. Alem),-3.1247513022449586e-11
+Localidad_Taquimilán,-3.1294826451146565e-11
+Localidad_La Batea,-3.1341547151502614e-11
+Localidad_La Penca y Caraguatá,-3.1360064258996654e-11
+Partido_Catan LilL,-3.137738440825902e-11
+Localidad_Las Coloradas,-3.137738440825902e-11
+Localidad_Jocolí Viejo,-3.139062163807157e-11
+Localidad_Las Vegas,-3.139472587736258e-11
+Localidad_Las Calles,-3.139897389995714e-11
+Localidad_Canteras Quilpo,-3.140184807550076e-11
+Localidad_Dorila,-3.1435343645591446e-11
+Localidad_Colonia Italiana,-3.145895151407914e-11
+Localidad_Huinganco,-3.148886538342169e-11
+Partido_Salliqueló,-3.148996922960213e-11
+Localidad_San Fabián,-3.149870272757891e-11
+Localidad_Rueda,-3.149912811906125e-11
+Localidad_Cuatro Esquinas,-3.1510084803790723e-11
+Localidad_Ñorquincó,-3.151048599396024e-11
+Localidad_Sa Pereyra,-3.1519681947058465e-11
+Localidad_Montefiore,-3.1520219041374794e-11
+Localidad_Villa Ciudad Parque Los Reartes (3a. Sección),-3.153419566016515e-11
+Localidad_Cuadro Benegas,-3.155049968790537e-11
+Localidad_Colonia Médici,-3.155479558873295e-11
+Localidad_Media Naranja,-3.1574809186509593e-11
+Localidad_Barrio La Defensa,-3.157871835044165e-11
+Localidad_Caminiaga,-3.158387723204837e-11
+Localidad_Los Árboles,-3.158748914256195e-11
+Localidad_Villa Amelia,-3.1596082193722927e-11
+Localidad_Capitán General Bernardo O'Higgins,-3.160176287982851e-11
+Localidad_Vinalito,-3.1614034244321194e-11
+Localidad_Colonia Raquel,-3.163399093945222e-11
+Localidad_Arroyo Los Berros,-3.164162045461852e-11
+Localidad_Enrique Urién,-3.165454707128165e-11
+Localidad_Playa Magagna,-3.167746795586647e-11
+Localidad_Valle de Anisacate,-3.1743585279533985e-11
+Localidad_Nicolás Bruzzone,-3.1773092207868974e-11
+Localidad_Colonia Bismarck,-3.1777802718868675e-11
+Localidad_Pozo de los Indios,-3.1791973799090595e-11
+Localidad_Naré,-3.1792644931919174e-11
+Localidad_Coronel Fraga,-3.179799127876305e-11
+Localidad_Los Talares,-3.181267549085075e-11
+Localidad_Charbonier,-3.182949440293085e-11
+Localidad_Guasapampa,-3.1860594550295145e-11
+Localidad_Olivares de San Nicolás,-3.186487900574357e-11
+Localidad_Talaini,-3.187838622360097e-11
+Localidad_Esther,-3.1890019843071874e-11
+Localidad_Tuclame,-3.1927362923045975e-11
+Localidad_Lago Blanco,-3.193511469223717e-11
+Localidad_Alto de los Quebrachos,-3.197261067704835e-11
+Localidad_Misión Kilómetro 6,-3.202807301923813e-11
+Partido_Castelli,-3.2148725121288654e-11
+Localidad_Chorriaca,-3.218586330683006e-11
+Localidad_Talita,-3.2226546548422114e-11
+Localidad_El Maitén,-3.223541483870389e-11
+Localidad_La Población,-3.227967272805937e-11
+Localidad_Salinas del Bebedero,-3.22968155731069e-11
+Localidad_La Vertiente,-3.2326419381383597e-11
+Localidad_La Quinta,-3.2332116402750686e-11
+Localidad_Quebracho Herrado,-3.236913976687121e-11
+Localidad_Arbilla,-3.2372752772620574e-11
+Localidad_Pinzón,-3.24066859483765e-11
+Localidad_Jaramillo,-3.246211089495507e-11
+Localidad_Villa Ciudad Parque Los Reartes (1a. Sección),-3.2475830595571505e-11
+Localidad_La Cortadera,-3.2594499415403396e-11
+Localidad_Los Romeros,-3.265205192720767e-11
+Localidad_Las Rabonas,-3.267164469865422e-11
+Localidad_Eustolia,-3.267297725525849e-11
+Localidad_Larguía,-3.2699885054064996e-11
+Localidad_Casa Grande,-3.270275596203261e-11
+Localidad_Cruz de Caña,-3.272072613691263e-11
+Localidad_Colonia Ana,-3.275026484837236e-11
+Localidad_Estación Camps,-3.292428368641193e-11
+Localidad_San Miguel,-3.292993238888167e-11
+Localidad_Sauce Arriba,-3.292996339900464e-11
+Localidad_Carolina,-3.318784514933874e-11
+Localidad_Tellier,-3.324602147250947e-11
+Localidad_La Rancherita,-3.3561763419017395e-11
+Localidad_San Pedro Norte,-3.356722733418341e-11
+Localidad_Punta Indio,-3.364895947204504e-11
+Localidad_Arminda,-3.367793781655261e-11
+Localidad_Villa San Isidro - José de la Quintana,-3.375191553219532e-11
+Localidad_Hale,-3.3775802314346616e-11
+Localidad_Colonia Durán,-3.382405303763619e-11
+Localidad_Loma Bola,-3.3825570282122656e-11
+Localidad_Corcovado,-3.389531290616645e-11
+Partido_Pila,-3.390427839101248e-11
+Localidad_Aguará Grande,-3.396897974661188e-11
+Localidad_Estancia de Guadalupe,-3.4318428838711777e-11
+Partido_San Pedro,-3.438066034804075e-11
+Localidad_Chilibroste,-3.4600320873742886e-11
+Localidad_Toba,-3.464962142540522e-11
+Localidad_Angeloni,-3.4667718066941726e-11
+Localidad_Mayu Sumaj,-3.46895783141758e-11
+Localidad_Colmena,-3.482726284936738e-11
+Localidad_Juncal,-3.483419845031451e-11
+Partido_Lago Argentino,-3.492226550804323e-11
+Localidad_Cepeda,-3.493464728014383e-11
+Localidad_Estación Saguier,-3.495525142553501e-11
+Localidad_Castilla,-3.4972992403430446e-11
+Localidad_La Donosa,-3.4975129852518774e-11
+Localidad_La Florida,-3.499691245275752e-11
+Localidad_Atalaya,-3.501466826791827e-11
+Partido_Florentino Ameghino,-3.502201533136722e-11
+Localidad_Irineo Portela,-3.502633127546376e-11
+Localidad_Lucas Monteverde,-3.5083613058528394e-11
+Localidad_Fontezuela,-3.50937992848923e-11
+Localidad_Ernestina,-3.5163772729520727e-11
+Localidad_Balneario Marisol,-3.518034864804112e-11
+Localidad_Moquehue,-3.527898899153484e-11
+Localidad_Quebrada de los Pozos,-3.5565191963985606e-11
+Partido_General La Madrid,-3.5605368323410477e-11
+Partido_Iruya,-3.568239586584248e-11
+Localidad_Laguna Blanca,-3.5725742732694776e-11
+Localidad_El Huayco,-3.581297870489423e-11
+Localidad_Los Molinos,-3.6060171206096087e-11
+Partido_Eldorado,-3.624649687332058e-11
+Localidad_José Juan Almeyra,-3.635250584240684e-11
+Localidad_Roberto J. Payró,-3.641130286766882e-11
+Localidad_Villa La Arcadia,-3.641274077101963e-11
+Localidad_Cucullú,-3.642194074173003e-11
+Localidad_Erézcano,-3.651173901994556e-11
+Localidad_Ramón Biaus,-3.6594302738673155e-11
+Localidad_Bellocq,-3.663348061594217e-11
+Localidad_El Marquesado,-3.666022676372011e-11
+Localidad_Barrio El Carmen Oeste,-3.67052824308992e-11
+Localidad_Magdala,-3.675929041771632e-11
+Localidad_Tamangueyú,-3.763612877461239e-11
+Localidad_Fortín Acha,-3.7736300119838444e-11
+Localidad_Chacras de San Clemente,-3.780316828448019e-11
+Localidad_La Constancia,-3.78384860815942e-11
+Localidad_Solís,-3.7860009310909046e-11
+Localidad_Villa Espil,-3.791338688219217e-11
+Localidad_Vieytes,-3.796565251670286e-11
+Localidad_La Angelita,-3.7974609845241446e-11
+Localidad_López,-3.797556100506685e-11
+Localidad_Jorge Born,-3.800794892660064e-11
+Partido_Zapala,-3.802012299199587e-11
+Localidad_Villa Ruiz,-3.8034638439678095e-11
+Localidad_San Sebastián,-3.8045046168971134e-11
+Localidad_José B. Casas,-3.8101630016903275e-11
+Localidad_Bordenave,-3.81275305356603e-11
+Partido_Capitán Sarmiento,-3.8537654701508975e-11
+Partido_Paso de Indios,-3.877013844007881e-11
+Partido_Roque Pérez,-3.8858205576587015e-11
+Localidad_Elvira,-3.912106984628994e-11
+Localidad_Las Marianas,-3.926429870467298e-11
+Localidad_Cazón,-3.926430070553792e-11
+Localidad_San Germán,-3.926767078909702e-11
+Localidad_Centro Guerrero,-3.931077247562896e-11
+Localidad_Juan E. Barra,-3.931851778503461e-11
+Localidad_Sarasa,-3.9341131871677744e-11
+Localidad_Timote,-3.937364760899299e-11
+Localidad_Pueblo Gouin,-3.942975696162803e-11
+Localidad_Villa Progreso,-3.948327364233853e-11
+Localidad_Quenumá,-3.950102395982378e-11
+Localidad_Lin Calel,-3.950848458808963e-11
+Localidad_Udaquiola,-3.950965004080877e-11
+Localidad_Coronel Boerr,-3.9538926093067396e-11
+Localidad_Arana,-3.9553941603702237e-11
+Localidad_Casalins,-4.0583991129699245e-11
+Localidad_Carlos Salas,-4.062107473440048e-11
+Localidad_Mar de Cobo,-4.062667936271884e-11
+Localidad_Azcuénaga,-4.0635784901429544e-11
+Localidad_Antonio Carboni,-4.0644991334758534e-11
+Localidad_Villa Serrana La Gruta,-4.0662936545872784e-11
+Localidad_Villa Garibaldi,-4.071676514782754e-11
+Partido_Lincoln,-4.0719242179511225e-11
+Localidad_Duggan,-4.072261312345034e-11
+Localidad_12 de Octubre,-4.0741033698501774e-11
+Localidad_Mauricio Hirsch,-4.0770656549295285e-11
+Localidad_Girodias,-4.078572311635729e-11
+Localidad_Esteban Agustín Gascón,-4.0790029328630966e-11
+Localidad_Curarú,-4.0802670638854665e-11
+Localidad_Mechita (Est. Mecha),-4.0810193777579025e-11
+Localidad_Porvenir,-4.081271945027379e-11
+Localidad_Arroyo Venado,-4.082159656597189e-11
+Localidad_Ochandío,-4.083897999200589e-11
+Localidad_Ignacio Correas,-4.085614302615274e-11
+Localidad_Alvarez de Toledo,-4.195398079349904e-11
+Localidad_Zavalía,-4.1965101200126004e-11
+Localidad_Villars,-4.200636602852603e-11
+Localidad_Patricios,-4.205840413592654e-11
+Localidad_El Dorado,-4.206363761630992e-11
+Localidad_Barrio El Casal,-4.2072357083385635e-11
+Localidad_Cadret,-4.207479888834761e-11
+Localidad_Capitán Castro,-4.2084381664318115e-11
+Localidad_Pasman,-4.209834026343852e-11
+Localidad_Sierras Bayas,-4.2109753459354865e-11
+Provincia_LA PAMPA,-4.211698777710027e-11
+Localidad_Pueblo Nuevo,-4.2132908106446964e-11
+Localidad_Goyena,-4.2137576094851016e-11
+Localidad_Los Naranjos,-4.214056226318268e-11
+Localidad_Máximo Paz,-4.22352345586492e-11
+Localidad_Olascoaga,-4.224301442068844e-11
+Localidad_Warnes,-4.227134788716831e-11
+Localidad_Gahan,-4.233749946703075e-11
+Partido_Coronel Suárez,-4.2463061874492356e-11
+Localidad_San Bernardo,-4.252702471371746e-11
+Partido_Alberdi,-4.3023257223892876e-11
+Partido_Río Chico,-4.312484920197513e-11
+Localidad_Las Martinetas,-4.316943697391784e-11
+Partido_Iglesia,-4.328049708106422e-11
+Localidad_Fortín Tiburcio,-4.337999317761159e-11
+Localidad_De la Canal,-4.3409750874535365e-11
+Localidad_Zona Aeropuerto Internacional Ezeiza,-4.343017479875041e-11
+Localidad_Laplacette,-4.344416306483781e-11
+Localidad_Country Los Medanos,-4.347619054021748e-11
+Localidad_Los Pinos,-4.3479155401894585e-11
+Localidad_Pichincha,-4.354843241922592e-11
+Localidad_Parada Orlando,-4.3563271479566824e-11
+Localidad_Claromecó,-4.357276551449048e-11
+Localidad_San Mayol,-4.358014344383477e-11
+Localidad_Smith,-4.3581010547394074e-11
+Localidad_Arroyo Corto,-4.358442627376916e-11
+Localidad_Juan A. de la Peña,-4.358826853851472e-11
+Localidad_Gobernador Ugarte,-4.359470938840263e-11
+Localidad_La Caleta,-4.3613052161127865e-11
+Localidad_Pirovano,-4.361455339902124e-11
+Localidad_Argerich,-4.363687438689692e-11
+Localidad_Nueva Plata,-4.3670682839361075e-11
+Partido_Famatina,-4.369390929324522e-11
+Partido_Chicoana,-4.430749567912256e-11
+Localidad_Trongé,-4.4885622884313124e-11
+Localidad_Pueblo San Jorge,-4.4918825102663265e-11
+Localidad_La Luisa,-4.49282018970836e-11
+Partido_Mar Chiquita,-4.4936457733971444e-11
+Localidad_Claraz,-4.495520434327279e-11
+Localidad_Inocencio Sosa,-4.497577027409924e-11
+Localidad_Gorostiaga,-4.5014715880385596e-11
+Localidad_Energía,-4.5084693717706395e-11
+Localidad_Carlos Beguerie,-4.6291183282390925e-11
+Localidad_El Trigo,-4.630306973846394e-11
+Localidad_La Rica,-4.63073897412441e-11
+Localidad_La Carreta,-4.766901349733719e-11
+Localidad_Licenciado Matienzo,-4.767757836622034e-11
+Localidad_Colonia Seré,-4.769375516780936e-11
+Partido_Pocho,-4.780769472510428e-11
+Partido_Ñorquín,-4.813887529923147e-11
+Localidad_Lozano,-4.918389045582271e-11
+Partido_Pichi Mahuida,-5.007738411278177e-11
+Partido_General Arenales,-5.0115810260670805e-11
+Partido_Balcarce,-5.032453351122939e-11
+Localidad_Olacapato,-5.072161937187771e-11
+Localidad_Gramilla,-5.1765076808727674e-11
+Localidad_El Potrero,-5.188558137762206e-11
+Localidad_El Durazno,-5.290333580393003e-11
+Partido_Moreno,-5.371028127738815e-11
+Provincia_SAN JUAN,-5.382269318666506e-11
+Partido_Puán,-5.473120223807214e-11
+Localidad_Pacará,-5.6245213788859495e-11
+Partido_Fray Mamerto Esquiú,-5.6369766149718394e-11
+Partido_Lobería,-5.7183990375383874e-11
+Partido_Paclín,-5.726689935077586e-11
+Partido_Villarino,-5.731027760330312e-11
+Localidad_Tamberías,-5.7723898824027565e-11
+Localidad_Las Chacras,-5.8039851683757994e-11
+Partido_Mártires,-5.813249307983394e-11
+Partido_Coronel Pringles,-5.829375435304272e-11
+Partido_Cushamen,-5.904187841184805e-11
+Partido_Figueroa,-5.916703654476879e-11
+Localidad_La Ramada,-5.944206248914225e-11
+Partido_San Alberto,-5.989304353722422e-11
+Localidad_La Puntilla,-6.102141098092045e-11
+Localidad_San Antonio,-6.194973058627027e-11
+Localidad_Colan Conhue,-6.284680513784768e-11
+Partido_Calingasta,-6.290345030667048e-11
+Partido_Saavedra,-6.389714798132703e-11
+Partido_Pomán,-6.447658158171308e-11
+Partido_Lobos,-6.455497571387953e-11
+Partido_Santa María,-6.571129360259144e-11
+Partido_Saladillo,-6.644399370868761e-11
+Localidad_Villa San José,-6.809263158200572e-11
+Partido_Caucete,-6.860959158136498e-11
+Partido_Belgrano,-6.862762697611678e-11
+Partido_Valle Viejo,-6.94823901194964e-11
+Partido_Necochea,-6.969255685626303e-11
+Partido_Navarro,-6.972607476854971e-11
+Partido_Bolívar,-6.99995754832007e-11
+Partido_Conhelo,-7.047206009846279e-11
+Partido_Las Flores,-7.079319963939421e-11
+Localidad_San Esteban,-7.174499576693562e-11
+Localidad_Santo Tomás,-7.407166380437843e-11
+Partido_Realicó,-7.507109265200697e-11
+Partido_Ramón Lista,-7.53257075098132e-11
+Partido_ANTARTIDA ARGENTINA,-7.779838659625273e-11
+Localidad_Santa María,-7.866634939834907e-11
+Partido_9 de Julio,-8.026199948889744e-11
+Partido_Laprida,-8.041100088274607e-11
+Partido_Junín,-8.601852650503262e-11
+Partido_Gobernador Dupuy,-8.63983782595099e-11
+Partido_Futaleufú,-8.647169571712224e-11
+Partido_Ñorquincó,-8.699684905261625e-11
+Partido_Tres Arroyos,-9.089503623964763e-11
+Partido_General Las Heras,-9.119025648434885e-11
+Partido_Yavi,-9.208675186946757e-11
+Provincia_CATAMARCA,-9.28600880921809e-11
+Partido_Andalgalá,-9.500092915503599e-11
+Partido_Pilcaniyeu,-9.586766262154508e-11
+Partido_Bragado,-9.615522087961938e-11
+Partido_El Cuy,-1.0049249903574234e-10
+Partido_General Pedernera,-1.026867601193762e-10
+Partido_Pergamino,-1.0408118410758328e-10
+Partido_Gastre,-1.0495221413872295e-10
+Partido_Río Senguer,-1.1055881006856608e-10
+Partido_Trenque Lauquen,-1.1165591714678985e-10
+Partido_Carlos Tejedor,-1.2002319384191388e-10
+Localidad_Los Molles,-1.202668490669517e-10
+Partido_Valcheta,-1.259646111148276e-10
+Partido_Chilecito,-1.3624108533459346e-10
+Partido_Libertador Grl. San Martín,-1.3778554021185588e-10
+Partido_25 de Mayo,-1.4174153053995456e-10
+Partido_Languiñeo,-1.432576651015164e-10
+Partido_Magdalena,-1.4408014726531851e-10
+Partido_Chivilcoy,-1.5016908647031873e-10
+Partido_San Antonio,-1.611397983416113e-10
+Partido_Castro Barros,-1.613786579950657e-10
+Partido_Jáchal,-1.6180765829718615e-10
+Partido_Pehuajó,-1.710021150823053e-10
+Partido_San Andrés de Giles,-1.83447296139258e-10
+Partido_Carlos Casares,-1.8605309972964214e-10
+Partido_Rinconada,-1.8787734208183947e-10
+Partido_General Roca,-1.9209991427555157e-10
+Partido_Ayacucho,-1.9574506979909585e-10
+Partido_Santa Victoria,-1.9729246107137461e-10
+Partido_Santa Catalina,-1.9958143795477327e-10
+Partido_San Javier,-2.0225055251786863e-10
+Partido_San Blas de los Sauces,-2.073953588678028e-10
+Partido_Minas,-2.491252211830523e-10
+Partido_Cruz del Eje,-2.628127831679659e-10
+Partido_Susques,-2.678693041311288e-10
+Provincia_LA RIOJA,-3.385815794374494e-10
+Provincia_CHUBUT,-4.933300187950108e-10
+Provincia_JUJUY,-6.15908648685462e-10
+Provincia_RIO NEGRO,-6.763346125148381e-10
+Provincia_SAN LUIS,-1.1026004926636798e-09
+Provincia_BUENOS AIRES,-1.297731993589093e-09
+Latitud,-1.8473712548501961e-07
+Salario_promedio,-1.8811373088549196e-07
+Longitud,-3.9509179751320226e-07
