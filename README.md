@@ -22,68 +22,7 @@ _Colaboradores:_
 
 ## Descripción : :globe_with_meridians:
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
-El conjunto de datos contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
-
-* Year: Año de los datos.
-  
-* Quarter: Trimestre del año al que pertenecen los datos.
-  
-* Provincia: Provincia a la que pertenece la información.
-  
-* Partido: Partido dentro de la provincia.
-  
-* Localidad: Nombre de la localidad.
-  
-* Poblacion_2022: Población en el año 2022.
-  
-* Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
-  
-* Acc_cada_100_hab: Acceso a Internet cada 100 habitantes.
-  
-* ADSL_2022: Número de conexiones ADSL en 2022.
-
-  * Cablemodem_2022: Número de conexiones por cable en 2022.
-  
-* Dial Up_2022: Número de conexiones Dial Up en 2022.
-  
-* Fibra optica_2022: Número de conexiones de fibra óptica en 2022.
-  
-* Satelital_2022: Número de conexiones satelitales en 2022.
-  
-* Wireless_2022: Número de conexiones inalámbricas en 2022.
-  
-* Telefonia Fija_2022: Número de líneas de telefonía fija en 2022.
-  
-* 3G_2022: Número de conexiones 3G en 2022.
-  
-* 4G_2022: Número de conexiones 4G en 2022.
-  
-* Cant_ADSL_2022: Cantidad de conexiones ADSL en 2022.
-  
-* Cant_Cablemodem_2022: Cantidad de conexiones por cable en 2022.
-  
-* Cant_DialUp_2022: Cantidad de conexiones Dial Up en 2022.
-  
-* Cant_FibraOptica_2022: Cantidad de conexiones de fibra óptica en 2022.
-  
-* Cant_Otros_2022: Cantidad de otras conexiones en 2022.
-  
-* Cant_Satelital_2022: Cantidad de conexiones satelitales en 2022.
-  
-* Cant_Wimax_2022: Cantidad de conexiones Wimax en 2022.
-  
-* Cant_Wireless_2022: Cantidad de conexiones inalámbricas en 2022.
-  
-* Total_2022: Total de conexiones en 2022.
-  
-* Pob_prov_2022: Población provincial en 2022.
-  
-* Salario_promedio: Salario promedio.
-  
-* Latitud: Coordenada de latitud.
-  
-* Longitud: Coordenada de longitud.
-
+ 
 
 ## Enlace de Demostración:
 
@@ -162,7 +101,70 @@ https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de
     - _Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos._ 
 https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ 
 
-    - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.Link Trello:_ https://trello.com/w/proyectogrupo22pp1 
+    - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.Link Trello:_ https://trello.com/w/proyectogrupo22pp1
+  
+El conjunto de datos contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
+
+* Year: Año de los datos.
+  
+* Quarter: Trimestre del año al que pertenecen los datos.
+  
+* Provincia: Provincia a la que pertenece la información.
+  
+* Partido: Partido dentro de la provincia.
+  
+* Localidad: Nombre de la localidad.
+  
+* Poblacion_2022: Población en el año 2022.
+  
+* Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
+  
+* Acc_cada_100_hab: Acceso a Internet cada 100 habitantes.
+  
+* ADSL_2022: Número de conexiones ADSL en 2022.
+
+* Cablemodem_2022: Número de conexiones por cable en 2022.
+   
+* Dial Up_2022: Número de conexiones Dial Up en 2022.
+  
+* Fibra optica_2022: Número de conexiones de fibra óptica en 2022.
+  
+* Satelital_2022: Número de conexiones satelitales en 2022.
+  
+* Wireless_2022: Número de conexiones inalámbricas en 2022.
+  
+* Telefonia Fija_2022: Número de líneas de telefonía fija en 2022.
+  
+* 3G_2022: Número de conexiones 3G en 2022.
+  
+* 4G_2022: Número de conexiones 4G en 2022.
+  
+* Cant_ADSL_2022: Cantidad de conexiones ADSL en 2022.
+  
+* Cant_Cablemodem_2022: Cantidad de conexiones por cable en 2022.
+  
+* Cant_DialUp_2022: Cantidad de conexiones Dial Up en 2022.
+  
+* Cant_FibraOptica_2022: Cantidad de conexiones de fibra óptica en 2022.
+  
+* Cant_Otros_2022: Cantidad de otras conexiones en 2022.
+  
+* Cant_Satelital_2022: Cantidad de conexiones satelitales en 2022.
+  
+* Cant_Wimax_2022: Cantidad de conexiones Wimax en 2022.
+  
+* Cant_Wireless_2022: Cantidad de conexiones inalámbricas en 2022.
+  
+* Total_2022: Total de conexiones en 2022.
+  
+* Pob_prov_2022: Población provincial en 2022.
+  
+* Salario_promedio: Salario promedio.
+  
+* Latitud: Coordenada de latitud.
+  
+* Longitud: Coordenada de longitud.
+
 
 ## Marco Conceptual.
 _El marco conceptual de este proyecto se basa en las siguientes áreas:_
