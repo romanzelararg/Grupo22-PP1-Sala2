@@ -60,6 +60,8 @@ _Colaboradores:_
    + Mapas
    + DBSCAN
    + Coeficientes
+   + Coeficientes Filtrados
+   + K-means
    + Regresion Logistica
    + Regresion Lineal
 
