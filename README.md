@@ -22,6 +22,25 @@ _Colaboradores:_
 
 ## Descripción : :globe_with_meridians:
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
+El conjunto de datos contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
+
+* Year: Año de los datos.
+  
+* Quarter: Trimestre del año al que pertenecen los datos.
+  
+* Provincia: Provincia a la que pertenece la información.
+  
+* Partido: Partido dentro de la provincia.
+  
+* Localidad: Nombre de la localidad.
+  
+* Poblacion_2022: Población en el año 2022.
+  
+* Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
+  
+* Acc_cada_100_hab: Acceso a Internet cada 100 habitantes.
+  
+* ADSL_2022: Número de conexiones ADSL en 2022.
 
 ## Enlace de Demostración:
 
@@ -76,11 +95,22 @@ _Objetivos Específicos:_
 
  - [x] Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
 
+ - [x] Predecir la cantidad de conecciones de un tipo especifico en 2022 en funcion de otras variables.
+
+ - [x] Predecir la poblacion en 2022 en funcion de las variables proporcionadas.
+       
  - [x] Clasificar las localidades en función de su conectividad a internet.
 
- - [ ] Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
+ - [x] Analizar la relacion entre el acceso a internet y la poblacion en diferentes regiones.
+
+ - [x] Explorar patrones en la distribucion de conexiones de Internet.
+
+ - [x] Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
 
  - [x] Presentar los resultados de manera comprensible para los usuarios.
+
+
+       
 
 ## Comprensión de Datos: :card_index_dividers:
 1. _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
@@ -150,101 +180,13 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 ## Conclusion:
 ***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
 
-# CONSIGNAS GENERALES DEL PROYECTO :memo:
+                                                                                              
 
-## * Definir tipo de proyecto y objetivo
+  
 
-El conjunto de datos contiene información relacionada con diferentes provincias y localidades de Argentina, incluyendo datos demográficos, de acceso a servicios de comunicación y ubicaciones geográficas. A continuación, se detallan las columnas presentes en el conjunto de datos:
 
-* Year: Año de los datos.
-  
-* Quarter: Trimestre del año al que pertenecen los datos.
-  
-* Provincia: Provincia a la que pertenece la información.
-  
-* Partido: Partido dentro de la provincia.
-  
-* Localidad: Nombre de la localidad.
-  
-* Poblacion_2022: Población en el año 2022.
-  
-* Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
-  
-* Acc_cada_100_hab: Acceso a Internet cada 100 habitantes.
-  
-* ADSL_2022: Número de conexiones ADSL en 2022.
-  
-* Cablemodem_2022: Número de conexiones por cable en 2022.
-  
-* Dial Up_2022: Número de conexiones Dial Up en 2022.
-  
-* Fibra optica_2022: Número de conexiones de fibra óptica en 2022.
-  
-* Satelital_2022: Número de conexiones satelitales en 2022.
-  
-* Wireless_2022: Número de conexiones inalámbricas en 2022.
-  
-* Telefonia Fija_2022: Número de líneas de telefonía fija en 2022.
-  
-* 3G_2022: Número de conexiones 3G en 2022.
-  
-* 4G_2022: Número de conexiones 4G en 2022.
-  
-* Cant_ADSL_2022: Cantidad de conexiones ADSL en 2022.
-  
-* Cant_Cablemodem_2022: Cantidad de conexiones por cable en 2022.
-  
-* Cant_DialUp_2022: Cantidad de conexiones Dial Up en 2022.
-  
-* Cant_FibraOptica_2022: Cantidad de conexiones de fibra óptica en 2022.
-  
-* Cant_Otros_2022: Cantidad de otras conexiones en 2022.
-  
-* Cant_Satelital_2022: Cantidad de conexiones satelitales en 2022.
-  
-* Cant_Wimax_2022: Cantidad de conexiones Wimax en 2022.
-  
-* Cant_Wireless_2022: Cantidad de conexiones inalámbricas en 2022.
-  
-* Total_2022: Total de conexiones en 2022.
-  
-* Pob_prov_2022: Población provincial en 2022.
-  
-* Salario_promedio: Salario promedio.
-  
-* Latitud: Coordenada de latitud.
-  
-* Longitud: Coordenada de longitud.
 
-### **Objetivo:**
 
-Algunos posibles objetivos
-
-- [ ] Predecir la cantidad de conexiones de un tipo específico en 2022 en función de otras variables.
-
-- [ ] Predecir la población en 2022 en función de las variables proporcionadas.
-
-- [ ] Analizar la relación entre el acceso a Internet y la población en diferentes regiones.
-
-- [ ] Explorar patrones geográficos en la distribución de conexiones de Internet.
-
-## Carga de datos
-## Fase de análisis exploratorio de datos
-   - Análisis sobre los datos
-   - Tratamiento de los datos anómalos
-## Inspección gráfica de los estadísticos
-   - Observar de manera gráfica si se aprecia relación entre "y" y las "X"
-   - Análisis de datos atípicos.
-   - Distribución de probabilidad de las muestras.
-## Definir modelos a entrenar. 
-   - Al finalizar el ciclo, evaluar el costo computacional (poner un timer).
-## Calcular métricas
-   - Calcular los estadísticos (test y sus pruebas para determinar la consistencia)
-## Evaluar modelos
-   - Determinar qué tipo de problema tiene el modelo y valorar los errores (bias,
-varianza y error irreductible)
-## Conclusión y futuro plan de acción para iniciar otro ciclo
-   - Evaluar hiper parámetros y estrategias de entrenamiento.
 
 
 
