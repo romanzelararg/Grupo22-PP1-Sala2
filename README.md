@@ -42,6 +42,49 @@ El conjunto de datos contiene información relacionada con diferentes provincias
   
 * ADSL_2022: Número de conexiones ADSL en 2022.
 
+  * Cablemodem_2022: Número de conexiones por cable en 2022.
+  
+* Dial Up_2022: Número de conexiones Dial Up en 2022.
+  
+* Fibra optica_2022: Número de conexiones de fibra óptica en 2022.
+  
+* Satelital_2022: Número de conexiones satelitales en 2022.
+  
+* Wireless_2022: Número de conexiones inalámbricas en 2022.
+  
+* Telefonia Fija_2022: Número de líneas de telefonía fija en 2022.
+  
+* 3G_2022: Número de conexiones 3G en 2022.
+  
+* 4G_2022: Número de conexiones 4G en 2022.
+  
+* Cant_ADSL_2022: Cantidad de conexiones ADSL en 2022.
+  
+* Cant_Cablemodem_2022: Cantidad de conexiones por cable en 2022.
+  
+* Cant_DialUp_2022: Cantidad de conexiones Dial Up en 2022.
+  
+* Cant_FibraOptica_2022: Cantidad de conexiones de fibra óptica en 2022.
+  
+* Cant_Otros_2022: Cantidad de otras conexiones en 2022.
+  
+* Cant_Satelital_2022: Cantidad de conexiones satelitales en 2022.
+  
+* Cant_Wimax_2022: Cantidad de conexiones Wimax en 2022.
+  
+* Cant_Wireless_2022: Cantidad de conexiones inalámbricas en 2022.
+  
+* Total_2022: Total de conexiones en 2022.
+  
+* Pob_prov_2022: Población provincial en 2022.
+  
+* Salario_promedio: Salario promedio.
+  
+* Latitud: Coordenada de latitud.
+  
+* Longitud: Coordenada de longitud.
+
+
 ## Enlace de Demostración:
 
 ## Tabla de Contenidos:
