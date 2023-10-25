@@ -56,6 +56,11 @@ _Colaboradores:_
    + Limpieza del dataframe resultande del merge 4
    
    + Exploración Correlacionales y Regresión Logistica
+   + Mapas
+   + DBSCAN
+   + Coeficientes
+   + Regresion Logistica
+   + Regresion Lineal
 
 ## Comprensión Empresarial: :bar_chart:
 
