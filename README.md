@@ -28,7 +28,12 @@ _Colaboradores:_
 
 ## Tabla de Contenidos:
 
-**Análisis Exploratorio de Datos:** :mechanical_arm:
+**Preparacion de los espacios de Trabajo.
+
+   + Creacion Repositorio GitHub.
+   + Creacion Proyecto Trello.
+
+**Análisis Descriptivo del Dataset:** :mechanical_arm:
 
    + Cambios Extructurales.
    
@@ -54,16 +59,23 @@ _Colaboradores:_
    
        - Merge 4 (Salarios promedio y mediano por provincia)
 
-   + Limpieza del dataframe resultande del merge 4
+   ++ Limpieza de datos
+
+   ++ Analisis Exploratorio con Graficos.
+
+   ++ Definir Modelos a Entrenar
+
+   ++ Exploracion de los distintos modelos.
+
+   + Modelo Regresion Lineal.
+
+   + Modelo Regresion Logistica
    
-   + Exploración Correlacionales y Regresión Logística
-   + Mapas
-   + DBSCAN
-   + Coeficientes
-   + Coeficientes Filtrados
-   + K-means
-   + Regresión Logística
-   + Regresión Lineal
+   + Modelo  K-means
+     
+   + Modelo DBSCAN
+
+   ++ Evaluacion Y Conclusion de los distintos Modelos.
 
 ## Comprensión Empresarial: :bar_chart:
 
