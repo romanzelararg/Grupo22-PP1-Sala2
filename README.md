@@ -28,12 +28,12 @@ _Colaboradores:_
 
 ## Tabla de Contenidos:
 
-**Preparacion de los espacios de Trabajo.
+++Preparacion de los espacios de Trabajo.
 
    + Creacion Repositorio GitHub.
    + Creacion Proyecto Trello.
 
-**Análisis Descriptivo del Dataset:**
+++Análisis Descriptivo del Dataset:**
 
    + Cambios Extructurales.
    
