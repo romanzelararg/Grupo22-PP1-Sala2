@@ -33,7 +33,7 @@ _Colaboradores:_
    + Creacion Repositorio GitHub.
    + Creacion Proyecto Trello.
 
-**Análisis Descriptivo del Dataset:** :mechanical_arm:
+**Análisis Descriptivo del Dataset:**
 
    + Cambios Extructurales.
    
