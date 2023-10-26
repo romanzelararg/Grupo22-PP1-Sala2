@@ -216,10 +216,6 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 
 ## Captura de Pantalla de Visualiaciones/Resultados:
 
-## Tecnologías:
-
-## Configuración:
-
 ## Estado
 En Proceso. :construction_worker:
 
