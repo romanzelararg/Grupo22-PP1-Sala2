@@ -2,11 +2,11 @@
 # PRACTICA PROFESIONALIZANTE - ISPC
 ## Sala 2 -Grupo 22
 
-# Titulo del Proyecto: _Predicción de Conectividad y Población en Argentina_ :technologist:
+# Título del Proyecto: _Predicción de Conectividad y Población en Argentina_ :technologist:
 
 _Colaboradores:_  
  
-:woman_technologist: [Barea silvana](https://github.com/recursosssbb) 
+:woman_technologist: [Barea Silvana](https://github.com/recursosssbb) 
     
 :woman_technologist: [Hanún Romina](https://github.com/RomiHanun)
     
@@ -21,18 +21,18 @@ _Colaboradores:_
 :man_technologist: [Zelarayán Román](https://github.com/romanzelararg)
 
 ## Descripción : :globe_with_meridians:
-***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automatico que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
+***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
  
 
 ## Enlace de Demostración:
 
 ## Tabla de Contenidos:
 
-**Analisis Exploratorio de Datos:** :mechanical_arm:
+**Análisis Exploratorio de Datos:** :mechanical_arm:
 
    + Cambios Extructurales.
    
-   + Confeccion de encoding.
+   + Confección de encoding.
    
    + Transformación de los Datos a binarios.
    
@@ -40,15 +40,15 @@ _Colaboradores:_
    
    + Eliminación de datos repetidos.
    
-   + Analisis descriptivo del Dataset.
+   + Análisis descriptivo del Dataset.
    
-   + Analisis y transformación de las variables Provincia-Partido-Población.
+   + Análisis y transformación de las variables Provincia-Partido-Población.
    
-   + Merge con distintas tablas de interes.
+   + Merge con distintas tablas de interés.
    
-       - Merge 1 (Accesos a internet fijo por tecnologia y localidad).
+       - Merge 1 (Accesos a internet fijo por tecnología y localidad).
    
-       - Merge 2 (Se agregan los datos de población por provincia al dataframe de base.
+       - Merge 2 (Se agregan los datos de población por provincia al dataframe de base).
    
        - Merge 3 (Acceso a internet por cada 100 habitantes y por cada 100 hogares).
    
@@ -56,14 +56,14 @@ _Colaboradores:_
 
    + Limpieza del dataframe resultande del merge 4
    
-   + Exploración Correlacionales y Regresión Logistica
+   + Exploración Correlacionales y Regresión Logística
    + Mapas
    + DBSCAN
    + Coeficientes
    + Coeficientes Filtrados
    + K-means
-   + Regresion Logistica
-   + Regresion Lineal
+   + Regresión Logística
+   + Regresión Lineal
 
 ## Comprensión Empresarial: :bar_chart:
 
@@ -79,15 +79,15 @@ _Objetivos Específicos:_
 
  - [x] Predecir la conectividad a internet de una localidad en función de su población, ubicación geográfica, infraestructura, etc.
 
- - [x] Predecir la cantidad de conecciones de un tipo especifico en 2022 en funcion de otras variables.
+ - [x] Predecir la cantidad de conecciones de un tipo especifico en 2022 en función de otras variables.
 
- - [x] Predecir la poblacion en 2022 en funcion de las variables proporcionadas.
+ - [x] Predecir la poblacion en 2022 en función de las variables proporcionadas.
        
  - [x] Clasificar las localidades en función de su conectividad a internet.
 
- - [x] Analizar la relacion entre el acceso a internet y la poblacion en diferentes regiones.
+ - [x] Analizar la relacion entre el acceso a internet y la población en diferentes regiones.
 
- - [x] Explorar patrones en la distribucion de conexiones de Internet.
+ - [x] Explorar patrones en la distribución de conexiones de Internet.
 
  - [x] Identificar patrones significativos y correlaciones entre la conectividad a internet y la población de las localidades.
 
@@ -97,10 +97,10 @@ _Objetivos Específicos:_
        
 
 ## Comprensión de Datos: :card_index_dividers:
-1. _Los  dataset utilizados corresponden a la pagina de ENACOM (Ente Nacional de Comunicaciones)_ 
+1. _Los  dataset utilizados corresponden a la página de ENACOM (Ente Nacional de Comunicaciones)_ 
 https://datosabiertos.enacom.gob.ar/dataviews/241175/conectividad-al-servicio-de-internet/
 
-    - _Se realizo la concatenación de los dataset para la obtención de mayor cantidad de datos._ 
+    - _Se realizó la concatenación de los dataset para la obtención de mayor cantidad de datos._ 
 https://datosabiertos.enacom.gob.ar/dataviews/252830/accesos-a-internet-fijo-por-tecnologia-y-localidad/ 
 
     - _Confeccionamos un tablero Trello, utilizando esta herramienta de gestión de Proyectos, con el fin de obtener organización , colaboración, seguimiento del progreso y gestionar de manera efectiva todas las etapas del Proyecto.Link Trello:_ https://trello.com/w/proyectogrupo22pp1
@@ -117,7 +117,7 @@ El conjunto de datos contiene información relacionada con diferentes provincias
   
 * Localidad: Nombre de la localidad.
   
-* Poblacion_2022: Población en el año 2022.
+* Población_2022: Población en el año 2022.
   
 * Acc_cada_100_hog: Acceso a Internet cada 100 hogares.
   
@@ -180,7 +180,7 @@ _El marco conceptual de este proyecto se basa en las siguientes áreas:_
 
 *	Análisis de correlación: El análisis de correlación es el proceso de medir la relación entre dos variables.
 
-## Metodologia: :clipboard:
+## Metodología: :clipboard:
 _La metodología que se utilizará en este proyecto se basa en los siguientes pasos:_
 
 1.	Obtención de los datos: Los datos se obtendrán del dataset "Conectividad al servicio de Internet (Argentina)" publicado por el Ente Nacional de Comunicaciones (ENACOM).
@@ -204,7 +204,7 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 
 ## Captura de Pantalla de Visualiaciones/Resultados:
 
-## Tecnologias:
+## Tecnologías:
 
 ## Configuración:
 
@@ -224,7 +224,7 @@ Para mejorar el sistema de aprendizaje automático desarrollado en este proyecto
 También se recomienda desarrollar modelos específicos para aplicaciones específicas. Esto ayudará a mejorar el rendimiento del sistema en estas aplicaciones.
 
 
-## Conclusion:
+## Conclusión:
 ***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
 
                                                                                               
