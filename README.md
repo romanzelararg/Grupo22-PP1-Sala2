@@ -5,9 +5,7 @@
 # Título del Proyecto: _Predicción de Conectividad y Población en Argentina_ :technologist:
 
 _Colaboradores:_  
- 
-:woman_technologist: [Barea Silvana](https://github.com/recursosssbb) 
-    
+     
 :woman_technologist: [Hanún Romina](https://github.com/RomiHanun)
     
 :man_technologist: [Juchniewicz Federico](https://github.com/FJISPC)  
