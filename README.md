@@ -233,7 +233,13 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 
 
 ## Conclusión:
-***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
+***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar significativamente la conectividad a Internet en Argentina. Su potencial impacta tanto en el ámbito social como el económico, al abrir nuevas oportunidades para el desarrollo y la calidad de vida. de las personas en todo el país. Las autoridades gubernamentales tienen a su disposición una herramienta que les permite identificar con precisión las localidades con baja conectividad y asiplanificar y  desarrollar políticas y estrategias específicas para abordar esta brecha digital.
+
+A medida que avanzamos hacia el futuro, este proyecto tiene el potencial de evolucionar y adaptarse a las cambiantes condiciones de conectividad, contribuyendo a mantener a Argentina a la vanguardia de las infraestructuras digitales. Además, fomenta la colaboración interinstitucional entre el gobierno, organizaciones sin fines de lucro, empresas privadas y la sociedad civil, trabajando juntos para garantizar que todos los ciudadanos tengan igualdad de acceso a la información y las oportunidades en línea.
+
+Es fundamental establecer un sistema de monitoreo y evaluación continua que permita medir el impacto de las políticas implementadas a partir de los resultados de este proyecto. La transparencia en la difusión de la información generada es clave para que todos los interesados ​​puedan acceder a los resultados y comprender las acciones tomadas.
+
+Así  este proyecto sienta las bases para una Argentina mejor conectada, más equitativa y en constante crecimiento digital. Su potencial es inmenso, y su impacto perdurará en el tiempo, brindando a las generaciones futuras una infraestructura digital sólida y oportunidades infinitas***
 
                                                                                               
 
