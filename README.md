@@ -26,10 +26,10 @@ _Colaboradores:_
 
 ## Tabla de Contenidos:
 
-++Preparacion de los espacios de Trabajo.
+++Preparación de los espacios de Trabajo.
 
-   + Creacion Repositorio GitHub.
-   + Creacion Proyecto Trello.
+   + Creación Repositorio GitHub.
+   + Creación Proyecto Trello.
 
 ++Análisis Descriptivo del Dataset:**
 
@@ -59,21 +59,21 @@ _Colaboradores:_
 
    ++ Limpieza de datos
             
-   ++ Analisis Exploratorio con Graficos.
+   ++ Análisis Exploratorio con Graficos.
 
    ++ Definir Modelos a Entrenar
 
-   ++ Exploracion de los distintos modelos.
+   ++ Exploración de los distintos modelos.
 
-   + Modelo Regresion Lineal.
+   + Modelo Regresión Lineal.
 
-   + Modelo Regresion Logistica
+   + Modelo Regresión Logística
    
    + Modelo  K-means
      
    + Modelo DBSCAN
 
-   ++ Evaluacion Y Conclusion de los distintos Modelos.
+   ++ Evaluación Y Conclusión de los distintos Modelos.
 
 ## Comprensión Empresarial: :bar_chart:
 
@@ -91,11 +91,11 @@ _Objetivos Específicos:_
 
  - [x] Predecir la cantidad de conecciones de un tipo especifico en 2022 en función de otras variables.
 
- - [x] Predecir la poblacion en 2022 en función de las variables proporcionadas.
+ - [x] Predecir la población en 2022 en función de las variables proporcionadas.
        
  - [x] Clasificar las localidades en función de su conectividad a internet.
 
- - [x] Analizar la relacion entre el acceso a internet y la población en diferentes regiones.
+ - [x] Analizar la relación entre el acceso a internet y la población en diferentes regiones.
 
  - [x] Explorar patrones en la distribución de conexiones de Internet.
 
@@ -212,7 +212,7 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 
 :pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
 
-## Captura de Pantalla de Visualiaciones/Resultados:
+## Captura de Pantalla de Visualizaciones/Resultados:
 
 Regresión Logistica
 
