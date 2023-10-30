@@ -218,6 +218,9 @@ Regresión Logistica
 
 ![image](https://github.com/romanzelararg/Grupo22-PP1-Sala2/assets/116818116/9e86a4df-0add-4fdf-95fd-8bfcac1dcb2b)
 
+K-Means
+
+![image](https://github.com/romanzelararg/Grupo22-PP1-Sala2/assets/116818116/a05d9c06-126d-4f83-a562-41ab11bf5fc1)
 
 ## Estado
 En Proceso. :construction_worker:
