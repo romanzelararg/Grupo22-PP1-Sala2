@@ -58,7 +58,7 @@ _Colaboradores:_
        - Merge 4 (Salarios promedio y mediano por provincia)
 
    ++ Limpieza de datos
-
+            
    ++ Analisis Exploratorio con Graficos.
 
    ++ Definir Modelos a Entrenar
