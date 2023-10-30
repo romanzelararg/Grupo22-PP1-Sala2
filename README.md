@@ -213,6 +213,9 @@ _La metodología que se utilizará en este proyecto se basa en los siguientes pa
 :pushpin: •	El sistema de aprendizaje automático desarrollado en este proyecto presenta los resultados de manera comprensible para los usuarios.
 
 ## Captura de Pantalla de Visualiaciones/Resultados:
+
+Regresión Logistica
+
 ![image](https://github.com/romanzelararg/Grupo22-PP1-Sala2/assets/116818116/9e86a4df-0add-4fdf-95fd-8bfcac1dcb2b)
 
 
