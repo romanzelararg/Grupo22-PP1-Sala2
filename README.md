@@ -22,7 +22,7 @@ _Colaboradores:_
 ***Este proyecto tiene como objetivo desarrollar un sistema de aprendisaje automático que pueda predecir y clasificar la conectividad a internet y la población de las localidades de Argentina , identificar patrones significativos , correlaciones entre otras variables y presentar los resultados de manera comprensible.***
  
 
-## Enlace de Demostración:
+## Enlace de Demostración:https://www.canva.com/design/DAFywakbuoo/BOWJAppxxA8C4_NUmh3gJw/watch?utm_content=DAFywakbuoo&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 ## Tabla de Contenidos:
 
