@@ -239,7 +239,22 @@ También se recomienda desarrollar modelos específicos para aplicaciones espec�
 
 
 ## Conclusión:
-***El sistema de aprendizaje automático desarrollado en este proyecto es una herramienta valiosa para mejorar la conectividad a internet en Argentina. El sistema puede ser utilizado por las autoridades gubernamentales para identificar las localidades con una conectividad a internet baja y desarrollar políticas para mejorar la conectividad en estas localidades.***
+Si bien nos planteamos al inicio los objetivos de realizar un modelo de Regresión Lineal y otro de Regresión Logística en base a los datos del conjunto de datos, en la marcha descubrimos que tambien se adaptaba mejor un modelo con Algoritmo K-means en función de un posible negocio que se quiera utilizar por parte de los interesados (stakeholders).
+El modelo de Regresión Lineal nos indicó las mejores métricas, como vimos en la conclusión de dicho modelo.
+Pero utilizando el modelo de Algoritmo Kmeans, para la finalidad del estudio a un stakeholder como ENACOM y el Gobierno Nacional que precisen conocer que provincias o localidades necesitan inversión para la instalación de nuevas tecnologías de Internet, el gráfico de resultados proporciona información valiosa.
+	Se concluye con K-means que los clústeres 3 y 4, que representan las provincias y localidades con una densidad baja o muy baja de puntos de acceso a Internet, son los que requieren mayor inversión para mejorar la conectividad.
+Específicamente, el clúster 4, que representa las zonas más aisladas y de difícil acceso, es el que requiere una inversión más urgente.
+	Los clústeres 1 y 2, que representan las provincias y localidades con una densidad alta o media de puntos de acceso a Internet, son los que requieren una inversión menor para mejorar la conectividad.
+
+Recomendaciones:
+El Gobierno Nacional y ENACOM deben priorizar la inversión en las provincias y localidades que pertenecen a los clústeres 3 y 4.
+La inversión debe centrarse en la instalación de nuevas tecnologías de Internet, como la fibra óptica y el 4G o 5G, para mejorar la conectividad en estas zonas.
+Esta inversión ayudará a reducir la brecha digital y a garantizar el acceso a Internet a todos los ciudadanos de Argentina, independientemente de su ubicación geográfica.
+
+Podemos concluir que este trabajo final representa un esfuerzo significativo en la aplicación de técnicas avanzadas de análisis de datos y aprendizaje automático.
+Este proyecto no solo destaca por su enfoque técnico, sino también por su énfasis en el trabajo colaborativo y en grupo. La colaboración es fundamental en el campo de la ciencia de datos, ya que permite aprovechar la diversidad de conocimientos y habilidades de un equipo. La capacidad de trabajar en grupo facilita la resolución de problemas complejos, la generación de ideas y la discusión de enfoques que enriquecen la toma de decisiones. En este proyecto, la colaboración puede haber desempeñado un papel crucial en la selección de variables, la elección de algoritmos de aprendizaje automático y la interpretación de los resultados.
+Para resumir, este proyecto demuestra cómo las técnicas de ciencia de datos pueden aplicarse de manera efectiva para abordar problemas del mundo real, como la predicción de la conectividad a internet y la población de localidades en Argentina. Además, resalta la importancia de la colaboración y el trabajo en grupo en la obtención de resultados más sólidos y completos. Estos enfoques son esenciales en el mundo actual, donde la recopilación y el análisis de datos desempeñan un papel fundamental en la toma de decisiones informadas y en la resolución de desafíos complejos.
+
 
                                                                                               
 
