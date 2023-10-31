@@ -223,7 +223,7 @@ K-Means
 ![image](https://github.com/romanzelararg/Grupo22-PP1-Sala2/assets/116818116/a05d9c06-126d-4f83-a562-41ab11bf5fc1)
 
 ## Estado
-En Proceso. :construction_worker:
+Finalizado :construction_worker:
 
 ## Limitaciones:
 > [!IMPORTANT]
